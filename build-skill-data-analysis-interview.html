@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Data Analysis Interview Skill | AI Native Operator</title>
+    <meta
+      name="description"
+      content="A Codex Skill for structuring data analysis interview answers from problem classification to execution-ready reasoning."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="AI Native Operator home"><span class="brand-mark" data-logo="ano-monogram" aria-hidden="true"><span class="monogram-letter">A</span><span class="monogram-letter">N</span><span class="monogram-letter">O</span></span><span>AI Native Operator</span></a>
+      <nav class="nav" aria-label="Primary navigation"><a href="index.html#philosophy">Philosophy</a><a href="explore.html">Explore</a><a href="build.html">Build</a><a href="share.html">Share</a></nav>
+    </header>
+
+    <main id="top">
+      <section class="section-shell skill-detail">
+        <a class="back-link" href="build-skills.html">Back to Skills Library</a>
+
+        <section class="skill-hero" aria-labelledby="skill-title">
+          <div>
+            <p class="section-kicker">Codex Skill</p>
+            <h1 id="skill-title">Data Analysis Interview Skill</h1>
+            <p class="page-intro">
+              A Codex Skill for structuring data analysis interview answers from problem classification to execution-ready reasoning.
+            </p>
+            <p>
+              这是一个面向 DA / BA / Product Analyst 面试的数据分析答题 Skill。它把常见业务分析问题先归类，
+              再调用对应分析框架，最后输出具体执行步骤和可直接复述的面试表达。
+            </p>
+          </div>
+          <aside class="skill-meta" aria-label="Skill metadata">
+            <span>Scope</span>
+            <strong>Interview + Business Analysis</strong>
+            <span>Format</span>
+            <strong>Codex Skill</strong>
+            <span>Repository</span>
+            <a href="https://github.com/Zhenyu0521/data-analysis-interview-skill" target="_blank" rel="noreferrer">GitHub</a>
+          </aside>
+        </section>
+
+        <section class="detail-section" aria-labelledby="solves-title">
+          <p class="section-kicker">What It Solves</p>
+          <h2 id="solves-title">把零散想法整理成面试官能听懂的分析路径。</h2>
+          <div class="detail-grid">
+            <article><h3>回答容易散</h3><p>先分类再展开，避免直接罗列指标和建议。</p></article>
+            <article><h3>题型容易混</h3><p>区分指标体系、异动排查、业务优化和实验设计。</p></article>
+            <article><h3>缺少执行感</h3><p>把框架落到指标、拆解、下钻、验证和后续动作。</p></article>
+            <article><h3>表达不够面试化</h3><p>补充可直接复述的「面试表达」，让答案更完整。</p></article>
+          </div>
+        </section>
+
+        <section class="detail-section" aria-labelledby="types-title">
+          <p class="section-kicker">Question Types Covered</p>
+          <h2 id="types-title">覆盖四类高频数据分析面试题。</h2>
+          <div class="module-stack compact-stack">
+            <article class="module-card"><span class="pillar-index">01</span><h3>Indicator System Design</h3><p>指标体系、核心指标、业务看板，以及如何衡量产品、模块或功能健康度。</p></article>
+            <article class="module-card"><span class="pillar-index">02</span><h3>Anomaly Diagnosis</h3><p>DAU、GMV、CTR、转化率等指标下滑或波动时，如何确认口径、拆解贡献并定位原因。</p></article>
+            <article class="module-card"><span class="pillar-index">03</span><h3>Business Optimization</h3><p>围绕评论率、投稿率、活跃、留存、GMV 等目标，提出分析方法和优化策略。</p></article>
+            <article class="module-card"><span class="pillar-index">04</span><h3>AB Testing</h3><p>设计实验验证策略是否有效，并解释 p-value、MDE、样本量、实验周期和上线判断。</p></article>
+          </div>
+        </section>
+
+        <section class="detail-section" aria-labelledby="works-title">
+          <p class="section-kicker">How It Works</p>
+          <h2 id="works-title">三步把问题变成结构化答案。</h2>
+          <div class="process-row">
+            <article><span>01</span><h3>Classify</h3><p>判断问题属于哪类数据分析题；混合题会先确定处理顺序。</p></article>
+            <article><span>02</span><h3>Frame</h3><p>调用对应框架，先讲分析思路，而不是直接给零散建议。</p></article>
+            <article><span>03</span><h3>Execute</h3><p>输出具体指标、拆解方式、维度下钻、验证方法和面试表达。</p></article>
+          </div>
+        </section>
+
+        <section class="detail-section" aria-labelledby="format-title">
+          <p class="section-kicker">Output Format</p>
+          <h2 id="format-title">默认输出结构。</h2>
+          <pre class="code-panel"><code>问题分类
+这是哪一类问题，以及为什么。
+
+分析思路
+用什么框架拆解这个问题。
+
+具体执行
+具体看哪些指标、做哪些拆解、按哪些维度下钻、如何验证。
+
+面试表达
+如果在面试里，可以这样说：……</code></pre>
+        </section>
+
+        <section class="detail-section" aria-labelledby="prompts-title">
+          <p class="section-kicker">Example Prompts</p>
+          <h2 id="prompts-title">可以直接用这些问题测试它。</h2>
+          <ul class="prompt-list">
+            <li>如果我想给美团外卖建设一套指标体系，该怎么办？</li>
+            <li>假如用户的下单转化率持续两周下降，你会怎么分析原因？</li>
+            <li>如何提升小红书评论率？</li>
+            <li>如果一个新策略实验一周后已经显著，是否可以提前停止？</li>
+          </ul>
+        </section>
+
+        <section class="detail-section" aria-labelledby="install-title">
+          <p class="section-kicker">Installation</p>
+          <h2 id="install-title">安装到 Codex Skills 目录。</h2>
+          <pre class="code-panel"><code>git clone https://github.com/Zhenyu0521/data-analysis-interview-skill.git ~/.codex/skills/data-analysis-interview</code></pre>
+        </section>
+
+        <section class="detail-section final-note" aria-labelledby="status-title">
+          <p class="section-kicker">Current Status</p>
+          <h2 id="status-title">当前偏面试训练，未来可以扩展成真实业务交付模式。</h2>
+          <p>
+            现阶段它更适合用于数据分析面试准备、业务分析框架训练和模拟问答。
+            后续可以继续扩展到 BI 看板设计、字段口径、数据源需求、监控规则和真实业务诊断。
+          </p>
+        </section>
+      </section>
+    </main>
+
+    <script src="script.js?v=split-pages"></script>
+  </body>
+</html>
