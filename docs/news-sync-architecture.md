@@ -45,6 +45,20 @@ The shared skill at `https://github.com/zarazhangrui/follow-builders/blob/main/S
 3. Wrap that raw digest into the date-grouped website schema above.
 4. Commit the updated `data/news.json` back to this website repository.
 
+## Implemented No-API Automation
+
+The first automation pass does not call an LLM API. Instead, the website repository owns a deterministic wrapper:
+
+1. `.github/workflows/update-news.yml` runs daily at `08:00 Asia/Shanghai` and can also be started manually.
+2. `scripts/update-news.mjs` fetches the public `follow-builders` feeds directly:
+   - `feed-x.json`
+   - `feed-blogs.json`
+   - `feed-podcasts.json`
+3. The script transforms those feeds into the website schema and keeps the latest seven date groups.
+4. The workflow commits `data/news.json` only when the generated file changes.
+
+Trade-off: because no LLM is used, summaries are semi-processed excerpts rather than polished Chinese analysis. This keeps the workflow free of API keys and makes the daily update reliable enough to validate the product loop.
+
 ## Information Needed From The User
 
 To connect the automation, we need one of these:

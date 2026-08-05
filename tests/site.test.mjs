@@ -184,10 +184,15 @@ test("news data file uses the website news schema", () => {
   assert.ok(Array.isArray(news.groups));
   assert.ok(news.groups.length >= 2);
   assert.match(news.updatedAt, /^\d{4}-\d{2}-\d{2}$/);
-  assert.equal(news.updatedAt, "2026-07-11");
-  assert.equal(news.groups[0].date, "2026-07-11");
-  assert.equal(news.groups[1].date, "2026-07-10");
-  assert.equal(news.groups[0].sections.podcasts[0].title, "Stripe's AI Chief: How AI Agents Will Buy, Sell, and Pay");
+  assert.equal(news.updatedAt, news.groups[0].date);
+
+  const sortedDates = news.groups
+    .map((group) => group.date)
+    .sort((a, b) => String(b).localeCompare(String(a)));
+  assert.deepEqual(
+    news.groups.map((group) => group.date),
+    sortedDates,
+  );
 
   for (const group of news.groups) {
     assert.match(group.date, /^\d{4}-\d{2}-\d{2}$/);

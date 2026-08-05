@@ -38,7 +38,7 @@
         <section class="news-panel" id="news" aria-labelledby="news-title">
           <div class="news-panel-heading">
             <p class="section-kicker">News</p>
-            <div>
+            <div class="news-heading-copy">
               <h1 id="news-title">AI Signals</h1>
               <p>
                 每天从 builder 动态和长内容里提炼少量值得关注的 AI 信号，服务于工作方式判断，而不是制造信息焦虑。
@@ -62,6 +62,309 @@
       </section>
     </main>
 
+    <script type="application/json" id="news-data">{
+  "updatedAt": "2026-08-04",
+  "workflow": "follow-builders",
+  "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-08-04",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 12,
+        "totalTweets": 22,
+        "blogPosts": 3,
+        "feedGeneratedAt": "2026-08-04T07:11:41.799Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Given some of the results I'm seeing recently, it's pretty clear Codex is a good harness. But it will seem primitive in 2-3 months and we're about to go through another major evolution in how we use AI at the frontier.… / Crazy thing about OpenAI is you just open your laptop, codex a PR into existence and ship an improvement to 1B users. Just like that.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2084483765158719542",
+              "https://x.com/thsottiaux/status/2084196918071357707"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. / do it here",
+            "urls": [
+              "https://x.com/trq212/status/2084387303959740449",
+              "https://x.com/trq212/status/2084387305436164162"
+            ]
+          },
+          {
+            "author": "Amanda Askell",
+            "role": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All…",
+            "summary": "I don't agree with this part. I think the takeaway should be that models (like humans) can behave in aligned ways while still causing harm, e.g. because they're given false information about their situation. There isn't… / It's surprisingly difficult to acquire a hereditary peerage in the UK. Like you can't even take one by force any more, and they just get mad at you if you try.",
+            "urls": [
+              "https://x.com/AmandaAskell/status/2084369056765989224",
+              "https://x.com/AmandaAskell/status/2084519165021528263"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "lol what are we even doing here anymore guys / linking my main cua wow moments thread  but this one is just about do we need captchas anymore when clearly bots can clear them",
+            "urls": [
+              "https://x.com/swyx/status/2084185368950456421",
+              "https://x.com/swyx/status/2084312752437481937"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "Next.js 16.3: faster, better, stronger. My highlights: 0️⃣ Faster dev & builds Shoutout to Fable for improving memory use, and the team for landing the incremental 𝚗𝚎𝚡𝚝 𝚋𝚞𝚒𝚕𝚍 cache. 1️⃣ Instant navigations are… / The new AI Gateway logs UI is delightful",
+            "urls": [
+              "https://x.com/rauchg/status/2084411344623902994",
+              "https://x.com/rauchg/status/2084426730241220703"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "We built a self-driving & self-correcting shared semantic layer on top of our databases, conversations, and docs. Everything is queryable & joinable—regardless of source! So now anyone at Replit can ask questions that p…",
+            "urls": [
+              "https://x.com/amasad/status/2084415670486499779"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "My 6 biggest takeaways from @karan4d, @NousResearch co-founder, on getting the most out of Hermes Agent: 1. The “personal” in personal agent is not the model It’s the agent’s memory of your conversations and the skills… / ChatGPT is for creating memories",
+            "urls": [
+              "https://x.com/petergyang/status/2084289426012897433",
+              "https://x.com/petergyang/status/2084438872944242932"
+            ]
+          },
+          {
+            "author": "Dan Shipper",
+            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
+            "summary": "one of the deepest interviews I’ve done",
+            "urls": [
+              "https://x.com/danshipper/status/2084376873887576482"
+            ]
+          },
+          {
+            "author": "Aditya Agarwal",
+            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
+            "summary": "My favorite personal and company value @spc is that you can \"just do things\". If you see something you think can be better --> just make it happen. How did @shreepoorna365 build a flight-worthy aircraft in 150 days? By… / We caught up with the @arctusaerospace team",
+            "urls": [
+              "https://x.com/adityaag/status/2084323290605113711",
+              "https://x.com/adityaag/status/2084323292471533956"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "Another day another near frontier open weights model release. If you had gone back even 3-6 months and given everyone access to what we’re now seeing in open weights even as a closed model, their minds would be complete…",
+            "urls": [
+              "https://x.com/levie/status/2084510498519933318"
+            ]
+          }
+        ],
+        "official_blogs": [
+          {
+            "source": "Anthropic Engineering",
+            "title": "An update on recent Claude Code quality reports",
+            "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116). In this post, we e…",
+            "url": "https://www.anthropic.com/engineering/april-23-postmortem"
+          },
+          {
+            "source": "Anthropic Engineering",
+            "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+            "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently…",
+            "url": "https://www.anthropic.com/engineering/managed-agents"
+          },
+          {
+            "source": "Claude Blog",
+            "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+            "summary": "Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run within the established boundaries of your enterprise, under your security and runtime controls. The sandbox runs on you…",
+            "url": "https://claude.com/blog/claude-managed-agents-updates"
+          }
+        ],
+        "podcasts": [
+          {
+            "source": "Unsupervised Learning",
+            "title": "AI Vibe Check: Chinese Open Models, Distillation &amp; The Hugging Face Breach",
+            "summary": "Speaker 1 | 00:00 - 00:06 My mom, like, knows nothing about AI. She texted me last week, Rob, what do you think about OpenAI's agents hacking into Hugging Face? Speaker 2 | 00:06 - 00:07 What did you make of it? Speaker 3 | 00:07 - 00:12 I think this is actually a great example of why open models of that capability are important. Speaker 2 | 00:12 - 00:16 H…",
+            "url": "https://www.youtube.com/watch?v=_GlSkJjRDMM"
+          }
+        ]
+      },
+      "errors": [
+        "Podcast feed problem: Podcast: Transcript error for \"The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
+      ]
+    },
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-07-11",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 0,
+        "totalTweets": 0,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-07-11T07:00:56.864Z"
+      },
+      "sections": {
+        "x_twitter": [],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "The MAD Podcast with Matt Turck",
+            "title": "Stripe's AI Chief: How AI Agents Will Buy, Sell, and Pay",
+            "summary": "Stripe 的 AI 负责人 Emily Sands 讨论了 agentic commerce 的基础设施：商家需要把商品目录、库存和价格暴露给 AI surface，用户需要能授权 agent 付款，agent 则需要在不接触原始支付凭证的情况下安全执行交易。她把 agent commerce 分成从人类主导购买到完全自主交易的多个层级，并强调短期阻碍主要不是想象力，而是信任、支付 token 安全、消费 guardrails 和用户体验的逐步成熟。",
+            "url": "https://www.youtube.com/@DataDrivenNYC/videos"
+          }
+        ]
+      },
+      "errors": [
+        "X API: User lookup failed for configured builders: HTTP 402"
+      ]
+    },
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-07-10",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 20,
+        "totalTweets": 40,
+        "blogPosts": 3,
+        "feedGeneratedAt": "2026-07-09T07:28:29.483Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Swyx",
+            "summary": "Swyx 关注两个信号：一是演示材料正在从“AI 味很重的精致模板”回到手绘、简洁、有人的痕迹；二是 agent 公司对中国模型的使用仍然敏感，但真正难的是把多语言宣传/审查 eval、post-training 修正和低成本高速 serving 做到生产级。",
+            "urls": [
+              "https://x.com/swyx/status/2074953099748450346",
+              "https://x.com/swyx/status/2074919183947808881"
+            ]
+          },
+          {
+            "author": "Boris Cherny",
+            "role": "Claude Code @ Anthropic",
+            "summary": "Boris Cherny 发布 Claude Code 的 `/checkup`：它会清理未使用的 skills/MCPs/plugins、去重 CLAUDE.md、拆分根目录配置、关闭慢 hooks、更新版本、开启 auto mode，并预批准常见只读命令。",
+            "urls": [
+              "https://x.com/bcherny/status/2074997570317779038"
+            ]
+          },
+          {
+            "author": "Nan Yu",
+            "role": "Head of Product @ Linear",
+            "summary": "Nan Yu 给了一个很实用的 PMM 视角：营销不是只写给“你的受众”，而是写给“你的受众再转述给他们的受众”。她还用《Glengarry Glen Ross》里的奖励结构说明 power law 如何塑造行为。",
+            "urls": [
+              "https://x.com/thenanyu/status/2074907752829223043",
+              "https://x.com/thenanyu/status/2074901281466896694"
+            ]
+          },
+          {
+            "author": "Cat Wu",
+            "role": "Claude Code + Cowork @ Anthropic",
+            "summary": "Cat Wu 预告 Claude Tag walkthrough：从单人 Claude Code 到多人 Claude Tag，重点是 agent 不只是写功能，而是能监控渠道、主动做事、被团队共同 steering，并记住上周交代过的事。",
+            "urls": [
+              "https://x.com/_catwu/status/2074925531519468012"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @ Anthropic",
+            "summary": "Thariq 认为大家该更新对软件工程的判断：rewrites 可以变得又好、又便宜、又快。前提是可测试、可验证，但模型会继续补齐这些缺口。",
+            "urls": [
+              "https://x.com/trq212/status/2074993112217461020"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "CEO @ Replit",
+            "summary": "Amjad Masad 提了一个类比：我们什么时候停止拿 autonomous agents 跟手写代码比较？就像不会拿编译器去跟手写汇编的工程师比较。他还在试探 Replit 是否应该加入 CAD/3D 建模。",
+            "urls": [
+              "https://x.com/amasad/status/2075080984211624154",
+              "https://x.com/amasad/status/2075003156745089264"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "CEO @ Vercel",
+            "summary": "Guillermo Rauch 的判断是：AI 会让所有软件更 Native，性能和平台亲和力会重新变得重要。他还提到 Grok 4.5 已面向 Vercel 客户开放，以及 agent stack 的组件正在拼起来。",
+            "urls": [
+              "https://x.com/rauchg/status/2075018147330232707",
+              "https://x.com/rauchg/status/2074920996201796067",
+              "https://x.com/rauchg/status/2074874713143460150"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "CEO @ Box",
+            "summary": "Aaron Levie 认为最新模型正在显著增强复杂知识工作，尤其是法律、专业服务、医疗等垂直领域。随着模型在 coding、math、reasoning 和行业知识上变强，企业文档和数据的可用性会继续跃迁。",
+            "urls": [
+              "https://x.com/levie/status/2075073587015516228"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "summary": "Zara Zhang 提出一个很值得企业 AI 团队警惕的问题：当团队成员都整天和 Codex 对话，会议取消、协作减少，团队文化可能变差。她认为下一步不是 human-human 或 human-agent，而是 human-human-agent collaboration。",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2075004775436005687",
+              "https://x.com/zarazhangrui/status/2075003007520096416",
+              "https://x.com/zarazhangrui/status/2074998060162375832"
+            ]
+          },
+          {
+            "author": "Aditya Agarwal",
+            "role": "General Partner @ South Park Commons",
+            "summary": "Aditya Agarwal 鼓励创始人“不要浪费这个时刻”：如果还只做纯软件，就需要一个会被朋友嘲笑的异端 thesis。他们更想找硬件 tinkerer、mad scientist、biohacker 这类愿意碰 atoms 的人。",
+            "urls": [
+              "https://x.com/adityaag/status/2074892507306238235",
+              "https://x.com/adityaag/status/2074892952233705956"
+            ]
+          }
+        ],
+        "official_blogs": [
+          {
+            "source": "Anthropic Engineering",
+            "title": "An update on recent Claude Code quality reports",
+            "summary": "Anthropic 解释了最近 Claude Code/Agent SDK/Cowork 质量反馈背后的三个问题：默认 reasoning effort 从 high 降到 medium、idle session 清理 thinking 的 bug、以及降低 verbosity 的 prompt 改动。API 和 inference layer 未受影响，相关问题已在 2026-04-20 的 v2.1.116 修复。",
+            "url": "https://www.anthropic.com/engineering/april-23-postmortem"
+          },
+          {
+            "source": "Anthropic Engineering",
+            "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+            "summary": "Anthropic 把 Managed Agents 的核心设计讲成“brain”和“hands”解耦：session 是可恢复的事件日志，harness 负责调 Claude 和路由工具，sandbox 执行具体动作。重点是让长期任务更可靠、更安全，也避免把凭证暴露给 agent 生成代码运行的环境。",
+            "url": "https://www.anthropic.com/engineering/managed-agents"
+          },
+          {
+            "source": "Claude Blog",
+            "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+            "summary": "Claude Managed Agents 新增 self-hosted sandboxes 和 MCP tunnels：企业可以把执行环境放在自己的基础设施或 Cloudflare、Daytona、Modal、Vercel 等 provider 中，同时通过 MCP tunnels 访问私有网络内的工具和服务。",
+            "url": "https://claude.com/blog/claude-managed-agents-updates"
+          }
+        ],
+        "podcasts": [
+          {
+            "source": "AI & I by Every",
+            "title": "How a Writer Uses AI Without Losing His Voice",
+            "summary": "核心 takeaway：AI 可以极大增强一个创作者的工具能力，但真正稀缺的仍然是深度注意力、个人声音和对自己作品边界的保护。嘉宾强调自己会用 AI 做 research、查资料、修代码、重建 newsletter 软件，甚至把年成本从数万美元级降到很低；但写作本身仍然尽量不用 AI，因为他认为那部分“奇怪的书”和独特思考，是最值得自己亲手投入的东西。一个很鲜明的工作方式是：早上不碰手机、不上网，甚至有一台只能写作的 laptop，用外部限制保护深度思考。",
+            "url": "https://www.youtube.com/watch?v=7ND0lQmLJlA"
+          }
+        ]
+      },
+      "errors": [
+        "Podcast feed problem: Podcast: Transcript error for \"Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
+      ]
+    }
+  ]
+}</script>
     <script src="script.js?v=split-pages"></script>
   </body>
 </html>

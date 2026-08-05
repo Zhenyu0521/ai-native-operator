@@ -149,6 +149,17 @@ const renderStats = (stats) => {
 const sortNewsGroups = (groups) =>
   [...groups].sort((a, b) => String(b.date).localeCompare(String(a.date)));
 
+const readEmbeddedNews = () => {
+  const embedded = document.getElementById("news-data");
+  if (!embedded?.textContent) return null;
+
+  try {
+    return JSON.parse(embedded.textContent);
+  } catch {
+    return null;
+  }
+};
+
 const renderNewsGroups = (groups) => {
   if (!newsList) return;
 
@@ -182,6 +193,17 @@ const renderNewsGroups = (groups) => {
 
 const loadNews = async () => {
   if (!newsList) return;
+
+  const embeddedNews = readEmbeddedNews();
+  if (embeddedNews) {
+    renderNewsGroups(embeddedNews.groups || []);
+
+    if (newsUpdated) {
+      newsUpdated.textContent = embeddedNews.updatedAt
+        ? `Last sync ${embeddedNews.updatedAt}`
+        : "Last sync unavailable";
+    }
+  }
 
   try {
     const response = await fetch("./data/news.json");
