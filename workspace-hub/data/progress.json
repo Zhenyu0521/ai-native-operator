@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-05",
+  "project": {
+    "name": "个人网站制作",
+    "mode": "Personal site build workspace"
+  },
+  "highlights": [
+    "首页已经拆分为独立页面结构，首页停在 Philosophy。",
+    "Explore / Build / Share 已经独立成页面，并带有纵向模块入口。",
+    "Build / Skills 已加入 Data Analysis Interview Skill 的技能库入口和详情页。",
+    "Explore / News 继续承载 AI Signals 数据流。",
+    "Explore / News 已新增无 API 的每日自动更新脚本和 GitHub Actions workflow。",
+    "生产站点已部署到 Tencent Cloud Lighthouse，域名为 https://siyu0529.com。",
+    "GitHub Actions Deploy site 已打通，push 到 main 后会自动同步到 /var/www/siyu0529.com。"
+  ],
+  "pages": [
+    { "path": "index.html", "title": "Home", "status": "active", "area": "Home" },
+    { "path": "explore.html", "title": "Explore", "status": "active", "area": "Explore" },
+    { "path": "explore-news.html", "title": "AI Signals", "status": "active", "area": "Explore" },
+    { "path": "scripts/update-news.mjs", "title": "News Update Script", "status": "active", "area": "Automation" },
+    { "path": ".github/workflows/update-news.yml", "title": "Daily News Workflow", "status": "active", "area": "Automation" },
+    { "path": ".github/workflows/deploy.yml", "title": "Production Deploy Workflow", "status": "active", "area": "Deployment" },
+    { "path": "docs/deployment-automation.md", "title": "Deployment Automation Notes", "status": "active", "area": "Deployment" },
+    { "path": "build.html", "title": "Build", "status": "active", "area": "Build" },
+    { "path": "build-skills.html", "title": "Skills Library", "status": "active", "area": "Build" },
+    { "path": "build-skill-data-analysis-interview.html", "title": "Data Analysis Interview Skill", "status": "active", "area": "Build" },
+    { "path": "share.html", "title": "Share", "status": "active", "area": "Share" }
+  ],
+  "nextActions": [
+    "每个会话结束前更新 workspace-hub/data/sessions.json。",
+    "把新增页面或完成状态同步到 workspace-hub/data/progress.json。",
+    "把新任务或状态变化同步到 workspace-hub/data/tasks.json。",
+    "后续网站更新走 git push origin main，并在 GitHub Actions / Deploy site 中确认绿色运行。",
+    "后续可评估是否从无 API 摘要升级为 LLM 精炼中文摘要。"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-05",
+  "lanes": ["backlog", "doing", "review", "done"],
+  "tasks": [
+    {
+      "id": "site-build-skills-library",
+      "title": "完善 Build / Skills Library 和 Data Analysis Interview Skill 详情页",
+      "area": "Build",
+      "status": "done",
+      "owner": "Codex",
+      "priority": "high",
+      "links": ["build-skills.html", "build-skill-data-analysis-interview.html"],
+      "notes": "已完成技能库入口、详情页内容和测试覆盖。"
+    },
+    {
+      "id": "site-explore-news",
+      "title": "维护 Explore / News 的 AI Signals 数据流",
+      "area": "Explore",
+      "status": "done",
+      "owner": "Codex",
+      "priority": "medium",
+      "links": ["explore-news.html", "data/news.json", "scripts/update-news.mjs", ".github/workflows/update-news.yml"],
+      "notes": "已新增无 API 自动更新脚本、每日 GitHub Actions workflow，并微调 AI Signals 标题区间距。"
+    },
+    {
+      "id": "site-explore-news-polish",
+      "title": "持续迭代 Explore / News 的内容质量和阅读体验",
+      "area": "Explore",
+      "status": "backlog",
+      "owner": "Zhenyu",
+      "priority": "medium",
+      "links": ["explore-news.html", "data/news.json"],
+      "notes": "当前自动版不使用 API，摘要为半加工英文 excerpt；后续可升级为中文精炼、信号分层、筛选标签或更强版式。"
+    },
+    {
+      "id": "site-production-deploy",
+      "title": "配置 siyu0529.com 生产站点和 GitHub Actions 自动部署",
+      "area": "Deployment",
+      "status": "done",
+      "owner": "Codex",
+      "priority": "high",
+      "links": [".github/workflows/deploy.yml", "docs/deployment-automation.md", "https://siyu0529.com"],
+      "notes": "腾讯云轻量应用服务器、Nginx、HTTPS、GitHub Secrets、SSH deploy key 和 Deploy site workflow 已打通；push 到 main 后自动同步到 /var/www/siyu0529.com。"
+    },
+    {
+      "id": "workspace-control-center",
+      "title": "建设工作区中枢，捕捉多会话进展并管理任务",
+      "area": "Workspace",
+      "status": "doing",
+      "owner": "Codex",
+      "priority": "high",
+      "links": ["workspace-hub/index.html", "workspace-hub/sync.mjs"],
+      "notes": "方案 C 原型：由 git、任务数据、会话日志和测试状态生成 dashboard。"
+    },
+    {
+      "id": "site-content-placeholders",
+      "title": "补全 Explore / Build / Share 下的留白子页面内容",
+      "area": "Content",
+      "status": "backlog",
+      "owner": "Zhenyu",
+      "priority": "medium",
+      "links": ["explore-learning.html", "build-projects.html", "share-career-coaching.html"],
+      "notes": "当前留白页已经有结构，后续逐步填充真实内容。"
+    }
+  ]
+}

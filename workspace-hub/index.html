@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Workspace Control Center</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hub-header">
+      <div>
+        <p class="eyebrow">Personal Site Workspace</p>
+        <h1>Workspace Control Center</h1>
+        <p>一个用于追踪个人网站建设进展、任务状态和多会话交接的本地中枢。</p>
+      </div>
+      <a class="site-link" href="../index.html">Open Site</a>
+    </header>
+
+    <main>
+      <section class="panel overview" data-progress>
+        <div class="panel-heading">
+          <p class="eyebrow">Progress</p>
+          <h2>Loading progress</h2>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-heading">
+          <p class="eyebrow">Pages</p>
+          <h2>Page Map</h2>
+        </div>
+        <div class="page-grid" data-pages></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-heading">
+          <p class="eyebrow">Tasks</p>
+          <h2>Task Board</h2>
+        </div>
+        <div class="kanban" data-tasks></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-heading">
+          <p class="eyebrow">Sessions</p>
+          <h2>Conversation Handoffs</h2>
+        </div>
+        <div class="session-list" data-sessions></div>
+      </section>
+    </main>
+
+    <script src="dashboard.js"></script>
+  </body>
+</html>

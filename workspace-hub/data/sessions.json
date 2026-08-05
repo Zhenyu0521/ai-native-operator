@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-05",
+  "sessions": [
+    {
+      "id": "session-2026-08-05-production-deploy",
+      "date": "2026-08-05",
+      "status": "done",
+      "summary": "完成 siyu0529.com 生产部署链路：腾讯云轻量应用服务器、Nginx、HTTPS、GitHub 仓库、SSH deploy key、Repository secrets 和 GitHub Actions 自动部署均已打通。",
+      "filesChanged": [
+        ".github/workflows/deploy.yml",
+        "docs/deployment-automation.md",
+        "workspace-hub/data/progress.json",
+        "workspace-hub/data/tasks.json",
+        "workspace-hub/data/sessions.json"
+      ],
+      "nextSteps": [
+        "后续网站改动使用 git add / commit / push origin main，等待 Deploy site workflow 变绿后刷新 https://siyu0529.com。",
+        "每日 Update AI Signals 成功后会触发 Deploy site，把最新 News 同步到生产站点。",
+        "如部署失败，优先查看 GitHub Actions 失败步骤日志；常见问题包括 Repository secrets 命名错误、SSH key 不匹配、服务器 sudo 权限或 443 防火墙未放行。"
+      ]
+    },
+    {
+      "id": "session-2026-08-05-explore-news-automation",
+      "date": "2026-08-05",
+      "status": "done",
+      "summary": "为 Explore / News 新增无 API 的每日自动更新链路，并微调 AI Signals 标题与中文说明之间的间距。",
+      "filesChanged": [
+        ".github/workflows/update-news.yml",
+        "scripts/update-news.mjs",
+        "data/news.json",
+        "explore-news.html",
+        "styles.css",
+        "tests/news-update.test.mjs",
+        "tests/site.test.mjs",
+        "docs/news-sync-architecture.md",
+        "workspace-hub/data/progress.json",
+        "workspace-hub/data/tasks.json",
+        "workspace-hub/data/sessions.json"
+      ],
+      "nextSteps": [
+        "推送到 GitHub 后确认 update-news workflow 可手动运行。",
+        "观察无 API 摘要质量是否足够用于公开展示。",
+        "后续可迭代中文精炼摘要、信号标签和更强阅读布局。"
+      ]
+    },
+    {
+      "id": "session-2026-08-03-dashboard-b",
+      "date": "2026-08-03",
+      "status": "active",
+      "summary": "将工作区中枢从方案 C 调整为方案 B：静态 dashboard 读取 progress、tasks、sessions 三份 JSON。",
+      "filesChanged": [
+        "workspace-hub/index.html",
+        "workspace-hub/dashboard.js",
+        "workspace-hub/styles.css",
+        "workspace-hub/data/progress.json",
+        "workspace-hub/data/tasks.json",
+        "workspace-hub/data/sessions.json",
+        "workspace-hub/README.md"
+      ],
+      "nextSteps": [
+        "打开 workspace-hub/index.html 查看 dashboard。",
+        "后续每个建设会话结束时追加或更新 sessions.json。",
+        "当任务状态变化时更新 tasks.json。"
+      ]
+    },
+    {
+      "id": "session-2026-08-03-skills",
+      "date": "2026-08-03",
+      "status": "done",
+      "summary": "完成 Build / Skills Library 和 Data Analysis Interview Skill 详情页。",
+      "filesChanged": [
+        "build-skills.html",
+        "build-skill-data-analysis-interview.html",
+        "styles.css",
+        "tests/site.test.mjs"
+      ],
+      "nextSteps": [
+        "确认安装命令是否改成两行版本。",
+        "补充更多真实 skill 或项目案例。"
+      ]
+    }
+  ]
+}
