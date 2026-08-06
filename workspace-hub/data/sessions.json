@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05",
+  "updatedAt": "2026-08-07",
   "sessions": [
+    {
+      "id": "session-2026-08-07-learning-news-deploy",
+      "date": "2026-08-07",
+      "status": "done",
+      "summary": "读取并发布最新开发进展：News 自动更新测试继续维护，Explore / Learning 从留白页升级为文章库，并新增 AI-Native 工作理念长文模板和文章迁移说明。",
+      "filesChanged": [
+        ".github/workflows/deploy.yml",
+        "explore-learning.html",
+        "learning-ai-native-work-principles.html",
+        "docs/learning-article-migration.md",
+        "docs/deployment-automation.md",
+        "styles.css",
+        "tests/news-update.test.mjs",
+        "tests/site.test.mjs",
+        "workspace-hub/data/progress.json",
+        "workspace-hub/data/tasks.json",
+        "workspace-hub/data/sessions.json"
+      ],
+      "nextSteps": [
+        "推送到 GitHub 后等待 Deploy site workflow 变绿，再刷新 https://siyu0529.com/explore-learning.html。",
+        "后续新增 Learning 文章时复制 learning-ai-native-work-principles.html，并按 docs/learning-article-migration.md 更新卡片。",
+        "继续观察 Update AI Signals 与 Deploy site 的联动是否稳定。"
+      ]
+    },
     {
       "id": "session-2026-08-05-production-deploy",
       "date": "2026-08-05",

@@ -120,6 +120,14 @@ test("daily news workflow runs the no-api update script and commits changes", ()
   assert.doesNotMatch(workflow, /OPENAI_API_KEY/);
 });
 
+test("deployment after a news update checks out the latest main branch", () => {
+  const workflow = readText(".github/workflows/deploy.yml");
+
+  assert.match(workflow, /workflow_run:/);
+  assert.match(workflow, /ref:\s*main/);
+  assert.doesNotMatch(workflow, /workflow_run\.head_sha/);
+});
+
 test("Explore News heading has deliberate spacing between title and Chinese intro", () => {
   const html = readText("explore-news.html");
   const styles = readText("styles.css");

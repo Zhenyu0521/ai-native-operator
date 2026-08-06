@@ -112,7 +112,6 @@ test("explore news detail page exposes the existing News module", () => {
 
 test("blank module pages exist for the split pillar structure", () => {
   for (const path of [
-    "explore-learning.html",
     "explore-tools.html",
     "explore-career.html",
     "build-analytical-structure.html",
@@ -124,6 +123,84 @@ test("blank module pages exist for the split pillar structure", () => {
     assert.equal(existsSync(new URL(`../${path}`, import.meta.url)), true);
     assert.match(readFixture(path), /class="blank-state"/);
   }
+});
+
+test("explore learning page presents article browsing by AI-native category", () => {
+  const learningHtml = readFixture("explore-learning.html");
+
+  assert.match(learningHtml, /id="learning"/);
+  assert.match(learningHtml, /AI-Native 工作理念/);
+  assert.match(learningHtml, /AI-Native 工作方法/);
+  assert.match(learningHtml, /class="learning-category-nav"/);
+  assert.match(learningHtml, /class="learning-article-grid"/);
+  assert.match(learningHtml, /class="learning-card"/);
+  assert.match(learningHtml, /class="learning-card-media"/);
+  assert.match(learningHtml, /class="learning-card-excerpt"/);
+  assert.match(learningHtml, /learning-ai-native-work-principles.html/);
+  assert.match(learningHtml, /AI-Native 不是多用几个工具/);
+  assert.match(learningHtml, /从问题拆解到交付/);
+  assert.doesNotMatch(learningHtml, /class="blank-state"/);
+});
+
+test("explore learning category headings stay readable in Chrome wide viewports", () => {
+  assert.match(
+    styles,
+    /\.learning-section-heading\s*{[^}]*grid-template-columns:\s*1fr/s,
+  );
+  assert.match(
+    styles,
+    /\.learning-section-heading h2\s*{[^}]*font-size:\s*clamp\(30px,\s*4vw,\s*48px\)/s,
+  );
+  assert.match(
+    styles,
+    /\.learning-section-heading h2\s*{[^}]*text-wrap:\s*balance/s,
+  );
+  assert.match(
+    styles,
+    /\.learning-section-heading h2\s*{[^}]*overflow-wrap:\s*anywhere/s,
+  );
+  assert.match(
+    styles,
+    /\.learning-section-heading p:last-child\s*{[^}]*max-width:\s*820px/s,
+  );
+  assert.match(
+    styles,
+    /\.learning-section-heading p:last-child\s*{[^}]*text-wrap:\s*pretty/s,
+  );
+  assert.match(
+    styles,
+    /\.learning-card\s*{[^}]*min-width:\s*0/s,
+  );
+  assert.match(
+    styles,
+    /\.learning-card-body\s*{[^}]*min-width:\s*0/s,
+  );
+  assert.match(
+    styles,
+    /\.learning-card h3\s*{[^}]*overflow-wrap:\s*anywhere/s,
+  );
+});
+
+test("learning article template supports copied long-form posts", () => {
+  const articleHtml = readFixture("learning-ai-native-work-principles.html");
+
+  assert.match(articleHtml, /class="[^"]*article-page[^"]*"/);
+  assert.match(articleHtml, /class="article-hero"/);
+  assert.match(articleHtml, /class="article-content"/);
+  assert.match(articleHtml, /AI-Native 工作理念/);
+  assert.match(articleHtml, /AI-Native 不是多用几个工具/);
+  assert.match(articleHtml, /href="explore-learning.html"/);
+  assert.match(articleHtml, /如何复制一篇新文章/);
+});
+
+test("learning article migration guide explains copy-paste publishing flow", () => {
+  const guide = readFixture("docs/learning-article-migration.md");
+
+  assert.match(guide, /复制文章到网站/);
+  assert.match(guide, /learning-ai-native-work-principles.html/);
+  assert.match(guide, /explore-learning.html/);
+  assert.match(guide, /learning-card/);
+  assert.match(guide, /node --test tests\/site\.test\.mjs/);
 });
 
 test("build skills page presents a skill library with the featured data analysis skill", () => {

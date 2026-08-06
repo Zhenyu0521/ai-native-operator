@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05",
+  "updatedAt": "2026-08-07",
   "lanes": ["backlog", "doing", "review", "done"],
   "tasks": [
     {
@@ -32,6 +32,16 @@
       "priority": "medium",
       "links": ["explore-news.html", "data/news.json"],
       "notes": "当前自动版不使用 API，摘要为半加工英文 excerpt；后续可升级为中文精炼、信号分层、筛选标签或更强版式。"
+    },
+    {
+      "id": "site-explore-learning-library",
+      "title": "开发 Explore / Learning 文章库和首篇 AI-Native 工作理念文章",
+      "area": "Explore",
+      "status": "done",
+      "owner": "Codex",
+      "priority": "high",
+      "links": ["explore-learning.html", "learning-ai-native-work-principles.html", "docs/learning-article-migration.md"],
+      "notes": "Learning 已从留白页升级为文章浏览页，包含 AI-Native 工作理念 / 工作方法两个分类、文章卡片、长文模板和复制文章到网站的迁移说明。"
     },
     {
       "id": "site-production-deploy",
