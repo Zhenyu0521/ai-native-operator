@@ -1,7 +1,122 @@
 {
-  "updatedAt": "2026-08-04",
+  "updatedAt": "2026-08-05",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-08-05",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 16,
+        "totalTweets": 35,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-08-05T07:11:53.266Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Sam Altman",
+            "role": "AI is cool i guess",
+            "summary": "i would rather be an optimist and work hard than a pessimist posting about why things won't work. it's much more difficult and the most likely path is failure, but society fails if people don't try. no amount of \"it wil…",
+            "urls": [
+              "https://x.com/sama/status/2084663673570971990"
+            ]
+          },
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "What is my title at OpenAI / Better Cyber. Excited to welcome Halvar Flake to the team soon.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2084738022650892544",
+              "https://x.com/thsottiaux/status/2084859308165271658"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "It's insane that the CA Dem Party is endorsing yes on Prop 40, the asset seizure tax that will destroy the California tax base / If you want housing prices to go down, you build more housing. Markets work. If you want housing prices to go up, you try to abolish rent and foment mass asset seizure and expropriation. The revolution only serves those…",
+            "urls": [
+              "https://x.com/garrytan/status/2084704793432588435",
+              "https://x.com/garrytan/status/2084650011288375751"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "𝟸𝟶𝟸𝟼 𝟷,𝟶𝟿𝟹,𝟷𝟿𝟿,𝟿𝟾𝟽+ / 1 line of code in @aisdk saves you 90% or more in DeepSeek v4 Flash AI Gateway tokens",
+            "urls": [
+              "https://x.com/rauchg/status/2084682618927558811",
+              "https://x.com/rauchg/status/2084779435866398801"
+            ]
+          },
+          {
+            "author": "Josh Woodward",
+            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+            "summary": "Notebook is built for thinking, not toggling. While others add more modes, Notebook keeps everything in a single, unified prompt bar and just does the things you want. Ultra and Pro subscribers can jump in now, rolling… / Nice use case!",
+            "urls": [
+              "https://x.com/joshwoodward/status/2084746170576892342",
+              "https://x.com/joshwoodward/status/2084698846609682675"
+            ]
+          },
+          {
+            "author": "Dan Shipper",
+            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
+            "summary": "so freaking cool / the best founders know there is no spoon",
+            "urls": [
+              "https://x.com/danshipper/status/2084692896696111243",
+              "https://x.com/danshipper/status/2084719029575647660"
+            ]
+          },
+          {
+            "author": "Matt Turck",
+            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
+            "summary": "What the world What Europeans thinks Europeans in tech actually in tech do in the do in the Summer. Summer. / Everyone on X: \"damn, Airtable sold for so low!\" Many SaaS founders, secretly: \"damn, I'd take that any day, at least they had an exit\"",
+            "urls": [
+              "https://x.com/mattturck/status/2084635916480450888",
+              "https://x.com/mattturck/status/2084759190195536202"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "the best vibey, air conditioned, quiet coffee shop to meet founders discretely does not exi- / My SF brain shudders at the thought of how much collective time is lost waiting for New York elevators.. Hotel elevators are simply the worst. Who designed two elevators for 30+ floors? I spent 12 mins recently just try…",
+            "urls": [
+              "https://x.com/nikunj/status/2084687833516691844",
+              "https://x.com/nikunj/status/2084625658173415726"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Dangerously skips permissions. Harvard’17. GitHub:  YouTube:",
+            "summary": "Contrary to popular perception, most people will not adopt a new technology just because it makes them more efficient. Instead, they’ll adopt new technology because: - Someone they know who’s similar to them on some dim… / How to judge if a meeting is efficient: An efficient meeting has no to-do list left behind, because all the actions are done DURING the meeting (either by agents who listen to the meeting in real time or by humans) The…",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2084828855404294266",
+              "https://x.com/zarazhangrui/status/2084601752817729811"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "One fun benefit of spending so much time with enterprises is you get to see the array of AI implementation strategies that exist in companies right now. Unlike the early innings of cloud where there were really only a c…",
+            "urls": [
+              "https://x.com/levie/status/2084828773808239080"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "Training Data",
+            "title": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
+            "summary": "Speaker 1 | 00:00 - 00:22 One of our big guiding principles is just simplicity. So, like, when you look at a model like, let's say, CHI one, I think there are 23 distinct submodules in CHI one. And, like, when you're trying to iterate on something like that, it gets really hard because you're like, I kinda I need to understand each of these sub modules inde…",
+            "url": "https://www.youtube.com/watch?v=wv53mDmY-k0"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-08-04",
