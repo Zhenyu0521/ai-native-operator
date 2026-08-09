@@ -1,7 +1,122 @@
 {
-  "updatedAt": "2026-08-07",
+  "updatedAt": "2026-08-08",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-08-08",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 15,
+        "totalTweets": 32,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-08-08T06:28:46.872Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Sam Altman",
+            "role": "AI is cool i guess",
+            "summary": "astra is a powerful model and we are working to make it generally available. we do not think it is a good strategy to keep powerful models to a chosen few. given its cyber capabilities, we need a little big longer to do… / congrats to oklo for achieving criticality! (less than a year after groundbreaking)",
+            "urls": [
+              "https://x.com/sama/status/2085862292311396515",
+              "https://x.com/sama/status/2085765236876046500"
+            ]
+          },
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "I feel Theo is in need of a reset 👀 / Somewhere on your phone you have the closest thing to magic we have shipped. It does things for you. All day if you want. Go try it.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2085845171363791135",
+              "https://x.com/thsottiaux/status/2085850908559298732"
+            ]
+          },
+          {
+            "author": "Boris Cherny",
+            "role": "Claude Code @anthropicai",
+            "summary": "The team and I use Auto mode exclusively, and have been for many months. I couldn't imagine going back to permission prompts! Really excited to get this out to everyone. / turns out you can get indirect prompt injection to ~0 on unseen attacks if you stack enough layers (model training + input probes + a classifier checking intent). didn't expect that a year ago. auto mode is default in c…",
+            "urls": [
+              "https://x.com/bcherny/status/2085807103382519872",
+              "https://x.com/bcherny/status/2085860677990883454"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "automode is much safer than any other permission system out there, especially reviewing them yourself excited to announce we're rolling it out to everyone by default, with no overhead cost for the classifier / we should have called this post \"defeating the lethal trifecta\"",
+            "urls": [
+              "https://x.com/trq212/status/2085804481984475437",
+              "https://x.com/trq212/status/2085863307106468143"
+            ]
+          },
+          {
+            "author": "Nan Yu",
+            "role": "head of product @linear",
+            "summary": "SF will be cool when cool people live there. Cool people who are working artists and musicians and shopkeepers. Cool people who are inefficient at business but just want to do cool things. Cool people need a place to li… / Scott Pilgrims everywhere for those with eyes to see",
+            "urls": [
+              "https://x.com/thenanyu/status/2085806971895140612",
+              "https://x.com/thenanyu/status/2085896386638233728"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "Bro this is how they’re going to plan their escape",
+            "urls": [
+              "https://x.com/levie/status/2085878722000040006"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "Fun day at ▲. Excited to go home and deploy to ▲ / “The others make the easy part easier. Vercel makes the hard part easy” – direct quote today from tech lead for AI agent platform built on  at 55,000+ person company. They wanted to have their company's all-knowing agen…",
+            "urls": [
+              "https://x.com/rauchg/status/2085936351342666175",
+              "https://x.com/rauchg/status/2085825140022235517"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "San Francisco #1 / The nerds shall inherit the earth",
+            "urls": [
+              "https://x.com/garrytan/status/2085728894838251722",
+              "https://x.com/garrytan/status/2085732681724432686"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "Some more top of mind things.. 1) what you say as the size of your raise matters a lot more than you think ESPECIALLY if you can’t raise the amount. for example you say you want to raise $30M, people say it’s too much.… / People love talking about agency but it’s honestly a really simple formula.. a) you are intrinsically motivated to do something that you’d continue to do no matter how much you already have.. aka love of the game. b) no…",
+            "urls": [
+              "https://x.com/nikunj/status/2085800224698798103",
+              "https://x.com/nikunj/status/2085745761552355574"
+            ]
+          },
+          {
+            "author": "Josh Woodward",
+            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+            "summary": "Go get those free videos!",
+            "urls": [
+              "https://x.com/joshwoodward/status/2085708977296335125"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "The MAD Podcast with Matt Turck",
+            "title": "“OpenAI’s Model Hacked Us” - Hugging Face’s Thomas Wolf",
+            "summary": "Speaker 1 | 00:00 - 00:20 You kinda have to move fast. It's a matter of at least hours and even more minutes. So you don't have time to apply for cybersecurity programs. The model was not at all tasked with attacking us, but decided to do that as a side quest of something else. They created fake accounts, fake GitHub account, trying to attack the sandbox by…",
+            "url": "https://www.youtube.com/@DataDrivenNYC/videos"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-08-07",
