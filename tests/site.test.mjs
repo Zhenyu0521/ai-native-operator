@@ -52,19 +52,21 @@ test("pillar pages include vertical module links", () => {
     "Learning",
     "Tools",
     "News",
-    "Career",
   ]) {
     assert.match(exploreHtml, new RegExp(text));
   }
+
+  assert.doesNotMatch(exploreHtml, /Career/);
 
   for (const href of [
     "explore-learning.html",
     "explore-tools.html",
     "explore-news.html",
-    "explore-career.html",
   ]) {
     assert.match(exploreHtml, new RegExp(`href="${href}"`));
   }
+
+  assert.doesNotMatch(exploreHtml, /href="explore-career\.html"/);
 
   for (const text of [
     "Analytical Structure",
@@ -113,7 +115,6 @@ test("explore news detail page exposes the existing News module", () => {
 test("blank module pages exist for the split pillar structure", () => {
   for (const path of [
     "explore-tools.html",
-    "explore-career.html",
     "build-analytical-structure.html",
     "build-projects.html",
     "share-career-coaching.html",
@@ -191,6 +192,26 @@ test("learning article template supports copied long-form posts", () => {
   assert.match(articleHtml, /AI-Native 不是多用几个工具/);
   assert.match(articleHtml, /href="explore-learning.html"/);
   assert.match(articleHtml, /如何复制一篇新文章/);
+});
+
+test("learning judgment article is listed and renders as a philosophy article", () => {
+  const learningHtml = readFixture("explore-learning.html");
+  const articleHtml = readFixture("learning-ai-judgment-survival.html");
+
+  assert.match(learningHtml, /learning-ai-judgment-survival.html/);
+  assert.match(learningHtml, /AI 时代，你不提升判断力，确实没有生存空间/);
+  assert.match(learningHtml, /判断力正在从职场加分项变成基本功/);
+  assert.match(learningHtml, /class="learning-card-visual judgment-visual"/);
+  assert.match(articleHtml, /AI-Native 工作理念/);
+  assert.match(articleHtml, /AI 时代，你不提升判断力，确实没有生存空间/);
+  assert.match(articleHtml, /真正值得焦虑的，从来不是/);
+  assert.match(articleHtml, /吃透基础学科的底层逻辑/);
+  assert.match(articleHtml, /坚持拿一手信息/);
+  assert.match(articleHtml, /刻意练习质疑默认前提/);
+  assert.match(articleHtml, /做假设验证和复盘/);
+  assert.match(articleHtml, /href="explore-learning.html"/);
+  assert.doesNotMatch(articleHtml, /class="article-cover"/);
+  assert.doesNotMatch(articleHtml, /AI research and products/);
 });
 
 test("learning article migration guide explains copy-paste publishing flow", () => {
