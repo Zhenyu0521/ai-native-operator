@@ -1,7 +1,122 @@
 {
-  "updatedAt": "2026-08-08",
+  "updatedAt": "2026-08-09",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-08-09",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 14,
+        "totalTweets": 26,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-08-09T06:30:53.613Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "That's right, GPT-5.6 Sol is awesome and can be used pretty much anywhere, including in the CC harness. To celebrate this, together with the fact that I'm not going anywhere... I have reset usage limits for all paid use… / I would love to help, but I don’t work at Anthropic. It does seem odd that they would ban your account for using their harness with another model. Anyone else in the same situation?",
+            "urls": [
+              "https://x.com/thsottiaux/status/2086188036493344823",
+              "https://x.com/thsottiaux/status/2086153754525712706"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Dangerously skips permissions. Harvard’17. GitHub:  YouTube:",
+            "summary": "This paper gives a fancy name to a problem you can already feel in your bones \"The Tragedy of the Cognitive Commons.\" Checking AI output requires deep expertise. Deep expertise comes from doing grunt work for years. And… / ",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2086111492018221523",
+              "https://x.com/zarazhangrui/status/2086112371442065674"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "me: Claude was used to autonomously reverse-engineer and modernize a mission-critical 1996 system with zero source access them: incredible, what vertical? me: …consumer, handheld consumer",
+            "urls": [
+              "https://x.com/trq212/status/2086153676113281228"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "Great post both if you’re driving AI in an enterprise or building for an enterprise. AI productivity gains are going to wildly vary - much wider than you think - because what you can do at the frontier is so significant…",
+            "urls": [
+              "https://x.com/levie/status/2086115009915142648"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "“Our species is the only creative species, and it has only one creative instrument, the individual mind and spirit of a man. Nothing was ever created by two men. There are no good collaborations, whether in music, in ar… / Steinbeck continued: “And this I believe: that the free, exploring mind of the individual human is the most valuable thing in the world. And this I would fight for: the freedom of the mind to take any direction it wishe…",
+            "urls": [
+              "https://x.com/garrytan/status/2086247671627743659",
+              "https://x.com/garrytan/status/2086249764476371153"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "Xcode? / Digital gray goo.",
+            "urls": [
+              "https://x.com/amasad/status/2086039847031197764",
+              "https://x.com/amasad/status/2086089059311722590"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "How Vercel helps prevent surprise cloud bills: ◾ Soft & hard caps¹ ◾ Anomaly alerting² ◾ Recursion protection for Functions³ ◾ Billing usage APIs your agents can query⁴ ◾ Always-on DDoS L3/L4/L7 mitigation on all plans⁵… / Grok Imagine Image 2.0 on Vercel AI Gateway Excellent 🖼️ model, #2 already on",
+            "urls": [
+              "https://x.com/rauchg/status/2086189360194723919",
+              "https://x.com/rauchg/status/2086286008916828457"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "Weird world we're moving to where AI is writing all code and will probably review all code soon too. Humans I guess just brainstorm with AI to design the product and then test the product as a user? Except AI will proba… / The biggest bottleneck to building a great AI agent isn't the model. It’s when teams: → Bury their agent in too much context → Don't give it tools to find what it needs → Try to cover too much vs. nail a few core use ca…",
+            "urls": [
+              "https://x.com/petergyang/status/2086108010271982016",
+              "https://x.com/petergyang/status/2086093833880895515"
+            ]
+          },
+          {
+            "author": "Matt Turck",
+            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
+            "summary": "I don't understand what the tech industry doesn't understand about resistance against data centers. * AI is mostly built by coastal/tech elites who generally don't live near data centers; people near data centers don't… / One of the most disturbing aspects of the OpenAI/Hugging Face story: the spontaneous multi-agent collaboration through a self-created “message board” in OpenAI’s internal systems which evolved into coordinated autonomou…",
+            "urls": [
+              "https://x.com/mattturck/status/2086142103646872050",
+              "https://x.com/mattturck/status/2086212996557386151"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "reading thru applications. over 600 people applied, 100 admitted last night. we are going to kill SO MUCH SAAS / i still think @AnthropicAI ultracode is one of the most important coding mode innovations ever invented. if you havent understood the potential of dynamic workflows you should try to. just met a Kill My SaaS competitor…",
+            "urls": [
+              "https://x.com/swyx/status/2086157587205296255",
+              "https://x.com/swyx/status/2086324411385426346"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "No Priors",
+            "title": "Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, and Regulatory Capture with Sarah &amp; Elad",
+            "summary": "Speaker 1 | 00:00 - 00:11 70% of France is still nuclear in terms of its power generation. 70%. Where are all the accidents and where are all the kerfuffles and, you know, nothing. Nothing's happened. US is 18%, and we haven't built a reactor in forty years. Speaker 1 | 00:11 - 00:25 We had a safety lobby in the seventies basically kill abundant clean energ…",
+            "url": "https://www.youtube.com/@NoPriorsPodcast"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-08-08",
@@ -627,140 +742,6 @@
       },
       "errors": [
         "X API: User lookup failed for configured builders: HTTP 402"
-      ]
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-07-10",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 20,
-        "totalTweets": 40,
-        "blogPosts": 3,
-        "feedGeneratedAt": "2026-07-09T07:28:29.483Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Swyx",
-            "summary": "Swyx 关注两个信号：一是演示材料正在从“AI 味很重的精致模板”回到手绘、简洁、有人的痕迹；二是 agent 公司对中国模型的使用仍然敏感，但真正难的是把多语言宣传/审查 eval、post-training 修正和低成本高速 serving 做到生产级。",
-            "urls": [
-              "https://x.com/swyx/status/2074953099748450346",
-              "https://x.com/swyx/status/2074919183947808881"
-            ]
-          },
-          {
-            "author": "Boris Cherny",
-            "role": "Claude Code @ Anthropic",
-            "summary": "Boris Cherny 发布 Claude Code 的 `/checkup`：它会清理未使用的 skills/MCPs/plugins、去重 CLAUDE.md、拆分根目录配置、关闭慢 hooks、更新版本、开启 auto mode，并预批准常见只读命令。",
-            "urls": [
-              "https://x.com/bcherny/status/2074997570317779038"
-            ]
-          },
-          {
-            "author": "Nan Yu",
-            "role": "Head of Product @ Linear",
-            "summary": "Nan Yu 给了一个很实用的 PMM 视角：营销不是只写给“你的受众”，而是写给“你的受众再转述给他们的受众”。她还用《Glengarry Glen Ross》里的奖励结构说明 power law 如何塑造行为。",
-            "urls": [
-              "https://x.com/thenanyu/status/2074907752829223043",
-              "https://x.com/thenanyu/status/2074901281466896694"
-            ]
-          },
-          {
-            "author": "Cat Wu",
-            "role": "Claude Code + Cowork @ Anthropic",
-            "summary": "Cat Wu 预告 Claude Tag walkthrough：从单人 Claude Code 到多人 Claude Tag，重点是 agent 不只是写功能，而是能监控渠道、主动做事、被团队共同 steering，并记住上周交代过的事。",
-            "urls": [
-              "https://x.com/_catwu/status/2074925531519468012"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @ Anthropic",
-            "summary": "Thariq 认为大家该更新对软件工程的判断：rewrites 可以变得又好、又便宜、又快。前提是可测试、可验证，但模型会继续补齐这些缺口。",
-            "urls": [
-              "https://x.com/trq212/status/2074993112217461020"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "CEO @ Replit",
-            "summary": "Amjad Masad 提了一个类比：我们什么时候停止拿 autonomous agents 跟手写代码比较？就像不会拿编译器去跟手写汇编的工程师比较。他还在试探 Replit 是否应该加入 CAD/3D 建模。",
-            "urls": [
-              "https://x.com/amasad/status/2075080984211624154",
-              "https://x.com/amasad/status/2075003156745089264"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "CEO @ Vercel",
-            "summary": "Guillermo Rauch 的判断是：AI 会让所有软件更 Native，性能和平台亲和力会重新变得重要。他还提到 Grok 4.5 已面向 Vercel 客户开放，以及 agent stack 的组件正在拼起来。",
-            "urls": [
-              "https://x.com/rauchg/status/2075018147330232707",
-              "https://x.com/rauchg/status/2074920996201796067",
-              "https://x.com/rauchg/status/2074874713143460150"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "CEO @ Box",
-            "summary": "Aaron Levie 认为最新模型正在显著增强复杂知识工作，尤其是法律、专业服务、医疗等垂直领域。随着模型在 coding、math、reasoning 和行业知识上变强，企业文档和数据的可用性会继续跃迁。",
-            "urls": [
-              "https://x.com/levie/status/2075073587015516228"
-            ]
-          },
-          {
-            "author": "Zara Zhang",
-            "summary": "Zara Zhang 提出一个很值得企业 AI 团队警惕的问题：当团队成员都整天和 Codex 对话，会议取消、协作减少，团队文化可能变差。她认为下一步不是 human-human 或 human-agent，而是 human-human-agent collaboration。",
-            "urls": [
-              "https://x.com/zarazhangrui/status/2075004775436005687",
-              "https://x.com/zarazhangrui/status/2075003007520096416",
-              "https://x.com/zarazhangrui/status/2074998060162375832"
-            ]
-          },
-          {
-            "author": "Aditya Agarwal",
-            "role": "General Partner @ South Park Commons",
-            "summary": "Aditya Agarwal 鼓励创始人“不要浪费这个时刻”：如果还只做纯软件，就需要一个会被朋友嘲笑的异端 thesis。他们更想找硬件 tinkerer、mad scientist、biohacker 这类愿意碰 atoms 的人。",
-            "urls": [
-              "https://x.com/adityaag/status/2074892507306238235",
-              "https://x.com/adityaag/status/2074892952233705956"
-            ]
-          }
-        ],
-        "official_blogs": [
-          {
-            "source": "Anthropic Engineering",
-            "title": "An update on recent Claude Code quality reports",
-            "summary": "Anthropic 解释了最近 Claude Code/Agent SDK/Cowork 质量反馈背后的三个问题：默认 reasoning effort 从 high 降到 medium、idle session 清理 thinking 的 bug、以及降低 verbosity 的 prompt 改动。API 和 inference layer 未受影响，相关问题已在 2026-04-20 的 v2.1.116 修复。",
-            "url": "https://www.anthropic.com/engineering/april-23-postmortem"
-          },
-          {
-            "source": "Anthropic Engineering",
-            "title": "Scaling Managed Agents: Decoupling the brain from the hands",
-            "summary": "Anthropic 把 Managed Agents 的核心设计讲成“brain”和“hands”解耦：session 是可恢复的事件日志，harness 负责调 Claude 和路由工具，sandbox 执行具体动作。重点是让长期任务更可靠、更安全，也避免把凭证暴露给 agent 生成代码运行的环境。",
-            "url": "https://www.anthropic.com/engineering/managed-agents"
-          },
-          {
-            "source": "Claude Blog",
-            "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
-            "summary": "Claude Managed Agents 新增 self-hosted sandboxes 和 MCP tunnels：企业可以把执行环境放在自己的基础设施或 Cloudflare、Daytona、Modal、Vercel 等 provider 中，同时通过 MCP tunnels 访问私有网络内的工具和服务。",
-            "url": "https://claude.com/blog/claude-managed-agents-updates"
-          }
-        ],
-        "podcasts": [
-          {
-            "source": "AI & I by Every",
-            "title": "How a Writer Uses AI Without Losing His Voice",
-            "summary": "核心 takeaway：AI 可以极大增强一个创作者的工具能力，但真正稀缺的仍然是深度注意力、个人声音和对自己作品边界的保护。嘉宾强调自己会用 AI 做 research、查资料、修代码、重建 newsletter 软件，甚至把年成本从数万美元级降到很低；但写作本身仍然尽量不用 AI，因为他认为那部分“奇怪的书”和独特思考，是最值得自己亲手投入的东西。一个很鲜明的工作方式是：早上不碰手机、不上网，甚至有一台只能写作的 laptop，用外部限制保护深度思考。",
-            "url": "https://www.youtube.com/watch?v=7ND0lQmLJlA"
-          }
-        ]
-      },
-      "errors": [
-        "Podcast feed problem: Podcast: Transcript error for \"Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
       ]
     }
   ]
