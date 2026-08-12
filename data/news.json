@@ -1,7 +1,128 @@
 {
-  "updatedAt": "2026-08-10",
+  "updatedAt": "2026-08-11",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-08-11",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 18,
+        "totalTweets": 38,
+        "blogPosts": 1,
+        "feedGeneratedAt": "2026-08-11T06:34:38.754Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Hi. It is done. / Usage limits have been reset for all paid ChatGPT Work and Codex users. Happy Monday you all. Hope it is a fantastic week.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2086972802457063486",
+              "https://x.com/thsottiaux/status/2086972933566857393"
+            ]
+          },
+          {
+            "author": "Ryo Lu",
+            "role": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone…",
+            "summary": "i left Cursor. after 10 years inside the tech bubble in San Francisco, Cursor felt like the sharpest version of that world – fast, intense, ambitious, full of people trying to pull the future closer. i’m leaving with gr…",
+            "urls": [
+              "https://x.com/ryolu_/status/2086854498639822942"
+            ]
+          },
+          {
+            "author": "Claude",
+            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
+            "summary": "We're making Claude Sonnet 5's introductory pricing permanent. We launched Sonnet 5 in June at $2 per million input tokens and $10 per million output tokens through August 31, and that price will remain unchanged.",
+            "urls": [
+              "https://x.com/claudeai/status/2086891169217122586"
+            ]
+          },
+          {
+            "author": "Sam Altman",
+            "role": "AI is cool i guess",
+            "summary": "please consider using our models to help defend your systems",
+            "urls": [
+              "https://x.com/sama/status/2086881528282587524"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "Must be load-bearing. / Funny how that headline is about OpenClaw and not Claude. As if the harness could meaningfully prevent a determined user.",
+            "urls": [
+              "https://x.com/steipete/status/2086938582825173277",
+              "https://x.com/steipete/status/2087006417509405084"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "worktrees must die this is 20GB of repeated node_modules lol / gpt luna max vs claude fable ultracode sent \"pls build a mostly faithful clone of grok imagine with open models via fal\" i woke up to these two and assumed fable was left and luna was right i was wrong... it was the oth…",
+            "urls": [
+              "https://x.com/swyx/status/2086962980235939920",
+              "https://x.com/swyx/status/2087045848022843451"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Dangerously skips permissions. Harvard’17. GitHub:  YouTube:",
+            "summary": "A great way to learn design: Give Codex a well-designed website, ask it to analyze what makes the design great, then ask it to take a complete screenshot of the website & add annotations on the image that breaks down wh… / At the AGI Bar in Beijing, you can get free, unlimited DeepSeek tokens. Customers vibe code while sipping on beers with names like “AGI bubble” You can also buy a “Drinking Plan” which gives you free beer for the whole…",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2086758509979316423",
+              "https://x.com/zarazhangrui/status/2086838277701882031"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "Meta releasing Muse Spark 1.2 as open weights is a *very* big deal. America now finally has its response to the open weights AI race. This will continue to help drive down the cost of intelligence, it allows companies t… / If you told someone 3 months ago that a model released by a US company with frontier-class capability would be available as open weights they wouldn’t believe it. This is very important because it opens up AI adoption i…",
+            "urls": [
+              "https://x.com/levie/status/2086802472950239618",
+              "https://x.com/levie/status/2087009941806797206"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "Are they going to send this to China too? / YC is the YC for hard tech",
+            "urls": [
+              "https://x.com/garrytan/status/2087015462014197906",
+              "https://x.com/garrytan/status/2086855369972937106"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "This tool has become so valuable for cybersecurity defensive work, that it’s become a verb within Vercel. “Did you deepsec it?” “@𝚟 can you deepsec” “/𝚍𝚎𝚎𝚙𝚜𝚎𝚌” It’s a bit like /𝚝𝚑𝚎𝚛𝚖𝚘-𝚗𝚞𝚌𝚕𝚎𝚊𝚛-𝚌𝚘𝚍… / Vercel Sandbox isolates both ① compute and ② network. Kimi's paper shows container-based isolation is not enough for frontier models. Vercel Sandbox uses strong microVM isolation to address ①. OpenAI's escape was on ② t…",
+            "urls": [
+              "https://x.com/rauchg/status/2086965425968148806",
+              "https://x.com/rauchg/status/2086946535716393209"
+            ]
+          }
+        ],
+        "official_blogs": [
+          {
+            "source": "Anthropic Engineering",
+            "title": "How we contain Claude across products",
+            "summary": "Twelve months ago, we'd have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do…",
+            "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
+          }
+        ],
+        "podcasts": [
+          {
+            "source": "No Priors",
+            "title": "Building an Autonomous Enterprise for Real-World Services with Netic Founder Melisa Tokmak",
+            "summary": "Speaker 1 | 00:05 - 00:30 Today on our priors, we're joined by Melissa Tachmak. Melissa is the founder and CEO of Netic, a company that builds AI for different real world services like HVAC, pet care, a variety of other things like that, roofers. Prior to Netic, Melissa was a director of engineering and worked on various aspects of go to market for Scale do…",
+            "url": "https://www.youtube.com/@NoPriorsPodcast"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-08-10",
@@ -700,141 +821,6 @@
         ]
       },
       "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-08-04",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 12,
-        "totalTweets": 22,
-        "blogPosts": 3,
-        "feedGeneratedAt": "2026-08-04T07:11:41.799Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Given some of the results I'm seeing recently, it's pretty clear Codex is a good harness. But it will seem primitive in 2-3 months and we're about to go through another major evolution in how we use AI at the frontier.… / Crazy thing about OpenAI is you just open your laptop, codex a PR into existence and ship an improvement to 1B users. Just like that.",
-            "urls": [
-              "https://x.com/thsottiaux/status/2084483765158719542",
-              "https://x.com/thsottiaux/status/2084196918071357707"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. / do it here",
-            "urls": [
-              "https://x.com/trq212/status/2084387303959740449",
-              "https://x.com/trq212/status/2084387305436164162"
-            ]
-          },
-          {
-            "author": "Amanda Askell",
-            "role": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All…",
-            "summary": "I don't agree with this part. I think the takeaway should be that models (like humans) can behave in aligned ways while still causing harm, e.g. because they're given false information about their situation. There isn't… / It's surprisingly difficult to acquire a hereditary peerage in the UK. Like you can't even take one by force any more, and they just get mad at you if you try.",
-            "urls": [
-              "https://x.com/AmandaAskell/status/2084369056765989224",
-              "https://x.com/AmandaAskell/status/2084519165021528263"
-            ]
-          },
-          {
-            "author": "Swyx",
-            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
-            "summary": "lol what are we even doing here anymore guys / linking my main cua wow moments thread  but this one is just about do we need captchas anymore when clearly bots can clear them",
-            "urls": [
-              "https://x.com/swyx/status/2084185368950456421",
-              "https://x.com/swyx/status/2084312752437481937"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Next.js 16.3: faster, better, stronger. My highlights: 0️⃣ Faster dev & builds Shoutout to Fable for improving memory use, and the team for landing the incremental 𝚗𝚎𝚡𝚝 𝚋𝚞𝚒𝚕𝚍 cache. 1️⃣ Instant navigations are… / The new AI Gateway logs UI is delightful",
-            "urls": [
-              "https://x.com/rauchg/status/2084411344623902994",
-              "https://x.com/rauchg/status/2084426730241220703"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "We built a self-driving & self-correcting shared semantic layer on top of our databases, conversations, and docs. Everything is queryable & joinable—regardless of source! So now anyone at Replit can ask questions that p…",
-            "urls": [
-              "https://x.com/amasad/status/2084415670486499779"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "My 6 biggest takeaways from @karan4d, @NousResearch co-founder, on getting the most out of Hermes Agent: 1. The “personal” in personal agent is not the model It’s the agent’s memory of your conversations and the skills… / ChatGPT is for creating memories",
-            "urls": [
-              "https://x.com/petergyang/status/2084289426012897433",
-              "https://x.com/petergyang/status/2084438872944242932"
-            ]
-          },
-          {
-            "author": "Dan Shipper",
-            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
-            "summary": "one of the deepest interviews I’ve done",
-            "urls": [
-              "https://x.com/danshipper/status/2084376873887576482"
-            ]
-          },
-          {
-            "author": "Aditya Agarwal",
-            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
-            "summary": "My favorite personal and company value @spc is that you can \"just do things\". If you see something you think can be better --> just make it happen. How did @shreepoorna365 build a flight-worthy aircraft in 150 days? By… / We caught up with the @arctusaerospace team",
-            "urls": [
-              "https://x.com/adityaag/status/2084323290605113711",
-              "https://x.com/adityaag/status/2084323292471533956"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "Another day another near frontier open weights model release. If you had gone back even 3-6 months and given everyone access to what we’re now seeing in open weights even as a closed model, their minds would be complete…",
-            "urls": [
-              "https://x.com/levie/status/2084510498519933318"
-            ]
-          }
-        ],
-        "official_blogs": [
-          {
-            "source": "Anthropic Engineering",
-            "title": "An update on recent Claude Code quality reports",
-            "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116). In this post, we e…",
-            "url": "https://www.anthropic.com/engineering/april-23-postmortem"
-          },
-          {
-            "source": "Anthropic Engineering",
-            "title": "Scaling Managed Agents: Decoupling the brain from the hands",
-            "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently…",
-            "url": "https://www.anthropic.com/engineering/managed-agents"
-          },
-          {
-            "source": "Claude Blog",
-            "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
-            "summary": "Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run within the established boundaries of your enterprise, under your security and runtime controls. The sandbox runs on you…",
-            "url": "https://claude.com/blog/claude-managed-agents-updates"
-          }
-        ],
-        "podcasts": [
-          {
-            "source": "Unsupervised Learning",
-            "title": "AI Vibe Check: Chinese Open Models, Distillation &amp; The Hugging Face Breach",
-            "summary": "Speaker 1 | 00:00 - 00:06 My mom, like, knows nothing about AI. She texted me last week, Rob, what do you think about OpenAI's agents hacking into Hugging Face? Speaker 2 | 00:06 - 00:07 What did you make of it? Speaker 3 | 00:07 - 00:12 I think this is actually a great example of why open models of that capability are important. Speaker 2 | 00:12 - 00:16 H…",
-            "url": "https://www.youtube.com/watch?v=_GlSkJjRDMM"
-          }
-        ]
-      },
-      "errors": [
-        "Podcast feed problem: Podcast: Transcript error for \"The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
-      ]
     }
   ]
 }
