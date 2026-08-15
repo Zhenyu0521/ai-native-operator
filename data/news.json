@@ -1,7 +1,121 @@
 {
-  "updatedAt": "2026-08-13",
+  "updatedAt": "2026-08-14",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-08-14",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 19,
+        "totalTweets": 36,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-08-14T06:46:42.819Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Sometimes you have have to go /ultrafast. / Work with Google docs, sheets and slides right inside ChatGPT. This has changed how I write documents, brainstorm or proofread things. I just open it and then chat or talk my way through changes and it all happens right…",
+            "urls": [
+              "https://x.com/thsottiaux/status/2088019704803897705",
+              "https://x.com/thsottiaux/status/2088103609477238858"
+            ]
+          },
+          {
+            "author": "Boris Cherny",
+            "role": "Claude Code @anthropicai",
+            "summary": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Slack…",
+            "urls": [
+              "https://x.com/bcherny/status/2088014489438621990"
+            ]
+          },
+          {
+            "author": "Sam Altman",
+            "role": "AI is cool i guess",
+            "summary": "/ultrafast",
+            "urls": [
+              "https://x.com/sama/status/2088101491802243121"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "By next year, using a computer will be optional. Work will radically change. / It’s certainly true at Replit.",
+            "urls": [
+              "https://x.com/amasad/status/2088110851681386864",
+              "https://x.com/amasad/status/2088112901852971056"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "The best things in life are free / Try  with 🆓 GLM 5.2 @ up to 500TPS from @blackboxai",
+            "urls": [
+              "https://x.com/rauchg/status/2087900672083857815",
+              "https://x.com/rauchg/status/2087982033499042205"
+            ]
+          },
+          {
+            "author": "Josh Woodward",
+            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+            "summary": "3.7 Flash: Fast, 50% cheaper, happened in ~3 weeks",
+            "urls": [
+              "https://x.com/joshwoodward/status/2088016871710957587"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "I agree, you need topics per-bot please! / YC is the YC for hard tech",
+            "urls": [
+              "https://x.com/garrytan/status/2088029937714565260",
+              "https://x.com/garrytan/status/2087929926070710381"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "everything truly is code",
+            "urls": [
+              "https://x.com/trq212/status/2088049989306192106"
+            ]
+          },
+          {
+            "author": "Matt Turck",
+            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
+            "summary": "Right now, you're either: * an AI-native rocketship, which sounds fun until you realize it means being in a permanent fundraising situation at ever more scary valuations to hoover up capital and talent, and in a constan…",
+            "urls": [
+              "https://x.com/mattturck/status/2087978386195103916"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "Grok Bot is a fantastic release.. the UX, the design, the onboarding :chefs-kiss: But I go back and forth on this a lot: Will users (personal and business) want one super agent that holds all the context or sub agents t… / “Matic” was one of the first ten words my son learned.. and he treats it as the fifth member of the family. Using @maticrobots also made it clear to me that useful home robots are here to stay. They continue to surprise…",
+            "urls": [
+              "https://x.com/nikunj/status/2087906119914340540",
+              "https://x.com/nikunj/status/2088029329624371544"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "No Priors",
+            "title": "What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest",
+            "summary": "Speaker 1 | 00:00 - 00:24 COVID happened, Queen's Gambit happened, some news cycles happened, and we're like, oh, this might just be a flash in the pan, like treadmills and sourdough bread. But then in 2023, we had another crazy wave where all these kids started playing in schools because of short form content and the mittens bot and the cheating scandal. A…",
+            "url": "https://www.youtube.com/@NoPriorsPodcast"
+          }
+        ]
+      },
+      "errors": [
+        "Podcast feed problem: Podcast: Error processing Unsupervised Learning: fetch failed"
+      ]
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-08-13",
@@ -720,127 +834,6 @@
             "source": "The MAD Podcast with Matt Turck",
             "title": "“OpenAI’s Model Hacked Us” - Hugging Face’s Thomas Wolf",
             "summary": "Speaker 1 | 00:00 - 00:20 You kinda have to move fast. It's a matter of at least hours and even more minutes. So you don't have time to apply for cybersecurity programs. The model was not at all tasked with attacking us, but decided to do that as a side quest of something else. They created fake accounts, fake GitHub account, trying to attack the sandbox by…",
-            "url": "https://www.youtube.com/@DataDrivenNYC/videos"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-08-07",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 15,
-        "totalTweets": 31,
-        "blogPosts": 1,
-        "feedGeneratedAt": "2026-08-07T06:42:39.266Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Sam Altman",
-            "role": "AI is cool i guess",
-            "summary": "5.6 Sol much better in chat now and unlimited text chat for free users!",
-            "urls": [
-              "https://x.com/sama/status/2085454964814753990"
-            ]
-          },
-          {
-            "author": "Claude",
-            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
-            "summary": "We’re updating Claude Fable 5’s biology safeguards to reduce false positives. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. Fable can now assist on a wider range…",
-            "urls": [
-              "https://x.com/claudeai/status/2085563808773189680"
-            ]
-          },
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "You can just ask Codex with GPT-5.6 Sol the wildest things and it will just do it. I talk to it for 5 minutes straight with things that just seem to require weeks of work, get up to get something in the fridge, pet the… / I meant to say \"ghiblify\", but I said \"gimlify\"",
-            "urls": [
-              "https://x.com/thsottiaux/status/2085597685948813610",
-              "https://x.com/thsottiaux/status/2085610005768945984"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "Huge Atlassian quarterly beat. There was a misplaced thesis over the past 6 months that somehow agents would be bad for certain software categories. There’s definitely truth in this in some areas, but many were parsing… / If you’re trying to understand the dynamic of real world agent adoption this post is a great place to start. Everyone got so hooked on talking to chatbots that there’s limited recognition still that working with an agen…",
-            "urls": [
-              "https://x.com/levie/status/2085474309943030032",
-              "https://x.com/levie/status/2085587079405425146"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "Airtable bookends the rise and fall of “no code.” I remember arguing endlessly with investors about this. UI can never let you build arbitrary software. The way to make software accessible was always to solve code itsel… / It’s true, in 21/22 I went around the valley asking everyone to train coding specific models with us: Google, Meta, everyone — no one thought it was as important as NLP use cases — eventually we trained our own: Replit-…",
-            "urls": [
-              "https://x.com/amasad/status/2085451197323034902",
-              "https://x.com/amasad/status/2085544020424716723"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Devtools must be 1️⃣ open source and 2️⃣ universally extensible. AI coding agents are the most important devtools in the history of our industry. The Plugin standard lets anybody extend them uniformly. This is huge for… / FreeAI",
-            "urls": [
-              "https://x.com/rauchg/status/2085403169551790359",
-              "https://x.com/rauchg/status/2085422692799570171"
-            ]
-          },
-          {
-            "author": "Nikunj Kothari",
-            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
-            "summary": "Alright August fundraising season is here (got 9 intros this week) so here’s a brain dump of tips that no VC will tell you.. > who you talk to and get to an intro at a VC firm really matters. associates and principals A… / Wow this blew up my inbox - I’ll try to respond to as many DMs as I can tomorrow! Feel free to ask questions publicly and I’ll reply here as well!",
-            "urls": [
-              "https://x.com/nikunj/status/2085382457457828153",
-              "https://x.com/nikunj/status/2085597628121878721"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "Consumer is basically ChatGPT and Google's market to lose in my opinion. ChatGPT already has 1B users and needs to get them to connect their favorite apps and use agents to do work. OpenAI is already pioneering new inte… / damn where's the ping Tibo to reset button",
-            "urls": [
-              "https://x.com/petergyang/status/2085427222836658600",
-              "https://x.com/petergyang/status/2085520904398999901"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "Here's what I think you need to know about personal AGI - not a chatbot that anyone can have, but one that knows you uniquely, now and into the future",
-            "urls": [
-              "https://x.com/garrytan/status/2085446068461043722"
-            ]
-          },
-          {
-            "author": "Aditya Agarwal",
-            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
-            "summary": "A good day to apply to @spc / I have learnt an incredible amount from Tom and I could not be more proud that @GoodfireAI was born at SPC.",
-            "urls": [
-              "https://x.com/adityaag/status/2085364323707150758",
-              "https://x.com/adityaag/status/2085315202237546603"
-            ]
-          }
-        ],
-        "official_blogs": [
-          {
-            "source": "Claude Blog",
-            "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
-            "summary": "Today we're releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple's Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift. It is very easy to use and can r…",
-            "url": "https://claude.com/blog/claude-for-foundation-models"
-          }
-        ],
-        "podcasts": [
-          {
-            "source": "The MAD Podcast with Matt Turck",
-            "title": "How to Build Long-Horizon AI Agents — Mitch Troyanovsky, Basis",
-            "summary": "Speaker 1 | 00:00 - 00:18 Humans are already used to working with non deterministic systems, it's just the systems are normally their co workers, not their computers. And in many ways, like companies and processes is all about how do you design a system for non deterministic entities to coordinate together to solve a problem? And once you realize that, it's…",
             "url": "https://www.youtube.com/@DataDrivenNYC/videos"
           }
         ]
