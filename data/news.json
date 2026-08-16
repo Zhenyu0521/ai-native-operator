@@ -1,7 +1,127 @@
 {
-  "updatedAt": "2026-08-14",
+  "updatedAt": "2026-08-15",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-08-15",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 16,
+        "totalTweets": 32,
+        "blogPosts": 1,
+        "feedGeneratedAt": "2026-08-15T06:27:33.693Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "What’s a hard problem codex solved for you this week? Where do you learn from others on how to push the frontier? / Looking for a quick restaurant reservation is now super easy in ChatGPT. Together with a bunch more ships",
+            "urls": [
+              "https://x.com/thsottiaux/status/2088500028721832432",
+              "https://x.com/thsottiaux/status/2088493756391768252"
+            ]
+          },
+          {
+            "author": "Josh Woodward",
+            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+            "summary": "3.7 Flash is in the @GeminiApp / Pomelli is our Google Labs experiment popular with a growing number of small businesses. Why? It's one of the easiest ways to make your products look good in any setting. With this launch, turn those amazing photoshoots…",
+            "urls": [
+              "https://x.com/joshwoodward/status/2088344782821326980",
+              "https://x.com/joshwoodward/status/2088261701028503965"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "Vercel is the fastest [AI Gateway] infrastructure in the world",
+            "urls": [
+              "https://x.com/rauchg/status/2088323451132199338"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "We moved the team over to build openclaw with openclaw. Being able to share agent sessions as URLs is a superpower. / Added a short instruction to our shared AGENTS MD file to upload videos to each PR that changes UI state.",
+            "urls": [
+              "https://x.com/steipete/status/2088473882357530979",
+              "https://x.com/steipete/status/2088486859244741020"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "\"Steve Jobs walked by and said the font city names weren't bad, but 'at least call them world-class cities.' That's how Paoli and Wynwood became New York and Geneva.\" / The most surprising thing about using GStack pre-Fable 5 and after is now for many one-way-door questions you might get back in Claude Code, you can actually just say \"Take all recommendations\" and be happy",
+            "urls": [
+              "https://x.com/garrytan/status/2088383794013470812",
+              "https://x.com/garrytan/status/2088388000267002195"
+            ]
+          },
+          {
+            "author": "Matt Turck",
+            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
+            "summary": "The evolution of a workday: Before AI: [decision] [process] [process] [decision] [process] [process] [process] 10pm: still going With AI: [decision] [decision] [decision] [decision] [decision] 3pm: [brain empty] [need c…",
+            "urls": [
+              "https://x.com/mattturck/status/2088323186819539041"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "Amazing outcome. Cursor executed the applied AI strategy flawlessly. Most people completely underestimated the market size in AI coding. The biggest developer tool exits in history were on the order of low billions of d…",
+            "urls": [
+              "https://x.com/levie/status/2088476232933577124"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "the reason @databricks \"ipo is lava\" fundraises are a meme is this but unironically the M in their $188B series M stands for \"we are going to kill so many meetings\" / ask away",
+            "urls": [
+              "https://x.com/swyx/status/2088381680478540096",
+              "https://x.com/swyx/status/2088358628000768263"
+            ]
+          },
+          {
+            "author": "Madhu Guru",
+            "role": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+            "summary": "when everyone can build with ai, your differentiators are product sense, domain knowledge, distribution, execution. / Making steam engines more efficient increased coal demand. Higher-level languages made programming easier and resulted in far more software being built. Spreadsheets made financial analysis cheaper and resulted in busin…",
+            "urls": [
+              "https://x.com/realmadhuguru/status/2088425380130783287",
+              "https://x.com/realmadhuguru/status/2088294414255112329"
+            ]
+          },
+          {
+            "author": "Google Labs",
+            "role": "Google’s home for our latest AI tools and experiments.",
+            "summary": "In the Lab, we’re always tinkering 🧪– from the experiments we graduate to the ones still brewing, we bring the best of our AI models to all kinds of users. Try out these two (if you haven't already!): @PomellibyGoogle…",
+            "urls": [
+              "https://x.com/GoogleLabs/status/2088307370787328223"
+            ]
+          }
+        ],
+        "official_blogs": [
+          {
+            "source": "Claude Blog",
+            "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+            "summary": "Today we're releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple's Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift. It is very easy to use and can r…",
+            "url": "https://claude.com/blog/claude-for-foundation-models"
+          }
+        ],
+        "podcasts": [
+          {
+            "source": "The MAD Podcast with Matt Turck",
+            "title": "How to Build Long-Horizon AI Agents — Mitch Troyanovsky, Basis",
+            "summary": "Speaker 1 | 00:00 - 00:18 Humans are already used to working with non deterministic systems, it's just the systems are normally their co workers, not their computers. And in many ways, like companies and processes is all about how do you design a system for non deterministic entities to coordinate together to solve a problem? And once you realize that, it's…",
+            "url": "https://www.youtube.com/@DataDrivenNYC/videos"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-08-14",
@@ -720,121 +840,6 @@
             "title": "Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, and Regulatory Capture with Sarah &amp; Elad",
             "summary": "Speaker 1 | 00:00 - 00:11 70% of France is still nuclear in terms of its power generation. 70%. Where are all the accidents and where are all the kerfuffles and, you know, nothing. Nothing's happened. US is 18%, and we haven't built a reactor in forty years. Speaker 1 | 00:11 - 00:25 We had a safety lobby in the seventies basically kill abundant clean energ…",
             "url": "https://www.youtube.com/@NoPriorsPodcast"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-08-08",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 15,
-        "totalTweets": 32,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-08-08T06:28:46.872Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Sam Altman",
-            "role": "AI is cool i guess",
-            "summary": "astra is a powerful model and we are working to make it generally available. we do not think it is a good strategy to keep powerful models to a chosen few. given its cyber capabilities, we need a little big longer to do… / congrats to oklo for achieving criticality! (less than a year after groundbreaking)",
-            "urls": [
-              "https://x.com/sama/status/2085862292311396515",
-              "https://x.com/sama/status/2085765236876046500"
-            ]
-          },
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "I feel Theo is in need of a reset 👀 / Somewhere on your phone you have the closest thing to magic we have shipped. It does things for you. All day if you want. Go try it.",
-            "urls": [
-              "https://x.com/thsottiaux/status/2085845171363791135",
-              "https://x.com/thsottiaux/status/2085850908559298732"
-            ]
-          },
-          {
-            "author": "Boris Cherny",
-            "role": "Claude Code @anthropicai",
-            "summary": "The team and I use Auto mode exclusively, and have been for many months. I couldn't imagine going back to permission prompts! Really excited to get this out to everyone. / turns out you can get indirect prompt injection to ~0 on unseen attacks if you stack enough layers (model training + input probes + a classifier checking intent). didn't expect that a year ago. auto mode is default in c…",
-            "urls": [
-              "https://x.com/bcherny/status/2085807103382519872",
-              "https://x.com/bcherny/status/2085860677990883454"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "automode is much safer than any other permission system out there, especially reviewing them yourself excited to announce we're rolling it out to everyone by default, with no overhead cost for the classifier / we should have called this post \"defeating the lethal trifecta\"",
-            "urls": [
-              "https://x.com/trq212/status/2085804481984475437",
-              "https://x.com/trq212/status/2085863307106468143"
-            ]
-          },
-          {
-            "author": "Nan Yu",
-            "role": "head of product @linear",
-            "summary": "SF will be cool when cool people live there. Cool people who are working artists and musicians and shopkeepers. Cool people who are inefficient at business but just want to do cool things. Cool people need a place to li… / Scott Pilgrims everywhere for those with eyes to see",
-            "urls": [
-              "https://x.com/thenanyu/status/2085806971895140612",
-              "https://x.com/thenanyu/status/2085896386638233728"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "Bro this is how they’re going to plan their escape",
-            "urls": [
-              "https://x.com/levie/status/2085878722000040006"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Fun day at ▲. Excited to go home and deploy to ▲ / “The others make the easy part easier. Vercel makes the hard part easy” – direct quote today from tech lead for AI agent platform built on  at 55,000+ person company. They wanted to have their company's all-knowing agen…",
-            "urls": [
-              "https://x.com/rauchg/status/2085936351342666175",
-              "https://x.com/rauchg/status/2085825140022235517"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "San Francisco #1 / The nerds shall inherit the earth",
-            "urls": [
-              "https://x.com/garrytan/status/2085728894838251722",
-              "https://x.com/garrytan/status/2085732681724432686"
-            ]
-          },
-          {
-            "author": "Nikunj Kothari",
-            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
-            "summary": "Some more top of mind things.. 1) what you say as the size of your raise matters a lot more than you think ESPECIALLY if you can’t raise the amount. for example you say you want to raise $30M, people say it’s too much.… / People love talking about agency but it’s honestly a really simple formula.. a) you are intrinsically motivated to do something that you’d continue to do no matter how much you already have.. aka love of the game. b) no…",
-            "urls": [
-              "https://x.com/nikunj/status/2085800224698798103",
-              "https://x.com/nikunj/status/2085745761552355574"
-            ]
-          },
-          {
-            "author": "Josh Woodward",
-            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-            "summary": "Go get those free videos!",
-            "urls": [
-              "https://x.com/joshwoodward/status/2085708977296335125"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "The MAD Podcast with Matt Turck",
-            "title": "“OpenAI’s Model Hacked Us” - Hugging Face’s Thomas Wolf",
-            "summary": "Speaker 1 | 00:00 - 00:20 You kinda have to move fast. It's a matter of at least hours and even more minutes. So you don't have time to apply for cybersecurity programs. The model was not at all tasked with attacking us, but decided to do that as a side quest of something else. They created fake accounts, fake GitHub account, trying to attack the sandbox by…",
-            "url": "https://www.youtube.com/@DataDrivenNYC/videos"
           }
         ]
       },
