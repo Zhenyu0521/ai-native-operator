@@ -1,7 +1,121 @@
 {
-  "updatedAt": "2026-08-17",
+  "updatedAt": "2026-08-18",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-08-18",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 14,
+        "totalTweets": 30,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-08-18T07:03:56.144Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "What is an obvious thing that we should do with Codex, API or our models that we should just do but haven't yet? What is 100% within reach, but we just seem to be missing? / Gimme, gimme, gimme Codex after midnight Won’t somebody make these failing tests all go away? Gimme, gimme, gimme Codex after midnight Ship it through the darkness by the start of the day",
+            "urls": [
+              "https://x.com/thsottiaux/status/2089500941842342287",
+              "https://x.com/thsottiaux/status/2089604619936956778"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "You can now host your repos in Cursor Origin and deploy to Vercel via Cursor Origin which is itself hosted on Vercel. And unlike GitHub, it's online 😁 / Wow",
+            "urls": [
+              "https://x.com/rauchg/status/2089409162270965858",
+              "https://x.com/rauchg/status/2089373735002526018"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "the models have no moat (OpenAI, Anthropic, XAI) the IDEs have no moat (Cursor, Windsurf) the harnesses have no moat (Cognition, Factory, LangChain) the app builders have no moat (Replit, Lovable, Bolt) the wrappers hav… / My hottest take is that brand marketing is going to be THE major differentiator and one of the most prized assets for a company going forward. And, I’m not talking about launch videos or pouring money primarily for “aes…",
+            "urls": [
+              "https://x.com/nikunj/status/2089486802356961364",
+              "https://x.com/nikunj/status/2089374392295842086"
+            ]
+          },
+          {
+            "author": "Boris Cherny",
+            "role": "Claude Code @anthropicai",
+            "summary": "Let us know what you think! / Small quality of life improvements like this add up. More on the way",
+            "urls": [
+              "https://x.com/bcherny/status/2089537919795212565",
+              "https://x.com/bcherny/status/2089538781909332210"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "go into CC and type /design <something you want to design> do it rn / all of the recent proc gen art, video editing and 3d game demos recently have made me update towards LLM coding models being better at a lot of creative work than diffusion models",
+            "urls": [
+              "https://x.com/trq212/status/2089529798850969805",
+              "https://x.com/trq212/status/2089415712007938315"
+            ]
+          },
+          {
+            "author": "Josh Woodward",
+            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+            "summary": "Circling back on this with some updates... What’s the next set of things we can improve to make your Gemini experience even better? #1: Testing revamped Workspace tools in 1-2 weeks #2: 3.7 Flash showed improvements in…",
+            "urls": [
+              "https://x.com/joshwoodward/status/2089520767281324112"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "It’s not enough to scan your code for vulnerabilities; it’s important to try to break them with pen testing. / This team doesn’t have “AI” anywhere in their pitch but has AI growth rates and would have 10x the headcount if they weren’t so AI-pilled.",
+            "urls": [
+              "https://x.com/amasad/status/2089435606338416884",
+              "https://x.com/amasad/status/2089525819567739264"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "When you hear that data is the new oil, this is ultimately what that looks like. AI has such a thirst for data that we’re entering an era where it’s valuable almost in any form. In a world of AI, information actually be…",
+            "urls": [
+              "https://x.com/levie/status/2089499887905997272"
+            ]
+          },
+          {
+            "author": "Madhu Guru",
+            "role": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+            "summary": "The best way to get good at evals is to take a workflow you know really well and figure out how to make its quality measurable. Study the actual traces - the sequence of prompts typical users have, what good responses w…",
+            "urls": [
+              "https://x.com/realmadhuguru/status/2089480958571331623"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "Trajectory have generally impressed me with their tasteful execution on ambitious goals. on our Continual Learning track, @rronak_ gave a very thoughtful overview on how they're tackling the main data problems left in C… / @rronak_",
+            "urls": [
+              "https://x.com/swyx/status/2089393073327653344",
+              "https://x.com/swyx/status/2089393202755502492"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "No Priors",
+            "title": "Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, and Regulatory Capture with Sarah &amp; Elad",
+            "summary": "Speaker 1 | 00:00 - 00:11 70% of France is still nuclear in terms of its power generation. 70%. Where are all the accidents and where are all the kerfuffles and, you know, nothing. Nothing's happened. US is 18%, and we haven't built a reactor in forty years. Speaker 1 | 00:11 - 00:25 We had a safety lobby in the seventies basically kill abundant clean energ…",
+            "url": "https://www.youtube.com/watch?v=6l8oAO_LBx4"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-08-17",
@@ -714,127 +828,6 @@
       "errors": [
         "Podcast feed problem: Podcast: Transcript error for \"🔬The BioAI Phase Shift - Matthew McPartlon &amp; Neil Patil, Chai Discovery\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
       ]
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-08-11",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 18,
-        "totalTweets": 38,
-        "blogPosts": 1,
-        "feedGeneratedAt": "2026-08-11T06:34:38.754Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Hi. It is done. / Usage limits have been reset for all paid ChatGPT Work and Codex users. Happy Monday you all. Hope it is a fantastic week.",
-            "urls": [
-              "https://x.com/thsottiaux/status/2086972802457063486",
-              "https://x.com/thsottiaux/status/2086972933566857393"
-            ]
-          },
-          {
-            "author": "Ryo Lu",
-            "role": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone…",
-            "summary": "i left Cursor. after 10 years inside the tech bubble in San Francisco, Cursor felt like the sharpest version of that world – fast, intense, ambitious, full of people trying to pull the future closer. i’m leaving with gr…",
-            "urls": [
-              "https://x.com/ryolu_/status/2086854498639822942"
-            ]
-          },
-          {
-            "author": "Claude",
-            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
-            "summary": "We're making Claude Sonnet 5's introductory pricing permanent. We launched Sonnet 5 in June at $2 per million input tokens and $10 per million output tokens through August 31, and that price will remain unchanged.",
-            "urls": [
-              "https://x.com/claudeai/status/2086891169217122586"
-            ]
-          },
-          {
-            "author": "Sam Altman",
-            "role": "AI is cool i guess",
-            "summary": "please consider using our models to help defend your systems",
-            "urls": [
-              "https://x.com/sama/status/2086881528282587524"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "Must be load-bearing. / Funny how that headline is about OpenClaw and not Claude. As if the harness could meaningfully prevent a determined user.",
-            "urls": [
-              "https://x.com/steipete/status/2086938582825173277",
-              "https://x.com/steipete/status/2087006417509405084"
-            ]
-          },
-          {
-            "author": "Swyx",
-            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
-            "summary": "worktrees must die this is 20GB of repeated node_modules lol / gpt luna max vs claude fable ultracode sent \"pls build a mostly faithful clone of grok imagine with open models via fal\" i woke up to these two and assumed fable was left and luna was right i was wrong... it was the oth…",
-            "urls": [
-              "https://x.com/swyx/status/2086962980235939920",
-              "https://x.com/swyx/status/2087045848022843451"
-            ]
-          },
-          {
-            "author": "Zara Zhang",
-            "role": "Builder. Dangerously skips permissions. Harvard’17. GitHub:  YouTube:",
-            "summary": "A great way to learn design: Give Codex a well-designed website, ask it to analyze what makes the design great, then ask it to take a complete screenshot of the website & add annotations on the image that breaks down wh… / At the AGI Bar in Beijing, you can get free, unlimited DeepSeek tokens. Customers vibe code while sipping on beers with names like “AGI bubble” You can also buy a “Drinking Plan” which gives you free beer for the whole…",
-            "urls": [
-              "https://x.com/zarazhangrui/status/2086758509979316423",
-              "https://x.com/zarazhangrui/status/2086838277701882031"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "Meta releasing Muse Spark 1.2 as open weights is a *very* big deal. America now finally has its response to the open weights AI race. This will continue to help drive down the cost of intelligence, it allows companies t… / If you told someone 3 months ago that a model released by a US company with frontier-class capability would be available as open weights they wouldn’t believe it. This is very important because it opens up AI adoption i…",
-            "urls": [
-              "https://x.com/levie/status/2086802472950239618",
-              "https://x.com/levie/status/2087009941806797206"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "Are they going to send this to China too? / YC is the YC for hard tech",
-            "urls": [
-              "https://x.com/garrytan/status/2087015462014197906",
-              "https://x.com/garrytan/status/2086855369972937106"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "This tool has become so valuable for cybersecurity defensive work, that it’s become a verb within Vercel. “Did you deepsec it?” “@𝚟 can you deepsec” “/𝚍𝚎𝚎𝚙𝚜𝚎𝚌” It’s a bit like /𝚝𝚑𝚎𝚛𝚖𝚘-𝚗𝚞𝚌𝚕𝚎𝚊𝚛-𝚌𝚘𝚍… / Vercel Sandbox isolates both ① compute and ② network. Kimi's paper shows container-based isolation is not enough for frontier models. Vercel Sandbox uses strong microVM isolation to address ①. OpenAI's escape was on ② t…",
-            "urls": [
-              "https://x.com/rauchg/status/2086965425968148806",
-              "https://x.com/rauchg/status/2086946535716393209"
-            ]
-          }
-        ],
-        "official_blogs": [
-          {
-            "source": "Anthropic Engineering",
-            "title": "How we contain Claude across products",
-            "summary": "Twelve months ago, we'd have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do…",
-            "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
-          }
-        ],
-        "podcasts": [
-          {
-            "source": "No Priors",
-            "title": "Building an Autonomous Enterprise for Real-World Services with Netic Founder Melisa Tokmak",
-            "summary": "Speaker 1 | 00:05 - 00:30 Today on our priors, we're joined by Melissa Tachmak. Melissa is the founder and CEO of Netic, a company that builds AI for different real world services like HVAC, pet care, a variety of other things like that, roofers. Prior to Netic, Melissa was a director of engineering and worked on various aspects of go to market for Scale do…",
-            "url": "https://www.youtube.com/@NoPriorsPodcast"
-          }
-        ]
-      },
-      "errors": []
     }
   ]
 }
