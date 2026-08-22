@@ -1,7 +1,140 @@
 {
-  "updatedAt": "2026-08-20",
+  "updatedAt": "2026-08-21",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-08-21",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 14,
+        "totalTweets": 31,
+        "blogPosts": 3,
+        "feedGeneratedAt": "2026-08-21T07:07:46.815Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "We've investigated a few messages about codex usage limits being different. That's not something we change without engaging the community and being transparent. What we did see is that when talking to affected users man… / Yay, you can now make transparent images in ChatGPT and through the API with GPT-Image-2. Here is a cactus cactus I am about to print and put on my laptop.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2090675027670978569",
+              "https://x.com/thsottiaux/status/2090631723302469995"
+            ]
+          },
+          {
+            "author": "Boris Cherny",
+            "role": "Claude Code @anthropicai",
+            "summary": "We've been working on this with customers for a while. Mythos-class models require additional safety measures and enterprises need to meet their own privacy and compliance rules. Customers can own and control their own…",
+            "urls": [
+              "https://x.com/bcherny/status/2090537902912815536"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "This partnership with @OpenAI is long overdue. Before Replit was in YC, PG asked Sam to recruit us. Here’s Sam telling the story of how we first met: / One of the more underrated aspects of the new Free Mode is how fast it is. Making coding interactive again!",
+            "urls": [
+              "https://x.com/amasad/status/2090514571513708874",
+              "https://x.com/amasad/status/2090484698413740186"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "0.0.5 gets even smaller fits in 2 floppy disks 💾💾😁 (𝚡𝚣-compressed) shipping tomorrow with our most-asked feature! / Bun’s pursuit of simple, fast & open is the perfect match for Vercel and how we think about the world. Congrats @jarredsumner on shipping!",
+            "urls": [
+              "https://x.com/rauchg/status/2090600467592266240",
+              "https://x.com/rauchg/status/2090470175674179695"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "YC is the YC for consumer hardware / Interesting violation of “you should dogfood your own product”",
+            "urls": [
+              "https://x.com/garrytan/status/2090469087722041567",
+              "https://x.com/garrytan/status/2090470082053050655"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "My gut is that alot of AI output can be improved just by building a loop where a manager agent negs the other worker agent with prompts like: \"Are you sure this is the best you can do?\" \"I think you can do better, try a… / I'm on my way back to Vancouver to be with my mom but wanted to take a moment to celebrate crossing 100K subs on YouTube. Excited to share a lot more practical interviews soon to answer your most burning AI questions: 1…",
+            "urls": [
+              "https://x.com/petergyang/status/2090564541499498919",
+              "https://x.com/petergyang/status/2090589731927282021"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "we're launching new Fable safeguards for enterprises that work on your infrastructure so you have control over where your data lives & who has access to it we've been developing it alongside ~100 companies for a bit and…",
+            "urls": [
+              "https://x.com/trq212/status/2090569474139439335"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
+            "summary": "The other day I was feeling unmotivated and talked to Claude about it. Claude said something that completely changed how I see motivation: \"Motivation follows action more than it precedes it\" Boom.",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2090399357145317837"
+            ]
+          },
+          {
+            "author": "Claude",
+            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
+            "summary": " / What are you building with Claude?",
+            "urls": [
+              "https://x.com/claudeai/status/2090557651595722851",
+              "https://x.com/claudeai/status/2090557653294383151"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "by total views, matt’s now the top @aidotengineer speaker in our brief history, and arguably one of the best skills experts in the world — his /grill-me has reached all echelons up to @satyanadella (with some variations… / proud that @vibhuuuus and i did the most recent pod with @eisokant on why NVIDIA just paid him $6B to buy the incredible model factory that is pumping out Thinky-beating models (actually not exaggeration, look at the nu…",
+            "urls": [
+              "https://x.com/swyx/status/2090550020496040266",
+              "https://x.com/swyx/status/2090577677916807429"
+            ]
+          }
+        ],
+        "official_blogs": [
+          {
+            "source": "Anthropic Engineering",
+            "title": "An update on recent Claude Code quality reports",
+            "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116). In this post, we e…",
+            "url": "https://www.anthropic.com/engineering/april-23-postmortem"
+          },
+          {
+            "source": "Anthropic Engineering",
+            "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+            "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently…",
+            "url": "https://www.anthropic.com/engineering/managed-agents"
+          },
+          {
+            "source": "Claude Blog",
+            "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+            "summary": "Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run within the established boundaries of your enterprise, under your security and runtime controls. The sandbox runs on you…",
+            "url": "https://claude.com/blog/claude-managed-agents-updates"
+          }
+        ],
+        "podcasts": [
+          {
+            "source": "No Priors",
+            "title": "From Restoring Sight to Reimagining the Brain, with Max Hodak",
+            "summary": "Speaker 1 | 00:00 - 00:20 The brain very literally, very clearly, plainly is a computer. You can solve computational problems by arranging matter in a certain way and then like taking your hands off and pressing go. We talk about being a brain in a vat. That's what the skull is. Like the brain is connected to the environment through a small number of wires,…",
+            "url": "https://www.youtube.com/watch?v=7HXqMepjvy8"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-08-20",
@@ -701,120 +834,6 @@
         ]
       },
       "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-08-14",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 19,
-        "totalTweets": 36,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-08-14T06:46:42.819Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Sometimes you have have to go /ultrafast. / Work with Google docs, sheets and slides right inside ChatGPT. This has changed how I write documents, brainstorm or proofread things. I just open it and then chat or talk my way through changes and it all happens right…",
-            "urls": [
-              "https://x.com/thsottiaux/status/2088019704803897705",
-              "https://x.com/thsottiaux/status/2088103609477238858"
-            ]
-          },
-          {
-            "author": "Boris Cherny",
-            "role": "Claude Code @anthropicai",
-            "summary": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Slack…",
-            "urls": [
-              "https://x.com/bcherny/status/2088014489438621990"
-            ]
-          },
-          {
-            "author": "Sam Altman",
-            "role": "AI is cool i guess",
-            "summary": "/ultrafast",
-            "urls": [
-              "https://x.com/sama/status/2088101491802243121"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "By next year, using a computer will be optional. Work will radically change. / It’s certainly true at Replit.",
-            "urls": [
-              "https://x.com/amasad/status/2088110851681386864",
-              "https://x.com/amasad/status/2088112901852971056"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "The best things in life are free / Try  with 🆓 GLM 5.2 @ up to 500TPS from @blackboxai",
-            "urls": [
-              "https://x.com/rauchg/status/2087900672083857815",
-              "https://x.com/rauchg/status/2087982033499042205"
-            ]
-          },
-          {
-            "author": "Josh Woodward",
-            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-            "summary": "3.7 Flash: Fast, 50% cheaper, happened in ~3 weeks",
-            "urls": [
-              "https://x.com/joshwoodward/status/2088016871710957587"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "I agree, you need topics per-bot please! / YC is the YC for hard tech",
-            "urls": [
-              "https://x.com/garrytan/status/2088029937714565260",
-              "https://x.com/garrytan/status/2087929926070710381"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "everything truly is code",
-            "urls": [
-              "https://x.com/trq212/status/2088049989306192106"
-            ]
-          },
-          {
-            "author": "Matt Turck",
-            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
-            "summary": "Right now, you're either: * an AI-native rocketship, which sounds fun until you realize it means being in a permanent fundraising situation at ever more scary valuations to hoover up capital and talent, and in a constan…",
-            "urls": [
-              "https://x.com/mattturck/status/2087978386195103916"
-            ]
-          },
-          {
-            "author": "Nikunj Kothari",
-            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
-            "summary": "Grok Bot is a fantastic release.. the UX, the design, the onboarding :chefs-kiss: But I go back and forth on this a lot: Will users (personal and business) want one super agent that holds all the context or sub agents t… / “Matic” was one of the first ten words my son learned.. and he treats it as the fifth member of the family. Using @maticrobots also made it clear to me that useful home robots are here to stay. They continue to surprise…",
-            "urls": [
-              "https://x.com/nikunj/status/2087906119914340540",
-              "https://x.com/nikunj/status/2088029329624371544"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "No Priors",
-            "title": "What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest",
-            "summary": "Speaker 1 | 00:00 - 00:24 COVID happened, Queen's Gambit happened, some news cycles happened, and we're like, oh, this might just be a flash in the pan, like treadmills and sourdough bread. But then in 2023, we had another crazy wave where all these kids started playing in schools because of short form content and the mittens bot and the cheating scandal. A…",
-            "url": "https://www.youtube.com/@NoPriorsPodcast"
-          }
-        ]
-      },
-      "errors": [
-        "Podcast feed problem: Podcast: Error processing Unsupervised Learning: fetch failed"
-      ]
     }
   ]
 }
