@@ -1,7 +1,125 @@
 {
-  "updatedAt": "2026-08-21",
+  "updatedAt": "2026-08-22",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-08-22",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 16,
+        "totalTweets": 34,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-08-22T06:27:29.601Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "The banked reset has landed, I repeat, the banked reset has landed. Have an amazing weekend. / The banked reset will be there by 8pm PST. For all paid users of ChatGPT Work and Codex. Do with this information what you may.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2090964822422949999",
+              "https://x.com/thsottiaux/status/2090947196107764189"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "a skill people at Anthropic have been using a lot recently: ELI5 /eli5 <what you want explained> \"explain like I'm someone who knows nothing about this topic, using a HTML artifact with big pictures and few words\" / debating whether we should make it an official plugin, but you can try installing it here to try with these commands: claude plugin marketplace add anthropics/claude-plugins-community claude plugin install eli5@claude-c…",
+            "urls": [
+              "https://x.com/trq212/status/2090884854590382515",
+              "https://x.com/trq212/status/2090884855798407576"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "This is a UC Berkeley CS professor 😳 / Asian American erasure, example #107492",
+            "urls": [
+              "https://x.com/garrytan/status/2090801607894344047",
+              "https://x.com/garrytan/status/2090797527222439998"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against  until it got to 100/100. It made us close quite a few gaps. We worked hard to make sure the criteria is high quality and worth your time & tok… / now supports your @Grok & Codex subs Test it out on a sandbox. Instant to install:",
+            "urls": [
+              "https://x.com/rauchg/status/2090858571613470919",
+              "https://x.com/rauchg/status/2090953806624489501"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": " / You can just make money from your phone!",
+            "urls": [
+              "https://x.com/amasad/status/2090846057408483668",
+              "https://x.com/amasad/status/2090845035537522925"
+            ]
+          },
+          {
+            "author": "Claude",
+            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
+            "summary": "Point Claude Security at a GitHub repo and Mythos scans for vulnerabilities tracing data across files and reasoning about how components interact. Each finding comes back with a CWE category, confidence and severity rat… / Suggested patches open in Claude Code on the web, using the models your team already uses. These updates are part of our work to give defenders greater access to Mythos results without requiring direct access to the mod…",
+            "urls": [
+              "https://x.com/claudeai/status/2090852316328902930",
+              "https://x.com/claudeai/status/2090852318527033804"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "Hey Instinct, it's not cool to index and retain my emails without my permission and not let me delete them from your records? I can't recommend this to anyone until this is figured out. Thanks @clairevo for spotting thi… / Instinct is very well done. I'm particularly impressed by how smooth the onboarding experience is to connect iMessages, Google Workspace, and my MCPs. The best builder prioritize onboarding and new user needs :) Instinc…",
+            "urls": [
+              "https://x.com/petergyang/status/2090936583814025417",
+              "https://x.com/petergyang/status/2090814910720835633"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "I had the pleasure of speaking at the Agentic AI Summit in Berkeley alongside an incredible bunch of folks. My talk was about \"No Doors for Agents\" / dropping new skill brb",
+            "urls": [
+              "https://x.com/steipete/status/2090898421108605078",
+              "https://x.com/steipete/status/2090946181564440727"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "I think its easy to say \"Simulation is a new scaling law\" and treat it as marketing hyperbole, but midway along this interview you can hear me go from somewhat shitposting to very very serious. I am 2 years late to this… / i have another saas to kill (will share results of Kill My SaaS 1 next week!!)",
+            "urls": [
+              "https://x.com/swyx/status/2090948945753076141",
+              "https://x.com/swyx/status/2090908959590740033"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
+            "summary": "Show up every day Always be launching And don't be afraid of repeating yourself, over and over and over again",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2090702627206214081"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "No Priors",
+            "title": "What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest",
+            "summary": "Speaker 1 | 00:00 - 00:24 COVID happened, Queen's Gambit happened, some news cycles happened, and we're like, oh, this might just be a flash in the pan, like treadmills and sourdough bread. But then in 2023, we had another crazy wave where all these kids started playing in schools because of short form content and the mittens bot and the cheating scandal. A…",
+            "url": "https://www.youtube.com/@NoPriorsPodcast"
+          }
+        ]
+      },
+      "errors": [
+        "Podcast feed problem: Podcast: Transcript error for \"Simulation: the new Scaling Law — Joon Sung Park, Simile AI\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
+      ]
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-08-21",
@@ -710,126 +828,6 @@
             "title": "Why the Next Hit AI Product Will Be Social Why the Next Hit AI Product Will Be Social (Best of the Pod)",
             "summary": "Speaker 1 | 00:00 - 00:20 Google was a founding team that was deeply, deeply technical. As the technology, the underlying technology got more mature, the slider goes forward, forward, forward, more towards the product thinker, product experience. Pinterest, where I was, Snap, Instagram. The CEOs weren't technical at all. They were product geniuses. Speaker…",
             "url": "https://www.youtube.com/watch?v=dlI-5W7d7uU"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-08-15",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 16,
-        "totalTweets": 32,
-        "blogPosts": 1,
-        "feedGeneratedAt": "2026-08-15T06:27:33.693Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "What’s a hard problem codex solved for you this week? Where do you learn from others on how to push the frontier? / Looking for a quick restaurant reservation is now super easy in ChatGPT. Together with a bunch more ships",
-            "urls": [
-              "https://x.com/thsottiaux/status/2088500028721832432",
-              "https://x.com/thsottiaux/status/2088493756391768252"
-            ]
-          },
-          {
-            "author": "Josh Woodward",
-            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-            "summary": "3.7 Flash is in the @GeminiApp / Pomelli is our Google Labs experiment popular with a growing number of small businesses. Why? It's one of the easiest ways to make your products look good in any setting. With this launch, turn those amazing photoshoots…",
-            "urls": [
-              "https://x.com/joshwoodward/status/2088344782821326980",
-              "https://x.com/joshwoodward/status/2088261701028503965"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Vercel is the fastest [AI Gateway] infrastructure in the world",
-            "urls": [
-              "https://x.com/rauchg/status/2088323451132199338"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "We moved the team over to build openclaw with openclaw. Being able to share agent sessions as URLs is a superpower. / Added a short instruction to our shared AGENTS MD file to upload videos to each PR that changes UI state.",
-            "urls": [
-              "https://x.com/steipete/status/2088473882357530979",
-              "https://x.com/steipete/status/2088486859244741020"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "\"Steve Jobs walked by and said the font city names weren't bad, but 'at least call them world-class cities.' That's how Paoli and Wynwood became New York and Geneva.\" / The most surprising thing about using GStack pre-Fable 5 and after is now for many one-way-door questions you might get back in Claude Code, you can actually just say \"Take all recommendations\" and be happy",
-            "urls": [
-              "https://x.com/garrytan/status/2088383794013470812",
-              "https://x.com/garrytan/status/2088388000267002195"
-            ]
-          },
-          {
-            "author": "Matt Turck",
-            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
-            "summary": "The evolution of a workday: Before AI: [decision] [process] [process] [decision] [process] [process] [process] 10pm: still going With AI: [decision] [decision] [decision] [decision] [decision] 3pm: [brain empty] [need c…",
-            "urls": [
-              "https://x.com/mattturck/status/2088323186819539041"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "Amazing outcome. Cursor executed the applied AI strategy flawlessly. Most people completely underestimated the market size in AI coding. The biggest developer tool exits in history were on the order of low billions of d…",
-            "urls": [
-              "https://x.com/levie/status/2088476232933577124"
-            ]
-          },
-          {
-            "author": "Swyx",
-            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
-            "summary": "the reason @databricks \"ipo is lava\" fundraises are a meme is this but unironically the M in their $188B series M stands for \"we are going to kill so many meetings\" / ask away",
-            "urls": [
-              "https://x.com/swyx/status/2088381680478540096",
-              "https://x.com/swyx/status/2088358628000768263"
-            ]
-          },
-          {
-            "author": "Madhu Guru",
-            "role": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
-            "summary": "when everyone can build with ai, your differentiators are product sense, domain knowledge, distribution, execution. / Making steam engines more efficient increased coal demand. Higher-level languages made programming easier and resulted in far more software being built. Spreadsheets made financial analysis cheaper and resulted in busin…",
-            "urls": [
-              "https://x.com/realmadhuguru/status/2088425380130783287",
-              "https://x.com/realmadhuguru/status/2088294414255112329"
-            ]
-          },
-          {
-            "author": "Google Labs",
-            "role": "Google’s home for our latest AI tools and experiments.",
-            "summary": "In the Lab, we’re always tinkering 🧪– from the experiments we graduate to the ones still brewing, we bring the best of our AI models to all kinds of users. Try out these two (if you haven't already!): @PomellibyGoogle…",
-            "urls": [
-              "https://x.com/GoogleLabs/status/2088307370787328223"
-            ]
-          }
-        ],
-        "official_blogs": [
-          {
-            "source": "Claude Blog",
-            "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
-            "summary": "Today we're releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple's Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift. It is very easy to use and can r…",
-            "url": "https://claude.com/blog/claude-for-foundation-models"
-          }
-        ],
-        "podcasts": [
-          {
-            "source": "The MAD Podcast with Matt Turck",
-            "title": "How to Build Long-Horizon AI Agents — Mitch Troyanovsky, Basis",
-            "summary": "Speaker 1 | 00:00 - 00:18 Humans are already used to working with non deterministic systems, it's just the systems are normally their co workers, not their computers. And in many ways, like companies and processes is all about how do you design a system for non deterministic entities to coordinate together to solve a problem? And once you realize that, it's…",
-            "url": "https://www.youtube.com/@DataDrivenNYC/videos"
           }
         ]
       },
