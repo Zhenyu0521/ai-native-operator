@@ -93,6 +93,7 @@ const renderArticle = (source, lines) => {
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>${title} | Learning | AI Native Operator</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
     <meta
       name="description"
       content="${excerpt}"

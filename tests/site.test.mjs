@@ -1,9 +1,28 @@
-import { existsSync, readFileSync } from "node:fs";
+import { existsSync, readFileSync, readdirSync } from "node:fs";
+import { dirname, relative, resolve } from "node:path";
 import { test } from "node:test";
+import { fileURLToPath } from "node:url";
 import assert from "node:assert/strict";
 
 const readFixture = (path) =>
   readFileSync(new URL(`../${path}`, import.meta.url), "utf8");
+
+const repoRoot = fileURLToPath(new URL("../", import.meta.url));
+const ignoredDirectories = new Set(["node_modules", "dist"]);
+
+const listPublicHtmlFiles = (directory = repoRoot) =>
+  readdirSync(directory, { withFileTypes: true }).flatMap((entry) => {
+    if (entry.name.startsWith(".") || ignoredDirectories.has(entry.name)) {
+      return [];
+    }
+
+    const entryPath = resolve(directory, entry.name);
+    if (entry.isDirectory()) {
+      return listPublicHtmlFiles(entryPath);
+    }
+
+    return entry.name.endsWith(".html") ? [entryPath] : [];
+  });
 
 const html = readFixture("index.html");
 const buildSkillsHtml = readFixture("build-skills.html");
@@ -12,6 +31,34 @@ const script = readFileSync(new URL("../script.js", import.meta.url), "utf8");
 const news = JSON.parse(
   readFileSync(new URL("../data/news.json", import.meta.url), "utf8"),
 );
+
+test("every public HTML page uses the shared ANO favicon", () => {
+  const faviconPath = resolve(repoRoot, "favicon.svg");
+
+  assert.equal(existsSync(faviconPath), true, "favicon.svg should exist");
+
+  for (const pagePath of listPublicHtmlFiles()) {
+    const page = readFileSync(pagePath, "utf8");
+    const iconLinks = [
+      ...page.matchAll(/<link\b[^>]*\brel=["']icon["'][^>]*>/gi),
+    ];
+    const pageName = relative(repoRoot, pagePath);
+
+    assert.equal(iconLinks.length, 1, `${pageName} should declare one favicon`);
+
+    const iconTag = iconLinks[0][0];
+    const href = iconTag.match(/\bhref=["']([^"']+)["']/i)?.[1];
+    assert.ok(href, `${pageName} favicon should have an href`);
+    assert.match(iconTag, /\btype=["']image\/svg\+xml["']/i);
+    assert.equal(resolve(dirname(pagePath), href), faviconPath);
+  }
+
+  const syncScript = readFixture("scripts/sync-learning-from-lark.mjs");
+  assert.match(
+    syncScript,
+    /<link rel="icon" href="favicon\.svg" type="image\/svg\+xml" \/>/,
+  );
+});
 
 test("homepage contains core AI Native Operator positioning", () => {
   assert.match(html, /AI Native Operator/);
