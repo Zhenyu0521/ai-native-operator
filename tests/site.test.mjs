@@ -214,6 +214,50 @@ test("learning judgment article is listed and renders as a philosophy article", 
   assert.doesNotMatch(articleHtml, /AI research and products/);
 });
 
+test("learning job title article is listed and renders as a philosophy article", () => {
+  const learningHtml = readFixture("explore-learning.html");
+  const articleHtml = readFixture("learning-ai-job-title-tasks.html");
+
+  assert.match(learningHtml, /learning-ai-job-title-tasks.html/);
+  assert.match(learningHtml, /岗位名称，是AI时代最该被扔掉的东西/);
+  assert.match(learningHtml, /AI 不是在替代岗位，而是在一个一个吃掉岗位里的具体任务/);
+  assert.match(learningHtml, /class="learning-card-visual task-visual"/);
+  assert.match(articleHtml, /AI-Native 工作理念/);
+  assert.match(articleHtml, /岗位名称，是AI时代最该被扔掉的东西/);
+  assert.match(articleHtml, /岗位名称是个幌子，实际工作内容才是关键/);
+  assert.match(articleHtml, /岗位名称是真的会骗人/);
+  assert.match(articleHtml, /选工作的新标准/);
+  assert.match(articleHtml, /岗位还在，但活儿没了/);
+  assert.match(articleHtml, /href="explore-learning.html"/);
+  assert.doesNotMatch(articleHtml, /class="article-cover"/);
+});
+
+test("learning AI tips article is synced from Feishu into work methods", () => {
+  const learningHtml = readFixture("explore-learning.html");
+  const articleHtml = readFixture("learning-ai-usage-tips.html");
+  const sources = JSON.parse(readFixture("data/learning-sources.json"));
+  const syncScript = readFixture("scripts/sync-learning-from-lark.mjs");
+
+  assert.match(learningHtml, /learning-ai-usage-tips.html/);
+  assert.match(learningHtml, /分享3条最近的AI使用tips/);
+  assert.match(learningHtml, /AI-Native 工作方法/);
+  assert.match(learningHtml, /class="learning-card-visual tips-visual"/);
+  assert.match(articleHtml, /AI-Native 工作方法/);
+  assert.match(articleHtml, /分享3条最近的AI使用tips/);
+  assert.match(articleHtml, /管它好不好，先用起来再说/);
+  assert.match(articleHtml, /上下文记忆/);
+  assert.match(articleHtml, /组建自己的 agent 团队/);
+  assert.match(articleHtml, /href="explore-learning.html"/);
+  assert.doesNotMatch(articleHtml, /class="article-cover"/);
+
+  assert.equal(sources[0].sectionTitle, "分享3条最近的AI使用tips");
+  assert.equal(sources[0].category, "work-methods");
+  assert.equal(sources[0].slug, "learning-ai-usage-tips");
+  assert.match(sources[0].docUrl, /URjJd8PiKog7IOxizpvcP31unSe/);
+  assert.match(syncScript, /lark-cli/);
+  assert.match(syncScript, /sectionTitle/);
+});
+
 test("learning article migration guide explains copy-paste publishing flow", () => {
   const guide = readFixture("docs/learning-article-migration.md");
 

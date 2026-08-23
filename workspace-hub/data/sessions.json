@@ -1,7 +1,87 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07",
+  "updatedAt": "2026-08-23",
   "sessions": [
+    {
+      "id": "session-2026-08-23-learning-feishu-sync",
+      "date": "2026-08-23",
+      "status": "done",
+      "summary": "试跑方案 A：从飞书文档《小红书逐字稿（2026.7-2026.9）》中读取章节《分享3条最近的AI使用tips》，生成 Learning 工作方法文章页，并新增飞书来源配置与同步脚本。",
+      "filesChanged": [
+        "data/learning-sources.json",
+        "scripts/sync-learning-from-lark.mjs",
+        "explore-learning.html",
+        "learning-ai-usage-tips.html",
+        "styles.css",
+        "tests/site.test.mjs",
+        "workspace-hub/data/progress.json",
+        "workspace-hub/data/tasks.json",
+        "workspace-hub/data/sessions.json"
+      ],
+      "nextSteps": [
+        "本地打开 explore-learning.html 和 learning-ai-usage-tips.html 检查文章卡片与正文效果。",
+        "若内容确认无误，可提交并 push 到 main，由 Deploy site workflow 同步到 https://siyu0529.com/explore-learning.html。",
+        "下一步可把方案 A 扩展为 GitHub Actions 手动触发或定时触发。"
+      ]
+    },
+    {
+      "id": "session-2026-08-20-learning-job-title",
+      "date": "2026-08-20",
+      "status": "done",
+      "summary": "迭代 Explore / Learning：新增 AI-Native 工作理念文章《岗位名称，是AI时代最该被扔掉的东西》，将其加入 Learning 理念列表首位，并为卡片补充无文字 CSS 任务拆解封面视觉。",
+      "filesChanged": [
+        "explore-learning.html",
+        "learning-ai-job-title-tasks.html",
+        "styles.css",
+        "tests/site.test.mjs",
+        "workspace-hub/data/progress.json",
+        "workspace-hub/data/tasks.json",
+        "workspace-hub/data/sessions.json"
+      ],
+      "nextSteps": [
+        "本地打开 explore-learning.html 和 learning-ai-job-title-tasks.html 检查中文长文阅读效果。",
+        "确认内容和排版后，可提交并 push 到 main，由 Deploy site workflow 同步到 https://siyu0529.com/explore-learning.html。",
+        "继续补充 AI-Native 工作理念文章时，可沿用 learning-ai-job-title-tasks.html 的详情页结构。"
+      ]
+    },
+    {
+      "id": "session-2026-08-09-learning-judgment-publish",
+      "date": "2026-08-09",
+      "status": "done",
+      "summary": "迭代 Explore / Learning：新增 AI-Native 工作理念文章《AI 时代，你不提升判断力，确实没有生存空间》，移除文章详情页截图封面，将列表首卡改为无文字 CSS 判断力封面，并从 Explore 入口移除暂不需要的 Career 模块。",
+      "filesChanged": [
+        "explore.html",
+        "explore-learning.html",
+        "explore-career.html",
+        "learning-ai-judgment-survival.html",
+        "styles.css",
+        "tests/site.test.mjs",
+        "workspace-hub/data/progress.json",
+        "workspace-hub/data/tasks.json",
+        "workspace-hub/data/sessions.json"
+      ],
+      "nextSteps": [
+        "推送到 GitHub 后等待 Deploy site workflow 变绿，再刷新 https://siyu0529.com/explore-learning.html。",
+        "继续补充 AI-Native 工作理念文章，可沿用 learning-ai-judgment-survival.html 的结构。",
+        "后续统一处理 Learning 卡片封面素材，逐步替换剩余截图占位。"
+      ]
+    },
+    {
+      "id": "session-2026-08-07-hub-refresh",
+      "date": "2026-08-07",
+      "status": "done",
+      "summary": "刷新工作区中枢最近两天进展：确认生产部署、News 自动更新、Learning 文章库和 Skills Library 的状态，并把 workspace-control-center 从旧的方案 C 口径校准为方案 B。",
+      "filesChanged": [
+        "workspace-hub/data/progress.json",
+        "workspace-hub/data/tasks.json",
+        "workspace-hub/data/sessions.json"
+      ],
+      "nextSteps": [
+        "后续每次网站开发结束时继续更新 progress、tasks、sessions 三份 JSON。",
+        "如果新增页面，记得同步 progress.json 的 pages 列表。",
+        "如果任务状态变化，记得同步 tasks.json 的 kanban 状态。"
+      ]
+    },
     {
       "id": "session-2026-08-07-learning-news-deploy",
       "date": "2026-08-07",
@@ -71,7 +151,7 @@
     {
       "id": "session-2026-08-03-dashboard-b",
       "date": "2026-08-03",
-      "status": "active",
+      "status": "done",
       "summary": "将工作区中枢从方案 C 调整为方案 B：静态 dashboard 读取 progress、tasks、sessions 三份 JSON。",
       "filesChanged": [
         "workspace-hub/index.html",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07",
+  "updatedAt": "2026-08-23",
   "lanes": ["backlog", "doing", "review", "done"],
   "tasks": [
     {
@@ -35,13 +35,23 @@
     },
     {
       "id": "site-explore-learning-library",
-      "title": "开发 Explore / Learning 文章库和首篇 AI-Native 工作理念文章",
+      "title": "开发 Explore / Learning 文章库和 AI-Native 内容",
       "area": "Explore",
       "status": "done",
       "owner": "Codex",
       "priority": "high",
-      "links": ["explore-learning.html", "learning-ai-native-work-principles.html", "docs/learning-article-migration.md"],
-      "notes": "Learning 已从留白页升级为文章浏览页，包含 AI-Native 工作理念 / 工作方法两个分类、文章卡片、长文模板和复制文章到网站的迁移说明。"
+      "links": ["explore-learning.html", "learning-ai-usage-tips.html", "learning-ai-job-title-tasks.html", "learning-ai-judgment-survival.html", "learning-ai-native-work-principles.html", "docs/learning-article-migration.md"],
+      "notes": "Learning 已从留白页升级为文章浏览页；AI-Native 工作理念已新增判断力和岗位任务拆解两篇真实文章，工作方法已新增《分享3条最近的AI使用tips》。列表卡片使用无文字 CSS 封面，文章详情页移除截图封面。"
+    },
+    {
+      "id": "site-learning-feishu-sync",
+      "title": "试跑飞书文档到 Learning 文章的同步能力",
+      "area": "Automation",
+      "status": "done",
+      "owner": "Codex",
+      "priority": "high",
+      "links": ["data/learning-sources.json", "scripts/sync-learning-from-lark.mjs", "learning-ai-usage-tips.html"],
+      "notes": "方案 A MVP 已完成：配置飞书文档 URL、章节标题、slug、栏目和摘要后，脚本可通过 lark-cli 读取目标章节，生成文章详情页并更新 Learning 工作方法列表；已验证重复运行不破坏页面。"
     },
     {
       "id": "site-production-deploy",
@@ -57,11 +67,11 @@
       "id": "workspace-control-center",
       "title": "建设工作区中枢，捕捉多会话进展并管理任务",
       "area": "Workspace",
-      "status": "doing",
+      "status": "done",
       "owner": "Codex",
       "priority": "high",
-      "links": ["workspace-hub/index.html", "workspace-hub/sync.mjs"],
-      "notes": "方案 C 原型：由 git、任务数据、会话日志和测试状态生成 dashboard。"
+      "links": ["workspace-hub/index.html", "workspace-hub/data/progress.json", "workspace-hub/data/tasks.json", "workspace-hub/data/sessions.json"],
+      "notes": "已按方案 B 落地：本地 dashboard 读取 progress、tasks、sessions 三份 JSON，作为多会话进展和任务管理中枢。"
     },
     {
       "id": "site-content-placeholders",
@@ -71,7 +81,7 @@
       "owner": "Zhenyu",
       "priority": "medium",
       "links": ["explore-learning.html", "build-projects.html", "share-career-coaching.html"],
-      "notes": "当前留白页已经有结构，后续逐步填充真实内容。"
+      "notes": "Explore / Learning 已开始填充真实文章；Explore / Career 已从入口移除。后续继续补全 Tools、Build Projects 和 Share 下的服务内容。"
     }
   ]
 }

@@ -1106,6 +1106,114 @@ h1 {
   transform: rotate(-18deg);
 }
 
+.task-bar {
+  position: absolute;
+  z-index: 1;
+  display: block;
+  height: 10px;
+  border: 1px solid rgba(121, 54, 31, 0.28);
+  border-radius: 999px;
+  background: rgba(255, 253, 247, 0.76);
+  box-shadow: 0 10px 22px rgba(47, 39, 27, 0.08);
+}
+
+.task-bar-a {
+  width: 42%;
+  left: 17%;
+  top: 24%;
+}
+
+.task-bar-b {
+  width: 58%;
+  left: 17%;
+  top: 39%;
+}
+
+.task-bar-c {
+  width: 36%;
+  right: 15%;
+  bottom: 35%;
+}
+
+.task-bar-d {
+  width: 50%;
+  right: 15%;
+  bottom: 21%;
+}
+
+.task-node-a {
+  left: 16%;
+  top: 36%;
+  background: var(--accent);
+}
+
+.task-node-b {
+  right: 17%;
+  bottom: 18%;
+  background: var(--sky);
+}
+
+.tips-step,
+.tips-line {
+  position: absolute;
+  z-index: 1;
+  display: block;
+}
+
+.tips-step {
+  width: 44px;
+  height: 44px;
+  border: 2px solid rgba(255, 253, 247, 0.9);
+  border-radius: 999px;
+  background: rgba(121, 54, 31, 0.9);
+  box-shadow: 0 0 0 1px rgba(24, 23, 19, 0.14);
+}
+
+.tips-step::before {
+  content: "";
+  position: absolute;
+  inset: 12px;
+  border-radius: inherit;
+  background: rgba(255, 253, 247, 0.88);
+}
+
+.tips-step-a {
+  left: 17%;
+  top: 24%;
+}
+
+.tips-step-b {
+  left: 43%;
+  top: 39%;
+  background: var(--sky);
+}
+
+.tips-step-c {
+  right: 18%;
+  bottom: 22%;
+  background: var(--sage);
+}
+
+.tips-line {
+  height: 2px;
+  background: rgba(24, 23, 19, 0.2);
+  transform-origin: left center;
+}
+
+.tips-line-a {
+  width: 34%;
+  left: 27%;
+  top: 40%;
+  transform: rotate(22deg);
+}
+
+.tips-line-b {
+  width: 31%;
+  left: 53%;
+  bottom: 37%;
+  transform: rotate(-21deg);
+}
+
 .learning-card-media img,
 .article-cover img {
   display: block;
