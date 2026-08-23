@@ -20,9 +20,13 @@ const normalizeText = (value) =>
     .replace(/pua/gi, "PUA")
     .replace(/\bai\b/gi, "AI")
     .replace(/\bcodex\b/gi, "Codex")
-    .replace(/\bagent\b/gi, " agent ")
+    .replace(/\bagent\b/gi, "agent")
     .replace(/([\u4e00-\u9fa5])AI/g, "$1 AI")
     .replace(/AI(?!-)([\u4e00-\u9fa5])/g, "AI $1")
+    .replace(/([\u4e00-\u9fa5])Codex/g, "$1 Codex")
+    .replace(/Codex([\u4e00-\u9fa5])/g, "Codex $1")
+    .replace(/([\u4e00-\u9fa5])agent/g, "$1 agent")
+    .replace(/agent([\u4e00-\u9fa5])/g, "agent $1")
     .replace(/\s+/g, " ")
     .replace(/AI - native/gi, "AI-Native")
     .trim();
@@ -148,6 +152,14 @@ const renderVisual = (visualClass) => {
                   <span class="tips-step tips-step-c"></span>
                   <span class="tips-line tips-line-a"></span>
                   <span class="tips-line tips-line-b"></span>
+                </span>`;
+  }
+  if (visualClass === "parallel-visual") {
+    return `<span class="learning-card-visual parallel-visual" aria-hidden="true">
+                  <span class="parallel-pane parallel-pane-a"></span>
+                  <span class="parallel-pane parallel-pane-b"></span>
+                  <span class="parallel-pane parallel-pane-c"></span>
+                  <span class="parallel-core"></span>
                 </span>`;
   }
 

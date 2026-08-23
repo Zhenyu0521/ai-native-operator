@@ -305,6 +305,29 @@ test("learning AI tips article is synced from Feishu into work methods", () => {
   assert.match(syncScript, /sectionTitle/);
 });
 
+test("learning multi-agent overload article is synced from Feishu into work methods", () => {
+  const learningHtml = readFixture("explore-learning.html");
+  const articleHtml = readFixture("learning-agent-parallel-overload.html");
+  const sources = JSON.parse(readFixture("data/learning-sources.json"));
+  const source = sources.find((item) => item.slug === "learning-agent-parallel-overload");
+
+  assert.match(learningHtml, /learning-agent-parallel-overload.html/);
+  assert.match(learningHtml, /多agent并行让我非常内耗甚至拖慢我的效率/);
+  assert.match(learningHtml, /AI-Native 工作方法/);
+  assert.match(articleHtml, /AI-Native 工作方法/);
+  assert.match(articleHtml, /多agent并行让我非常内耗甚至拖慢我的效率/);
+  assert.match(articleHtml, /不仅没让我的工作效率提升/);
+  assert.match(articleHtml, /我仿佛成了 agent 的助理/);
+  assert.match(articleHtml, /人的“记忆”是有限的/);
+  assert.match(articleHtml, /强制要求自己同时最多解决两个方向的问题/);
+  assert.match(articleHtml, /href="explore-learning.html"/);
+  assert.doesNotMatch(articleHtml, /class="article-cover"/);
+
+  assert.equal(source.sectionTitle, "多agent并行让我非常内耗甚至拖慢我的效率");
+  assert.equal(source.category, "work-methods");
+  assert.match(source.docUrl, /URjJd8PiKog7IOxizpvcP31unSe/);
+});
+
 test("learning article migration guide explains copy-paste publishing flow", () => {
   const guide = readFixture("docs/learning-article-migration.md");
 

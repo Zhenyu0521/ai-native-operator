@@ -10,5 +10,17 @@
     "tags": ["AI 使用", "上下文记忆", "Agent 团队"],
     "excerpt": "先破掉自己的行为惯性和路径依赖，再把上下文记忆和 agent 分工用起来。AI 用得越多，越考验你能不能把任务、背景和边界拆清楚。",
     "visualClass": "tips-visual"
+  },
+  {
+    "docUrl": "https://my.feishu.cn/docx/URjJd8PiKog7IOxizpvcP31unSe",
+    "sectionTitle": "多agent并行让我非常内耗甚至拖慢我的效率",
+    "slug": "learning-agent-parallel-overload",
+    "category": "work-methods",
+    "categoryLabel": "AI-Native 工作方法",
+    "status": "published",
+    "publishedAt": "2026-08-23",
+    "tags": ["多 Agent", "人机协同", "上下文切换"],
+    "excerpt": "多 agent 并行不一定带来效率提升。真正的瓶颈，往往是人要在多个上下文、任务记忆和判断标准之间来回切换。",
+    "visualClass": "parallel-visual"
   }
 ]
