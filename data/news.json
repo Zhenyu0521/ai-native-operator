@@ -1,7 +1,113 @@
 {
-  "updatedAt": "2026-08-22",
+  "updatedAt": "2026-08-23",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-08-23",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 9,
+        "totalTweets": 19,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-08-23T06:27:32.823Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "San Francisco is a paradise on Earth / AI can do many wonderful things and grant many wishes, but we have only one earth, one California, one Patagonia, one Mendoza. USA and Argentina are two of the freest countries that also happen to have the most glorious…",
+            "urls": [
+              "https://x.com/rauchg/status/2091263423359389951",
+              "https://x.com/rauchg/status/2091338152791474331"
+            ]
+          },
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Update on rate limits in Codex. We’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversa…",
+            "urls": [
+              "https://x.com/thsottiaux/status/2091407991736332689"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "“Pretty soon” turned out to be 3 months. / A week has 7 days That means 7 ships",
+            "urls": [
+              "https://x.com/amasad/status/2091217410615644349",
+              "https://x.com/amasad/status/2091346778746757204"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "If you care about your privacy: 1. Go to  in Chrome 2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser 3. Then pick the ones you want to remove and tell AI to do it Just disconnec… / I’m working on a new AI skill. It’s called /fuck-cancer Goal is to help patients and their family navigate this whole process and stay informed. What should I include in it?",
+            "urls": [
+              "https://x.com/petergyang/status/2091331251211059468",
+              "https://x.com/petergyang/status/2091239339204415969"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
+            "summary": "Everyone who’s ahead in using AI thinks they’re behind / There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing But when the same individual is put into a large organization, they at most increase their pot…",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2091338374447763481",
+              "https://x.com/zarazhangrui/status/2091379220257603593"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "Kids, I don't know what advice you are getting, but ragebaiting investors and then sending them SAFE docs to just wire you money is NOT how investing works.. / We complain about slop at X, but LinkedIn has stooped to unimaginable levels of slop 🤮",
+            "urls": [
+              "https://x.com/nikunj/status/2091381756012511244",
+              "https://x.com/nikunj/status/2091220881590927441"
+            ]
+          },
+          {
+            "author": "Dan Shipper",
+            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
+            "summary": "agent native ftw / we’re hiring @every!",
+            "urls": [
+              "https://x.com/danshipper/status/2091162447029608735",
+              "https://x.com/danshipper/status/2091361962068254840"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the rel…",
+            "urls": [
+              "https://x.com/levie/status/2091359223368315050"
+            ]
+          },
+          {
+            "author": "Madhu Guru",
+            "role": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+            "summary": "How to build great evals - part 6 Hill climbing on evals is just a fancy way of saying: pick a dimension that matters and optimize for it. This could be improving the quality of existing features based on your latest pr… / Part 1  Part 2  Part 3  Part 4  Part 5",
+            "urls": [
+              "https://x.com/realmadhuguru/status/2091278653435072523",
+              "https://x.com/realmadhuguru/status/2091278899711967441"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "AI & I by Every",
+            "title": "Microsoft’s Vision for an Internet Made for Agents With CTO Kevin Scott (Best of the Pod)",
+            "summary": "Speaker 1 | 00:00 - 00:10 You're someone who, I think, cares a lot about the craft of things. One of the knocks on, you know, using agents for coding is it gets rid of some of that feeling or something like that. How do you feel about that? Speaker 2 | 00:10 - 00:38 I love the fact that my people, you know, makers, writ large, so software engineers or, you…",
+            "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-08-22",
@@ -715,119 +821,6 @@
             "title": "“OpenAI’s Model Hacked Us” - Hugging Face’s Thomas Wolf",
             "summary": "Speaker 1 | 00:00 - 00:20 You kinda have to move fast. It's a matter of at least hours and even more minutes. So you don't have time to apply for cybersecurity programs. The model was not at all tasked with attacking us, but decided to do that as a side quest of something else. They created fake accounts, fake GitHub account, trying to attack the sandbox by…",
             "url": "https://www.youtube.com/watch?v=FU9A481E2W8"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-08-16",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 12,
-        "totalTweets": 23,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-08-16T06:27:46.023Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Incredible things are happening at OpenAI right now. Energy is high. / If you have a company and still use Opus instead of Sol, why so? Does price not matter to you? What's something that would convince you to switch?",
-            "urls": [
-              "https://x.com/thsottiaux/status/2088725514542575903",
-              "https://x.com/thsottiaux/status/2088850995430477882"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "Watermarking without quality loss is a bit unintuitive, doesn't feel like it should work. I made this artifact with Claude to help me understand how it works, sharing in case it's helpful. / ",
-            "urls": [
-              "https://x.com/trq212/status/2088721023223132213",
-              "https://x.com/trq212/status/2088721024825344289"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "I think people don’t realize how much of the success of React is actually @shadcn. I once referred to React as the actual “LEGO brick for adults.” But in reality it was more the description of the geometry of the bricks… / Impressive",
-            "urls": [
-              "https://x.com/rauchg/status/2088757738037989755",
-              "https://x.com/rauchg/status/2088801077659635715"
-            ]
-          },
-          {
-            "author": "Aditya Agarwal",
-            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
-            "summary": "America turned 250 years old earlier this year. India turns 80 today...80 years young. Building countries is really hard. 80 years in...America was struggling with a civil war. Indians should be damn proud of the countr… / This is remarkably well done. And of course featuring our very own @shreepoorna365. Let's go.",
-            "urls": [
-              "https://x.com/adityaag/status/2088734739893293175",
-              "https://x.com/adityaag/status/2088629172512195035"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "Anyone else's Codex Desktop app erroring out on chats? / Whitepill timeline cleanser: Progress and abundance looks like record production of crops, year on year, progressing upwards and to the right. This is the output of markets and technology working together for millenia.",
-            "urls": [
-              "https://x.com/garrytan/status/2088642982614651196",
-              "https://x.com/garrytan/status/2088661047913914847"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "I am a fan of Grok Bot but @X is the #1 differentiated data source that it should have access to and it doesn't seem to work? The connector doesn't work and I can't even login to X on the cloud computer. Am I doing some… / Tomorrow, I’m really excited to share a new episode with @rileybrown on how he uses Codex to run his entire content business. I particularly loved watching him demo how he creates YouTube thumbnails with AI: 1. He uses…",
-            "urls": [
-              "https://x.com/petergyang/status/2088773343629750535",
-              "https://x.com/petergyang/status/2088626815166464507"
-            ]
-          },
-          {
-            "author": "Swyx",
-            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
-            "summary": "in case you’re not living in the tech bubble, as a general rule i’ve been surprised by how infrequently top tier folks actually meet/know each other. as an outsider i might have assumed that everyone is in secret illumi…",
-            "urls": [
-              "https://x.com/swyx/status/2088755688361378082"
-            ]
-          },
-          {
-            "author": "Dan Shipper",
-            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
-            "summary": "Dario should tweet more",
-            "urls": [
-              "https://x.com/danshipper/status/2088780884048552202"
-            ]
-          },
-          {
-            "author": "Nikunj Kothari",
-            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
-            "summary": "Last week I’m sitting across a stealth portfolio founder working in a deeply unsexy space (at least from Bay Area standards).. They’re lamenting about how how some of the critical contracts and partnerships that would g…",
-            "urls": [
-              "https://x.com/nikunj/status/2088716743615352963"
-            ]
-          },
-          {
-            "author": "Madhu Guru",
-            "role": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
-            "summary": "There is no longer an excuse for B2B software to have such poor UX. Thanks to AI, every software product can and should be as easy to use as the best consumer software.",
-            "urls": [
-              "https://x.com/realmadhuguru/status/2088710566689018103"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "AI & I by Every",
-            "title": "Why the Next Hit AI Product Will Be Social Why the Next Hit AI Product Will Be Social (Best of the Pod)",
-            "summary": "Speaker 1 | 00:00 - 00:20 Google was a founding team that was deeply, deeply technical. As the technology, the underlying technology got more mature, the slider goes forward, forward, forward, more towards the product thinker, product experience. Pinterest, where I was, Snap, Instagram. The CEOs weren't technical at all. They were product geniuses. Speaker…",
-            "url": "https://www.youtube.com/watch?v=dlI-5W7d7uU"
           }
         ]
       },
