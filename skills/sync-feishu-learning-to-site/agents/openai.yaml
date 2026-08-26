@@ -1,0 +1,7 @@
+interface:
+  display_name: "Sync Feishu Learning"
+  short_description: "同步飞书文章到个人网站 Learning"
+  brand_color: "#8F4B2E"
+  default_prompt: "Use $sync-feishu-learning-to-site to sync a Feishu article into my personal website Learning section."
+policy:
+  allow_implicit_invocation: true
