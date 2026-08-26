@@ -2,6 +2,13 @@
 
 这里记录 `sync-feishu-learning-to-site` 的重要迭代。
 
+## 2026-08-27 — 网站 Skills Library 版
+
+- 在 Build / Skills Library 新增 Skill 卡片和独立详情页。
+- 网站详情页补充四阶段工作流、必要输入、安装方式和安全边界。
+- 新增公开 Skill 完整性、隐私扫描、网站入口和本地迭代记录测试。
+- 采用 GitHub 源码先行、网站部署后发的两阶段发布方式。
+
 ## 2026-08-27 — GitHub 目录版
 
 - 在 `ai-native-operator` 仓库中新增顶层 `skills/` 目录并收录本 Skill。

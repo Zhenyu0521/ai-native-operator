@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-08-27",
   "project": {
     "name": "个人网站制作",
     "mode": "Personal site build workspace"
@@ -19,6 +19,10 @@
     "AI-Native 工作理念已新增真实文章《岗位名称，是AI时代最该被扔掉的东西》，继续沿用无文字 CSS 封面与长文详情页模板。",
     "Explore / Learning 已新增飞书文档同步 MVP：通过 data/learning-sources.json 配置来源，scripts/sync-learning-from-lark.mjs 可读取飞书章节并生成文章页。",
     "AI-Native 工作方法已从飞书文档同步文章《分享3条最近的AI使用tips》，并加入 Learning 工作方法列表。",
+    "AI-Native 工作方法已从飞书文档同步文章《多agent并行让我非常内耗甚至拖慢我的效率》，并加入 Learning 工作方法列表。",
+    "已新增个人 Codex skill：sync-feishu-learning-to-site，用于后续按飞书链接和文章标题同步 Learning 文章、测试、发布并更新开发进展。",
+    "sync-feishu-learning-to-site 已以可迁移、无本机路径的公开版本收录到网站 GitHub 仓库 skills/ 目录。",
+    "Build / Skills Library 已新增 Sync Feishu Learning to Site 卡片和详情页，并采用 GitHub 源码先行、网站部署后发的两阶段发布方式。",
     "Explore 入口已移除 Career 模块，当前只保留 Learning / Tools / News。",
     "工作区中枢已按方案 B 校准为本地 dashboard + progress / tasks / sessions 三份 JSON 的轻量管理方式。"
   ],
@@ -26,6 +30,7 @@
     { "path": "index.html", "title": "Home", "status": "active", "area": "Home" },
     { "path": "explore.html", "title": "Explore", "status": "active", "area": "Explore" },
     { "path": "explore-learning.html", "title": "Learning", "status": "active", "area": "Explore" },
+    { "path": "learning-agent-parallel-overload.html", "title": "多agent并行让我非常内耗甚至拖慢我的效率", "status": "active", "area": "Learning" },
     { "path": "learning-ai-usage-tips.html", "title": "分享3条最近的AI使用tips", "status": "active", "area": "Learning" },
     { "path": "learning-ai-job-title-tasks.html", "title": "岗位名称，是AI时代最该被扔掉的东西", "status": "active", "area": "Learning" },
     { "path": "learning-ai-judgment-survival.html", "title": "AI 时代，你不提升判断力，确实没有生存空间", "status": "active", "area": "Learning" },
@@ -38,9 +43,11 @@
     { "path": "docs/learning-article-migration.md", "title": "Learning Article Migration Guide", "status": "active", "area": "Learning" },
     { "path": "data/learning-sources.json", "title": "Learning Feishu Sources", "status": "active", "area": "Learning" },
     { "path": "scripts/sync-learning-from-lark.mjs", "title": "Learning Feishu Sync Script", "status": "active", "area": "Automation" },
+    { "path": "skills/sync-feishu-learning-to-site/SKILL.md", "title": "Sync Feishu Learning To Site Skill", "status": "active", "area": "Automation" },
     { "path": "build.html", "title": "Build", "status": "active", "area": "Build" },
     { "path": "build-skills.html", "title": "Skills Library", "status": "active", "area": "Build" },
     { "path": "build-skill-data-analysis-interview.html", "title": "Data Analysis Interview Skill", "status": "active", "area": "Build" },
+    { "path": "build-skill-sync-feishu-learning-to-site.html", "title": "Sync Feishu Learning to Site", "status": "active", "area": "Build" },
     { "path": "share.html", "title": "Share", "status": "active", "area": "Share" }
   ],
   "nextActions": [

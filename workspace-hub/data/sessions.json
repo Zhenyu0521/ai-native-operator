@@ -1,7 +1,74 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-08-27",
   "sessions": [
+    {
+      "id": "session-2026-08-27-feishu-sync-skill-publication",
+      "date": "2026-08-27",
+      "status": "done",
+      "summary": "将 sync-feishu-learning-to-site 以可迁移、无本机绝对路径的公开版本加入 ai-native-operator 仓库 skills/ 目录；先用跳过 Actions 的提交发布 GitHub 源码并验证可见，再新增 Build / Skills Library 卡片、详情页、回归测试和完整迭代记录，随后通过正常 main 推送发布网站。",
+      "filesChanged": [
+        "skills/sync-feishu-learning-to-site/README.md",
+        "skills/sync-feishu-learning-to-site/SKILL.md",
+        "skills/sync-feishu-learning-to-site/CHANGELOG.md",
+        "skills/sync-feishu-learning-to-site/agents/openai.yaml",
+        "build-skills.html",
+        "build-skill-sync-feishu-learning-to-site.html",
+        "styles.css",
+        "tests/site.test.mjs",
+        "tests/workspace-hub.test.mjs",
+        "docs/superpowers/specs/2026-08-27-sync-feishu-skill-publication-design.md",
+        "docs/superpowers/plans/2026-08-27-sync-feishu-skill-publication.md",
+        "workspace-hub/data/progress.json",
+        "workspace-hub/data/tasks.json",
+        "workspace-hub/data/sessions.json"
+      ],
+      "nextSteps": [
+        "后续可继续把网站拥有的 Codex Skills 收录到顶层 skills/ 目录。",
+        "每次改动 Skill 工作流时同步更新 SKILL.md、README.md 和 CHANGELOG.md。",
+        "继续使用 GitHub Actions Deploy site 发布网站，并在每次上线后验证 Skills Library 与详情页。"
+      ]
+    },
+    {
+      "id": "session-2026-08-23-learning-agent-parallel-publish",
+      "date": "2026-08-23",
+      "status": "done",
+      "summary": "通过 sync-feishu-learning-to-site 工作流，从飞书文档《小红书逐字稿（2026.7-2026.9）》中同步文章《多agent并行让我非常内耗甚至拖慢我的效率》到 Learning / AI-Native 工作方法，并准备发布到线上。",
+      "filesChanged": [
+        "data/learning-sources.json",
+        "scripts/sync-learning-from-lark.mjs",
+        "explore-learning.html",
+        "learning-agent-parallel-overload.html",
+        "styles.css",
+        "tests/site.test.mjs",
+        "workspace-hub/data/progress.json",
+        "workspace-hub/data/tasks.json",
+        "workspace-hub/data/sessions.json"
+      ],
+      "nextSteps": [
+        "等待 git push 后 GitHub Actions Deploy site 运行完成。",
+        "刷新 https://siyu0529.com/explore-learning.html 检查新文章卡片和详情页。",
+        "后续继续使用 sync-feishu-learning-to-site skill 发布飞书文章。"
+      ]
+    },
+    {
+      "id": "session-2026-08-23-sync-feishu-learning-skill",
+      "date": "2026-08-23",
+      "status": "done",
+      "summary": "新增个人 Codex skill：sync-feishu-learning-to-site。后续当用户要求把飞书内容同步到网站时，该 skill 会引导收集飞书链接、文章标题、Learning 栏目和发布模式，并执行飞书读取、文章生成、测试、开发进展更新与可选线上发布。",
+      "filesChanged": [
+        "skills/sync-feishu-learning-to-site/SKILL.md",
+        "skills/sync-feishu-learning-to-site/agents/openai.yaml",
+        "workspace-hub/data/progress.json",
+        "workspace-hub/data/tasks.json",
+        "workspace-hub/data/sessions.json"
+      ],
+      "nextSteps": [
+        "下次可直接说“把飞书文章同步到网站”，触发 sync-feishu-learning-to-site 工作流。",
+        "首次新会话若 skill 列表未刷新，可重启 Codex 后再使用。",
+        "后续可继续把发布确认、GitHub Actions 状态检查和飞书同步脚本参数化做得更自动。"
+      ]
+    },
     {
       "id": "session-2026-08-23-learning-feishu-sync",
       "date": "2026-08-23",

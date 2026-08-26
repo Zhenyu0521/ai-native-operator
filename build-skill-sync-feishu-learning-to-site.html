@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sync Feishu Learning to Site | AI Native Operator</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <meta
+      name="description"
+      content="A Codex Skill that turns a selected Feishu document section into a tested Learning article and optionally publishes it to AI Native Operator."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="AI Native Operator home"><span class="brand-mark" data-logo="ano-monogram" aria-hidden="true"><span class="monogram-letter">A</span><span class="monogram-letter">N</span><span class="monogram-letter">O</span></span><span>AI Native Operator</span></a>
+      <nav class="nav" aria-label="Primary navigation"><a href="index.html#philosophy">Philosophy</a><a href="explore.html">Explore</a><a href="build.html">Build</a><a href="share.html">Share</a></nav>
+    </header>
+
+    <main id="top">
+      <section class="section-shell skill-detail skill-detail-page">
+        <a class="back-link" href="build-skills.html">Back to Skills Library</a>
+
+        <section class="skill-hero" aria-labelledby="skill-title">
+          <div>
+            <p class="section-kicker">Codex Workflow Skill</p>
+            <h1 id="skill-title">Sync Feishu Learning to Site</h1>
+            <p class="page-intro">
+              Turn a selected Feishu document section into a tested Learning article, then publish only after confirmation.
+            </p>
+            <p>
+              这个 Skill 把飞书文档读取、文章定位、页面生成、本地测试、迭代记录和 GitHub Actions 发布串成一条可重复执行的工作流。
+            </p>
+            <div class="skill-tags" aria-label="Skill tags">
+              <span>Feishu</span>
+              <span>Learning</span>
+              <span>Codex Skill</span>
+              <span>GitHub Actions</span>
+            </div>
+            <div class="featured-skill-actions">
+              <a class="button primary" href="https://github.com/Zhenyu0521/ai-native-operator/tree/main/skills/sync-feishu-learning-to-site" target="_blank" rel="noreferrer">View on GitHub</a>
+            </div>
+          </div>
+          <aside class="skill-meta" aria-label="Skill metadata">
+            <span>Scope</span>
+            <strong>Feishu → Learning</strong>
+            <span>Output</span>
+            <strong>Static article + index card</strong>
+            <span>Publication</span>
+            <strong>GitHub Actions</strong>
+            <span>Repository</span>
+            <a href="https://github.com/Zhenyu0521/ai-native-operator/tree/main/skills/sync-feishu-learning-to-site" target="_blank" rel="noreferrer">GitHub source</a>
+          </aside>
+        </section>
+
+        <section class="detail-section" aria-labelledby="workflow-title">
+          <p class="section-kicker">How It Works</p>
+          <h2 id="workflow-title">四步把飞书章节变成线上 Learning 文章。</h2>
+          <div class="skill-workflow-grid">
+            <article><span>01</span><h3>定位章节</h3><p>读取飞书文档，并用完全一致的一级标题锁定需要发布的内容。</p></article>
+            <article><span>02</span><h3>生成页面</h3><p>确认栏目、slug、标签和摘要，再生成文章页与 Learning 卡片。</p></article>
+            <article><span>03</span><h3>校验与记录</h3><p>重复运行同步脚本，执行测试和 JSON 校验，并更新项目迭代记录。</p></article>
+            <article><span>04</span><h3>确认后发布</h3><p>只提交目标文件，推送 GitHub，并确认 Deploy site 成功后检查线上页面。</p></article>
+          </div>
+        </section>
+
+        <section class="detail-section" aria-labelledby="inputs-title">
+          <p class="section-kicker">Required Inputs</p>
+          <h2 id="inputs-title">开始前只需要确认四件事。</h2>
+          <ul class="prompt-list">
+            <li>飞书文档链接。</li>
+            <li>与文档中一级标题完全一致的文章标题。</li>
+            <li>AI-Native 工作理念，或 AI-Native 工作方法。</li>
+            <li>只生成本地预览，或预览后发布到线上。</li>
+          </ul>
+        </section>
+
+        <section class="detail-section" aria-labelledby="install-title">
+          <p class="section-kicker">Installation</p>
+          <h2 id="install-title">从网站仓库安装到 Codex。</h2>
+          <p>在 <code>ai-native-operator</code> 仓库根目录运行：</p>
+          <pre class="code-panel skill-code-block"><code>mkdir -p ~/.codex/skills
+cp -R skills/sync-feishu-learning-to-site ~/.codex/skills/</code></pre>
+        </section>
+
+        <section class="detail-section" aria-labelledby="safety-title">
+          <p class="section-kicker">Safety Boundaries</p>
+          <h2 id="safety-title">自动化负责执行，发布权仍然留在人手里。</h2>
+          <div class="detail-grid">
+            <article><h3>明确授权</h3><p>没有明确的线上发布请求，就只生成和验证本地预览。</p></article>
+            <article><h3>精确提交</h3><p>发布前检查工作区，只提交目标文章、页面和必要配置。</p></article>
+            <article><h3>凭证隔离</h3><p>不写入飞书认证、GitHub token、部署 Secret 或本机绝对路径。</p></article>
+            <article><h3>结果可验证</h3><p>同时检查测试、GitHub 提交、部署任务和最终线上页面。</p></article>
+          </div>
+        </section>
+
+        <section class="detail-section final-note" aria-labelledby="status-title">
+          <p class="section-kicker">Current Status</p>
+          <h2 id="status-title">已经从一次性同步流程，迭代为可复用的项目 Skill。</h2>
+          <p>
+            当前版本已在真实 Learning 文章发布中复用，并将 Skill 源码、安装说明和迭代记录统一收录在网站 GitHub 仓库中。
+          </p>
+        </section>
+      </section>
+    </main>
+
+    <script src="script.js?v=split-pages"></script>
+  </body>
+</html>

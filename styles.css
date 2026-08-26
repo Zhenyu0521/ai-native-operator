@@ -508,6 +508,11 @@ h1 {
   padding: clamp(48px, 8vw, 96px) 0;
 }
 
+.skill-library-list {
+  display: grid;
+  gap: 18px;
+}
+
 .featured-skill,
 .skill-hero,
 .detail-section {
@@ -610,26 +615,40 @@ h1 {
 }
 
 .detail-grid,
+.skill-workflow-grid,
 .process-row {
   display: grid;
   gap: 14px;
 }
 
-.detail-grid {
+.detail-grid,
+.skill-workflow-grid {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
 .detail-grid article,
+.skill-workflow-grid article,
 .process-row article {
   border-top: 1px solid var(--line);
   padding-top: 16px;
 }
 
 .detail-grid h3,
+.skill-workflow-grid h3,
 .process-row h3,
 .module-card h3 {
   margin: 0 0 10px;
   font-size: 22px;
+}
+
+.skill-workflow-grid span {
+  color: var(--accent-dark);
+  font-size: 12px;
+  font-weight: 850;
+}
+
+.skill-detail-page .featured-skill-actions {
+  margin-top: 24px;
 }
 
 .compact-stack .module-card {
@@ -1443,6 +1462,7 @@ h1 {
   .featured-skill,
   .skill-hero,
   .detail-grid,
+  .skill-workflow-grid,
   .process-row,
   .compact-stack .module-card {
     grid-template-columns: 1fr;

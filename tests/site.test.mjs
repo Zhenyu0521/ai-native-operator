@@ -392,6 +392,69 @@ test("data analysis interview skill detail explains purpose, usage, and install 
   assert.match(detailHtml, /href="build-skills.html"/);
 });
 
+test("skills library presents the Feishu Learning sync skill", () => {
+  const detailPath = new URL(
+    "../build-skill-sync-feishu-learning-to-site.html",
+    import.meta.url,
+  );
+  const githubUrl =
+    "https://github.com/Zhenyu0521/ai-native-operator/tree/main/skills/sync-feishu-learning-to-site";
+
+  assert.equal(
+    existsSync(detailPath),
+    true,
+    "Feishu sync Skill detail page should exist",
+  );
+
+  const detailHtml = readFileSync(detailPath, "utf8");
+
+  assert.match(buildSkillsHtml, /Sync Feishu Learning to Site/);
+  assert.match(
+    buildSkillsHtml,
+    /href="build-skill-sync-feishu-learning-to-site\.html"/,
+  );
+  assert.match(
+    buildSkillsHtml,
+    new RegExp(githubUrl.replaceAll("/", "\\/")),
+  );
+  assert.match(detailHtml, /Sync Feishu Learning to Site/);
+  assert.match(detailHtml, /飞书文档/);
+  assert.match(detailHtml, /GitHub/);
+  assert.match(detailHtml, /href="build-skills\.html"/);
+  assert.match(detailHtml, new RegExp(githubUrl.replaceAll("/", "\\/")));
+});
+
+test("public Feishu sync Skill is complete and excludes private local state", () => {
+  const skillRoot = new URL(
+    "../skills/sync-feishu-learning-to-site/",
+    import.meta.url,
+  );
+  const files = ["README.md", "SKILL.md", "CHANGELOG.md", "agents/openai.yaml"];
+
+  for (const file of files) {
+    assert.equal(
+      existsSync(new URL(file, skillRoot)),
+      true,
+      `${file} should be published with the Skill`,
+    );
+  }
+
+  const publicSkill = files
+    .map((file) => readFileSync(new URL(file, skillRoot), "utf8"))
+    .join("\n");
+
+  assert.match(publicSkill, /name: sync-feishu-learning-to-site/);
+  assert.match(publicSkill, /Use when publishing or syncing/);
+  assert.match(publicSkill, /data\/learning-sources\.json/);
+  assert.match(publicSkill, /scripts\/sync-learning-from-lark\.mjs/);
+  assert.doesNotMatch(publicSkill, /\/Users\//);
+  assert.doesNotMatch(publicSkill, /URjJd8PiKog7IOxizpvcP31unSe/);
+  assert.doesNotMatch(
+    publicSkill,
+    /SSH_PRIVATE_KEY|SERVER_HOST|SERVER_USER|SERVER_PATH/,
+  );
+});
+
 test("news data file uses the website news schema", () => {
   assert.ok(Array.isArray(news.groups));
   assert.ok(news.groups.length >= 2);

@@ -76,3 +76,33 @@ test("dashboard reads progress, task, and session JSON", () => {
   assert.match(script, /renderTasks/);
   assert.match(script, /renderSessions/);
 });
+
+test("workspace hub records the GitHub-first Feishu sync Skill publication", () => {
+  const progress = readJson("workspace-hub/data/progress.json");
+  const tasks = readJson("workspace-hub/data/tasks.json");
+  const sessions = readJson("workspace-hub/data/sessions.json");
+
+  assert.equal(progress.updatedAt, "2026-08-27");
+  assert.ok(
+    progress.pages.some(
+      (page) => page.path === "build-skill-sync-feishu-learning-to-site.html",
+    ),
+  );
+  assert.ok(
+    progress.pages.some(
+      (page) =>
+        page.path === "skills/sync-feishu-learning-to-site/SKILL.md",
+    ),
+  );
+  assert.ok(
+    tasks.tasks.some(
+      (task) =>
+        task.id === "site-feishu-sync-skill-publication" &&
+        task.status === "done",
+    ),
+  );
+  assert.equal(
+    sessions.sessions[0].id,
+    "session-2026-08-27-feishu-sync-skill-publication",
+  );
+});

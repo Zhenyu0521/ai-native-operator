@@ -198,10 +198,10 @@ Expected: PASS.
 
 ```bash
 node --test tests/site.test.mjs
-npm test --if-present
+if [ -f package.json ]; then npm test --if-present; fi
 ```
 
-Expected: all tests pass; without a package test script the second command exits zero.
+Expected: all Node tests pass; the npm suite runs only when the repository has a `package.json`.
 
 ## Task 3: Record Iterations and Deploy
 

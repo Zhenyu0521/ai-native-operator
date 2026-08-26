@@ -1,8 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-08-27",
   "lanes": ["backlog", "doing", "review", "done"],
   "tasks": [
+    {
+      "id": "site-feishu-sync-skill-publication",
+      "title": "把飞书 Learning 同步 Skill 先发布到 GitHub，再发布到网站",
+      "area": "Build",
+      "status": "done",
+      "owner": "Codex",
+      "priority": "high",
+      "links": ["skills/sync-feishu-learning-to-site/SKILL.md", "skills/sync-feishu-learning-to-site/CHANGELOG.md", "build-skills.html", "build-skill-sync-feishu-learning-to-site.html", "https://github.com/Zhenyu0521/ai-native-operator/tree/main/skills/sync-feishu-learning-to-site"],
+      "notes": "已完成公开 Skill 的去本机路径版本、README、Codex 元数据和 Changelog；第一阶段以跳过 Actions 的提交先进入 GitHub，第二阶段新增网站卡片、详情页和回归测试并触发生产部署。"
+    },
     {
       "id": "site-build-skills-library",
       "title": "完善 Build / Skills Library 和 Data Analysis Interview Skill 详情页",
@@ -10,8 +20,8 @@
       "status": "done",
       "owner": "Codex",
       "priority": "high",
-      "links": ["build-skills.html", "build-skill-data-analysis-interview.html"],
-      "notes": "已完成技能库入口、详情页内容和测试覆盖。"
+      "links": ["build-skills.html", "build-skill-data-analysis-interview.html", "build-skill-sync-feishu-learning-to-site.html"],
+      "notes": "已完成技能库入口、Data Analysis Interview Skill 与 Sync Feishu Learning to Site 两个详情页及测试覆盖。"
     },
     {
       "id": "site-explore-news",
@@ -40,8 +50,8 @@
       "status": "done",
       "owner": "Codex",
       "priority": "high",
-      "links": ["explore-learning.html", "learning-ai-usage-tips.html", "learning-ai-job-title-tasks.html", "learning-ai-judgment-survival.html", "learning-ai-native-work-principles.html", "docs/learning-article-migration.md"],
-      "notes": "Learning 已从留白页升级为文章浏览页；AI-Native 工作理念已新增判断力和岗位任务拆解两篇真实文章，工作方法已新增《分享3条最近的AI使用tips》。列表卡片使用无文字 CSS 封面，文章详情页移除截图封面。"
+      "links": ["explore-learning.html", "learning-agent-parallel-overload.html", "learning-ai-usage-tips.html", "learning-ai-job-title-tasks.html", "learning-ai-judgment-survival.html", "learning-ai-native-work-principles.html", "docs/learning-article-migration.md"],
+      "notes": "Learning 已从留白页升级为文章浏览页；AI-Native 工作理念已新增判断力和岗位任务拆解两篇真实文章，工作方法已新增《分享3条最近的AI使用tips》和《多agent并行让我非常内耗甚至拖慢我的效率》。列表卡片使用无文字 CSS 封面，文章详情页移除截图封面。"
     },
     {
       "id": "site-learning-feishu-sync",
@@ -50,8 +60,8 @@
       "status": "done",
       "owner": "Codex",
       "priority": "high",
-      "links": ["data/learning-sources.json", "scripts/sync-learning-from-lark.mjs", "learning-ai-usage-tips.html"],
-      "notes": "方案 A MVP 已完成：配置飞书文档 URL、章节标题、slug、栏目和摘要后，脚本可通过 lark-cli 读取目标章节，生成文章详情页并更新 Learning 工作方法列表；已验证重复运行不破坏页面。"
+      "links": ["data/learning-sources.json", "scripts/sync-learning-from-lark.mjs", "learning-ai-usage-tips.html", "learning-agent-parallel-overload.html", "skills/sync-feishu-learning-to-site/SKILL.md"],
+      "notes": "方案 A MVP 已完成：配置飞书文档 URL、章节标题、slug、栏目和摘要后，脚本可通过 lark-cli 读取目标章节，生成文章详情页并更新 Learning 工作方法列表；已验证重复运行不破坏页面。后续触发流程已封装为 sync-feishu-learning-to-site，并已用于同步第二篇飞书文章和发布公开 Skill。"
     },
     {
       "id": "site-production-deploy",
