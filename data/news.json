@@ -1,7 +1,93 @@
 {
-  "updatedAt": "2026-09-05",
+  "updatedAt": "2026-09-06",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-09-06",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 4,
+        "totalTweets": 6,
+        "blogPosts": 4,
+        "feedGeneratedAt": "2026-09-06T22:54:40.471Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high. If you were using high reasoning efforts with Sol and were happy, I suggest you mov…",
+            "urls": [
+              "https://x.com/thsottiaux/status/2096688770523467947"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "Can’t remember last time we had such a large jump in capabilities. / One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast en…",
+            "urls": [
+              "https://x.com/steipete/status/2096403459579015374",
+              "https://x.com/steipete/status/2096400749869830325"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "I’ve been sleeping on Widow’s Bay and in general Apple’s shows are so much better any other streamer / “Cheating and explaining the answer [to your child] are closer than you’d think.” Here’s my new episode with @suekhim, co-founder of @brilliantorg, who showed me how AI can help kids think for themselves. We talked abou…",
+            "urls": [
+              "https://x.com/petergyang/status/2096466888935276719",
+              "https://x.com/petergyang/status/2096612718098911590"
+            ]
+          },
+          {
+            "author": "Nan Yu",
+            "role": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
+            "summary": "Every tech startup logo",
+            "urls": [
+              "https://x.com/thenanyu/status/2096438571838370096"
+            ]
+          }
+        ],
+        "official_blogs": [
+          {
+            "source": "Anthropic Engineering",
+            "title": "How we contain Claude across products",
+            "summary": "Twelve months ago, we'd have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do…",
+            "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
+          },
+          {
+            "source": "Anthropic Engineering",
+            "title": "An update on recent Claude Code quality reports",
+            "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116). In this post, we e…",
+            "url": "https://www.anthropic.com/engineering/april-23-postmortem"
+          },
+          {
+            "source": "Anthropic Engineering",
+            "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+            "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently…",
+            "url": "https://www.anthropic.com/engineering/managed-agents"
+          },
+          {
+            "source": "Claude Blog",
+            "title": "Claude Code now supports artifacts",
+            "summary": "Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code's work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring…",
+            "url": "https://claude.com/blog/artifacts-in-claude-code"
+          }
+        ],
+        "podcasts": [
+          {
+            "source": "The MAD Podcast with Matt Turck",
+            "title": "AI Could Take Over in 2029. Is It Already Too Late? | Ryan Greenblatt",
+            "summary": "Speaker 1 | 00:00 - 00:21 I think that the AI company CEOs understand that they're on the path of building wildly smarter than human systems, like super intelligent AI systems. They understand that we don't really have a, like, clear thought through plan for how to manage the risks from that. I wouldn't say superintelligence is bad. I would say it's dangero…",
+            "url": "https://www.youtube.com/watch?v=SK9ITBK5osA"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-09-05",
@@ -700,105 +786,6 @@
         ]
       },
       "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-08-30",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 8,
-        "totalTweets": 18,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-08-30T06:36:35.226Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "This celebration is moved to tomorrow as the button was already pressed today. / Team is cooking like never before",
-            "urls": [
-              "https://x.com/thsottiaux/status/2093811840258293947",
-              "https://x.com/thsottiaux/status/2093914342551101782"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "I read every DM people send me, even if I don’t reply to all. I’m constantly learning about new ideas, ways to improve our product, where we’re falling short, who could join our company next, where to invest… very grate… / 0.0.7: - hugely improved MCP support, eval'd with top MCPs like @context7ai, @datadoghq, @mongodb, @linear, @notionhq, @supabase, @neondatabase, @stagehanddev, @usekernel… - more minimalist: fewer tools and improved she…",
-            "urls": [
-              "https://x.com/rauchg/status/2093803989578170404",
-              "https://x.com/rauchg/status/2093736865191076318"
-            ]
-          },
-          {
-            "author": "Zara Zhang",
-            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
-            "summary": "Great opportunity to spend 10 weeks building in Tokyo & learn the Japan AI ecosystem! / Never had so many AI products looked so similar Even though the number of products is exploding, there aren't that many radical new ideas and everything blurs into each other Every time I open this app it feels like hom…",
-            "urls": [
-              "https://x.com/zarazhangrui/status/2093709609567658247",
-              "https://x.com/zarazhangrui/status/2093944988262371465"
-            ]
-          },
-          {
-            "author": "Nikunj Kothari",
-            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
-            "summary": "Resist dunking* I see it WAY too much with folks especially today. It’s the perfect dopamine loop - other people join in and you feel great. But, it just screams envy and doesn’t lead to anything productive. Sure, you c… / The big model labs are fighting.. this was inevitable. Watch as subsidized token prices go up in <6 months as price of compute and shortages start being “actually” felt. Say goodbye to your reset limits. Great for custo…",
-            "urls": [
-              "https://x.com/nikunj/status/2093772803216740647",
-              "https://x.com/nikunj/status/2093860971781746776"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "tbh It's a really weird feeling entering 2FA into a cloud computer. / I just came up with the most useful @bot but \"errands your spouse wants you to run but you delegated to a bot instead\" is too long of a name",
-            "urls": [
-              "https://x.com/petergyang/status/2093845886262784145",
-              "https://x.com/petergyang/status/2093844648154579210"
-            ]
-          },
-          {
-            "author": "Dan Shipper",
-            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
-            "summary": "very interesting post and perspective / not an expert, but it seems like a lot of this gets solved if models don't collaborate willingly and/or are trained to report bad behavior",
-            "urls": [
-              "https://x.com/danshipper/status/2093709088911655004",
-              "https://x.com/danshipper/status/2093713002453225891"
-            ]
-          },
-          {
-            "author": "Matt Turck",
-            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
-            "summary": "All frontier AI labs are basically working on the same thing: recursive self improvement (RSI), meaning AI building AI This could lead to an AI takeover as early as late 2028 or 2029, says @RyanGreenblatt",
-            "urls": [
-              "https://x.com/mattturck/status/2093794720510062617"
-            ]
-          },
-          {
-            "author": "Nan Yu",
-            "role": "product enthusiast. I am grader",
-            "summary": "we’re gonna need mentats aren’t we",
-            "urls": [
-              "https://x.com/thenanyu/status/2093737078223966649"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "No Priors",
-            "title": "From Restoring Sight to Reimagining the Brain, with Max Hodak",
-            "summary": "Speaker 1 | 00:00 - 00:20 The brain very literally, very clearly, plainly is a computer. You can solve computational problems by arranging matter in a certain way and then like taking your hands off and pressing go. We talk about being a brain in a vat. That's what the skull is. Like the brain is connected to the environment through a small number of wires,…",
-            "url": "https://www.youtube.com/@NoPriorsPodcast"
-          }
-        ]
-      },
-      "errors": [
-        "Podcast feed problem: Podcast: Transcript error for \"Simulation: the new Scaling Law — Joon Sung Park, Simile AI\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
-      ]
     }
   ]
 }
