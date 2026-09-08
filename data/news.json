@@ -1,7 +1,74 @@
 {
-  "updatedAt": "2026-09-06",
+  "updatedAt": "2026-09-07",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-09-07",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 5,
+        "totalTweets": 5,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-09-07T06:50:41.247Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "The internet is almost entirely unprepared for a future where everyone’s personal agents are running around executing tasks for them. There are going to be endless new challenges and opportunities at the infrastructure…",
+            "urls": [
+              "https://x.com/levie/status/2096735726750908464"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
+            "summary": "One of the biggest crises of our time is the shortening of the human attention span Agents just make things worse",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2096824861108928701"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "This man isn't even on Time's 100 Top AI List so why are we listening to him /s",
+            "urls": [
+              "https://x.com/petergyang/status/2096815819997204639"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "Fable reviewing literally every Astra code change.. \"this fix is the real deal\" Fable PM, Astra engineer is undefeated 🤝",
+            "urls": [
+              "https://x.com/nikunj/status/2096798671547646134"
+            ]
+          },
+          {
+            "author": "Nan Yu",
+            "role": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
+            "summary": "J-dog calling AGI",
+            "urls": [
+              "https://x.com/thenanyu/status/2096796392102752507"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "No Priors",
+            "title": "Rethinking Legacy Data Infrastructure with Eon Co-Founders Ofir Ehrlich and Gonen Stein",
+            "summary": "Speaker 1 | 00:00 - 00:22 Up until now, the concerns came from human threats. What we're seeing now on steroids is that the same type of threat is coming from nonhuman actors, agents that essentially have legitimate access to the environment with legitimate permissions. Fortunately for us, it's a very similar methodology in terms of detecting that and prote…",
+            "url": "https://www.youtube.com/@NoPriorsPodcast"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-09-06",
@@ -668,120 +735,6 @@
             "title": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
             "summary": "Speaker 1 | 00:00 - 00:14 People think I have a radical point of view sometimes. They start questions saying how what I'm thinking is so different from everyone else. But I don't see it that way at all. I see it as like I'm thinking the ordinary way. Just everyone else is thinking a bit weird. Speaker 1 | 00:17 - 00:35 And I mean that like, you know, it's j…",
             "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-08-31",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 10,
-        "totalTweets": 22,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-08-31T06:49:51.273Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "What I wanted to say yesterday is that we hit 25M active users and to celebrate we have now reset usage for all paid subscriptions for ChatGPT Work and Codex. See you soon for more news from The Reset Company. / For clarity, while both are called 20X, in Codex they apply specifically to weekly usage limits. And we also don't have 5h limits for both Pro plans. The Pro 20X is quite precisely 20X the usage of the Plus subscription…",
-            "urls": [
-              "https://x.com/thsottiaux/status/2094252447271366730",
-              "https://x.com/thsottiaux/status/2094254532020818191"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "Two months ago, we started the mission to “build OpenClaw with OpenClaw,” and bit by bit, we moved everyone from using their local coding harness to using  - our shared agent that knows what everyone’s working on and or…",
-            "urls": [
-              "https://x.com/steipete/status/2094290652649636173"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Digital abundance / When something goes viral on the internet, especially on X, it attracts all kinds of attention. Including some of the largest botnets on the internet launching targeted DDoS, from hijacked devices and residential networ…",
-            "urls": [
-              "https://x.com/rauchg/status/2094242622642782696",
-              "https://x.com/rauchg/status/2094141838055940530"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "California high speed rail is pretty obviously hijacked by public sector unions bilking the hapless state and NIMBY landowners abusing CEQA These are policy disasters and can be fixed with better policies but so far Cal… / Jackie Fielder and her useless friends will steal so much money from the people of San Francisco if they get a bank fr",
-            "urls": [
-              "https://x.com/garrytan/status/2094056908462358592",
-              "https://x.com/garrytan/status/2094048783328014831"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "The lesson from the Hugging Face Incident should be that RL with verifiable rewards is an incredibly powerful optimization algorithm that will produce increasingly weird and surprising behavior from LLMs. The obvious mi… / If you ever wondered how civilizations are built, it’s actually easy: [Agent() for _ in range(100)]",
-            "urls": [
-              "https://x.com/amasad/status/2094215744842248418",
-              "https://x.com/amasad/status/2094280256933056971"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "Sometimes people don’t have an intuitive sense of what Jevons paradox looks like for token consumption. Those of us working with enterprises get to see this first hand every day. Basically enterprises have an unending s…",
-            "urls": [
-              "https://x.com/levie/status/2094123406811922930"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "Sigh this is so dumb / At a kid’s birthday party and have to leave my laptop on somehow lol @mvanhorn knows this problem",
-            "urls": [
-              "https://x.com/petergyang/status/2094216304844833079",
-              "https://x.com/petergyang/status/2094218683212308610"
-            ]
-          },
-          {
-            "author": "Dan Shipper",
-            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
-            "summary": "is the HuggingFace attack something that should be taken seriously? yes. is it the first warning shot of a machine takeover? no. will issues of this type look like a tractable / mostly solved problem with proper precaut… / glad that the market is finally catching up to how dumb the SaaSpocalypse was 👇",
-            "urls": [
-              "https://x.com/danshipper/status/2094073306739576964",
-              "https://x.com/danshipper/status/2094044418583986227"
-            ]
-          },
-          {
-            "author": "Nikunj Kothari",
-            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
-            "summary": "Reality is stranger than fiction / Have a cup of coffee, sit down and read this end to end.. and try not to faint",
-            "urls": [
-              "https://x.com/nikunj/status/2094067027719922143",
-              "https://x.com/nikunj/status/2094073879065223252"
-            ]
-          },
-          {
-            "author": "Matt Turck",
-            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
-            "summary": "Being on a board with Doug was certainly one of the most formative experiences of my VC career. The goat. That is, if goats were jacked.",
-            "urls": [
-              "https://x.com/mattturck/status/2094219007708512499"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "AI & I by Every",
-            "title": "The AI Alien Companion App That's Bringing In $4M a Year (Best of the Pod)",
-            "summary": "Speaker 1 | 00:00 - 00:02 How does it feel to be on your first podcast? Speaker 2 | 00:03 - 00:09 Oh, man. It's kinda wild. Not gonna lie. Like, I'm psyched, but also low key nervous. I just don't wanna say something totally awkward. Speaker 2 | 00:09 - 00:10 You know? Speaker 3 | 00:10 - 00:27 Joke. At this point, thousands of American men have been broken…",
-            "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
           }
         ]
       },
