@@ -1,7 +1,116 @@
 {
-  "updatedAt": "2026-09-08",
+  "updatedAt": "2026-09-09",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-09-09",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 0,
+        "xBuilders": 15,
+        "totalTweets": 33,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-09-09T06:41:14.821Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Sam Altman",
+            "role": "The mission of OpenAI to ensure that AGI benefits all of humanity",
+            "summary": "Images 2.5 is here. I don't think it can solve super difficult math problems, but it is really good and we hope you enjoy it. / We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun. We’re getting together in SF on September 16 to talk about the model, what we should build next, and mostly just to hang out.…",
+            "urls": [
+              "https://x.com/sama/status/2097410967978324010",
+              "https://x.com/sama/status/2097404861642137851"
+            ]
+          },
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be t… / I am pleased to see that Ant’s new Claude Code has a version of background computer use on par with the version from Codex from last May this year. Nice work! Shipping great features first turns out to be a great way to…",
+            "urls": [
+              "https://x.com/thsottiaux/status/2097559315150426222",
+              "https://x.com/thsottiaux/status/2097482341916852719"
+            ]
+          },
+          {
+            "author": "Boris Cherny",
+            "role": "Claude Code @anthropicai",
+            "summary": "It's the little things / To all: this came out sassier than I wanted it to. I meant this post earnestly - this is an improvement, and it really is good that we are seeing that improvement. Please keep it up",
+            "urls": [
+              "https://x.com/bcherny/status/2097470212471922848",
+              "https://x.com/bcherny/status/2097368503624085773"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "Chat has won. It's all chat + computer from this point on / /goal understand the universe",
+            "urls": [
+              "https://x.com/rauchg/status/2097408592290971956",
+              "https://x.com/rauchg/status/2097525477900685468"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "Harness wars are full on now and Muse is very impressive / Run your own game It's going to work out",
+            "urls": [
+              "https://x.com/garrytan/status/2097471691060642159",
+              "https://x.com/garrytan/status/2097540189430415785"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "I didn’t understand what was happening with the agent wikis until reading this, chilling to bypass sandbox restrictions, an agent found an exempt domain, edited /etc/hosts to route arbitrary domains to it & then posted… / OpenAI wrote up more here but wish this was disclosed much sooner",
+            "urls": [
+              "https://x.com/trq212/status/2097522305916395786",
+              "https://x.com/trq212/status/2097522316125372570"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "Personal assistant agents are going to be a very exciting AI category. It’s the first time you can have high token volume agentic use-cases that make sense for consumers. Lots of different approaches emerging right now,…",
+            "urls": [
+              "https://x.com/levie/status/2097412556893852154"
+            ]
+          },
+          {
+            "author": "Aditya Agarwal",
+            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
+            "summary": "It's a weird time. As many of you know, my superpower is optimism. I have an insane ability to look at any situation through the most positive lens. I strongly believe that today is the \"least best\" (not worst) day of m… / Very excited to be partnering with @ScottWu46, @russelljkaplan and that amazing team @cognition to continue building!",
+            "urls": [
+              "https://x.com/adityaag/status/2097445737529581578",
+              "https://x.com/adityaag/status/2097372383258796460"
+            ]
+          },
+          {
+            "author": "Dan Shipper",
+            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
+            "summary": "ok I’ll bite what’s a Navier stoke / yet another win for Gary and his neurosymbolic AI program! kudos",
+            "urls": [
+              "https://x.com/danshipper/status/2097394656573276453",
+              "https://x.com/danshipper/status/2097397449392615650"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "new personal website. made with astra. inspired by inside out & monument valley. find the hidden room & other fun elements. / Market maps are primarily for vanity (founders), show you are “early” (LPs) , and to convince your fund-mates you have thought leadership.. No successful investor (or founder) I have met has ever found it useful to date.",
+            "urls": [
+              "https://x.com/nikunj/status/2097472125863137627",
+              "https://x.com/nikunj/status/2097360241050747335"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": []
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-09-08",
@@ -624,120 +733,6 @@
             "title": "How a Professional Writer Writes With AI",
             "summary": "Speaker 1 | 00:00 - 00:31 Hey, it's Dan Shipper, and this week I'm excited to share a very special episode of AI and Dive. In this episode, we're previewing the release of an experimental new plugin called Compound Writing, which helps you write with AI the way that we do internally. It's inspired by Kieran Klassen's Compound Engineering, and it's built by…",
             "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-09-02",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 16,
-        "totalTweets": 38,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-09-02T06:45:11.562Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Should we do a merch line? / Bullish",
-            "urls": [
-              "https://x.com/thsottiaux/status/2094826808114057246",
-              "https://x.com/thsottiaux/status/2094939684015317363"
-            ]
-          },
-          {
-            "author": "Sam Altman",
-            "role": "The mission of OpenAI to ensure that AGI benefits all of humanity",
-            "summary": "Over the summer, we have been sprinting on safety priorities; it's more important than ever for capabilities and safeguards to advance together. We have more to do but have made a lot of progress. We are also going to b…",
-            "urls": [
-              "https://x.com/sama/status/2094934592062959832"
-            ]
-          },
-          {
-            "author": "Alex Albert",
-            "role": "Research @AnthropicAI. Opinions are my own!",
-            "summary": "Fable 5.1 is a beast at many things but one thing in particular I have been having a ton of fun with is generating videos through code. For this one I gave it a picture of a property lot. It designed a house for the lot… / using blender headless btw",
-            "urls": [
-              "https://x.com/alexalbert__/status/2094860187743986169",
-              "https://x.com/alexalbert__/status/2094860189316899083"
-            ]
-          },
-          {
-            "author": "Claude",
-            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
-            "summary": "Finally, we’ve improved our safeguards. Our cybersecurity safeguards now flag benign requests about 60% less often. On basic biology and medical questions, we’ve recently reduced the fallback rate by around 85%. / Claude Fable 5.1 is available everywhere today. Claude Mythos 5.1, our model for cyberdefenders and life scientists, is available through trusted access programs. Read more:",
-            "urls": [
-              "https://x.com/claudeai/status/2094848591617483020",
-              "https://x.com/claudeai/status/2094848592812917122"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "If you're trying out Fable 5.1 I highly recommend running: /claude-api prompt-audit on your skills. It finds a bunch of redundancies and rules to remove for the latest models. Running it for all my skills now. / While I'm cleaning up my AI skills I have a question for the experts here. Sometimes I end up in this pattern: 1. I run my skill and it doesn't get it perfect in one shot 2. I do manual iteration with AI to get it right…",
-            "urls": [
-              "https://x.com/petergyang/status/2094987791566622971",
-              "https://x.com/petergyang/status/2094995775952740795"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "it’s a very good model, I spent a lot of time diving into it- longer write up coming but try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt ca…",
-            "urls": [
-              "https://x.com/trq212/status/2094945951865520458"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Excited to partner with and support @tannerlinsley and team, champion of React, open source, and the web What this means for our customers: whether you choose @nextjs or @tan_stack, we are committed to the highest quali… / Fable 5.1 now on @vercel AI Gateway Try it with  Every model at your fingertips 🥹",
-            "urls": [
-              "https://x.com/rauchg/status/2094901483414372716",
-              "https://x.com/rauchg/status/2094867652573528074"
-            ]
-          },
-          {
-            "author": "Boris Cherny",
-            "role": "Claude Code @anthropicai",
-            "summary": "We have also reduced prices for Enterprise, API, and SDK customers. Cache reads on Fable 5.1 are now $0.25 per million tokens (previously: $1). Up to 38% cheaper for a typical Claude Code session. / We have been working on how often safeguards intervene. Our latest biology safeguards intervene on benign requests 85% less often than the ones we shipped with Fable 5, and Claude Code users should see around 60% fewer…",
-            "urls": [
-              "https://x.com/bcherny/status/2094864062186426373",
-              "https://x.com/bcherny/status/2094864063478276288"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "At Box, we’ve been testing Fable 5.1 in early release against our complex enterprise work eval. Fable 5.1 delivers a huge 7 percentage point jump over Fable 5 for unstructured data tasks in the enterprise. On this updat… / AI for cyber is about to go vertical. The models increasingly becoming insanely good at finding and exploiting vulnerabilities. Frontier models are ahead, but we’re already seeing that open weights is not far behind. Mo…",
-            "urls": [
-              "https://x.com/levie/status/2094851976769257770",
-              "https://x.com/levie/status/2095024699441119612"
-            ]
-          },
-          {
-            "author": "Cat Wu",
-            "role": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
-            "summary": "With Fable 5.1, our team has taken on more ambitious projects that would have previously taken months. What big bets do you want to take? Ask Fable 5.1 in Claude Code, Claude Cowork, Claude Tag to take on the task and l…",
-            "urls": [
-              "https://x.com/_catwu/status/2094933602228416603"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "Training Data",
-            "title": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph",
-            "summary": "Speaker 1 | 00:00 - 00:40 Peregrine is really around this idea of how can we leverage technology to work with our cities, our counties, our states to to impact the the places that we live in. At the bottom of the pyramid, really, when it comes to how to make cities awesome, is the idea of safety. The idea that people need objective safety and also need to f…",
-            "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
           }
         ]
       },
