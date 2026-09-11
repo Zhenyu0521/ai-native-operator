@@ -1,7 +1,115 @@
 {
-  "updatedAt": "2026-09-09",
+  "updatedAt": "2026-09-10",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-09-10",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 0,
+        "xBuilders": 14,
+        "totalTweets": 28,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-09-10T06:40:40.193Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Sam Altman",
+            "role": "The mission of OpenAI to ensure that AGI benefits all of humanity",
+            "summary": "ocarina of time remake is the best news in a long time. i will be unavailable november 5 and 6; need to find a case of mountain dew. / This would suck, but we will prioritize great service for customers until we can get back on top of things.",
+            "urls": [
+              "https://x.com/sama/status/2097696043492143157",
+              "https://x.com/sama/status/2097695001341829212"
+            ]
+          },
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in the affected time window is getting another one and an email to apolog… / Happy to be building here with you all. Lots to explore",
+            "urls": [
+              "https://x.com/thsottiaux/status/2097752790177370535",
+              "https://x.com/thsottiaux/status/2097829053147582782"
+            ]
+          },
+          {
+            "author": "Claude",
+            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
+            "summary": "New on Claude Marketplace: @CrowdStrike, @cursor_ai, @FactoryAI, @GammaApp, and @vercel. Enterprises can now use their Anthropic spend commitment to buy more Claude-powered products and agents. Get started: / If you're building on the Claude Platform, get listed and make it easier for our customers to buy your product:",
+            "urls": [
+              "https://x.com/claudeai/status/2097718980437831935",
+              "https://x.com/claudeai/status/2097718982920855834"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "This is brilliant. / Dashboards/Mini-Apps was something I pushed two months ago and now it replaced lots of custom tooling we built around OC. Everything’s a sidebar entry, a dashboard or a plugin now for our team server.",
+            "urls": [
+              "https://x.com/steipete/status/2097830230899769349",
+              "https://x.com/steipete/status/2097880507753382201"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "8 price cuts, fee removals and structure improvements, plus 16 model discounts… in the last 6 months alone. More to come… / AI Benchmarks with @Benchmark & @Vercel. It's ① the most aptly named event in SF history and ② about one of the most important software categories of our generation. The companies that benchmark models and guide the wor…",
+            "urls": [
+              "https://x.com/rauchg/status/2097828203658383674",
+              "https://x.com/rauchg/status/2097837950612717804"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "The way to the reconcile capability level of AI vs. GDP impact is that the diffusion of AI will take much longer than people think. And it will also show up in ways that are hard to measure in GDP immediately. You could… / The world is going to be using coding agents for far more than anyone would have thought before. We’ll be building tools in all new categories, building software for companies that couldn’t afford it before, using agent…",
+            "urls": [
+              "https://x.com/levie/status/2097738533297689012",
+              "https://x.com/levie/status/2097920810543468551"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "When is this coming to mobile for Work and Remote Codex threads? Seems to be only available for Chat threads / I instlaled @poteto's Dr Eggbot for making new Grok @bot (highly recommended!) but had to rename it to Dr Light so it doesn't become evil 😅",
+            "urls": [
+              "https://x.com/petergyang/status/2097763574886375832",
+              "https://x.com/petergyang/status/2097719517057253527"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "Jane Kim: Big Talk, little respect for facts, outright falsehoods Jane Kim is a NIMBY who helped create the SF doom loop, and now she's failing up: she wants to be CA Insurance Commissioner She is no public servant. We…",
+            "urls": [
+              "https://x.com/garrytan/status/2097728692596486487"
+            ]
+          },
+          {
+            "author": "Dan Shipper",
+            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
+            "summary": "this is a very good and well designed report however, two impt assumptions in it that significantly change the analysis once you start to play with it: 1. the report assumes that jobs can be decomposed into tasks 2. the… / i love looking at the @every slack",
+            "urls": [
+              "https://x.com/danshipper/status/2097758891270697101",
+              "https://x.com/danshipper/status/2097796322145562900"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
+            "summary": "Idea is easy Conviction is hard",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2097599758391255259"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": []
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-09-09",
@@ -619,120 +727,6 @@
             "title": "Ep 93: CEO of Redwood Research Buck Shlegeris on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp; Takeover Odds",
             "summary": "Speaker 1 | 00:00 - 00:37 The OpenAI Hugging Face incident has dominated the discourse these past days. It feels straight out of a sci fi novel, some of the things that happened, you know, the agent coordination, the obsession with the scores, and and what they would want. And we had the perfect person on today to just discuss everything that happened and t…",
             "url": "https://www.youtube.com/@RedpointAI"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-09-03",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 15,
-        "totalTweets": 29,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-09-03T06:41:29.179Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Claude",
-            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
-            "summary": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else. / Applications are open for the Claude Campus Ambassadors program. This year, we’re expanding opportunities to more students, with three tracks for undergrads, graduate students, and PhDs/postdocs. Apply here:",
-            "urls": [
-              "https://x.com/claudeai/status/2095226833293685100",
-              "https://x.com/claudeai/status/2095168559873773970"
-            ]
-          },
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "The ChatGPT desktop app is now my main browser and my productivity has never been higher / I think the best way to describe OpenAI's culture is as a mega startup. It's hard to believe unless you see it from the inside. Extreme ownership, care and pace.",
-            "urls": [
-              "https://x.com/thsottiaux/status/2095288416292487289",
-              "https://x.com/thsottiaux/status/2095369901137654271"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "It took blood, sweat, and tokens / Follow @eve",
-            "urls": [
-              "https://x.com/rauchg/status/2095260872537227585",
-              "https://x.com/rauchg/status/2095235886611050985"
-            ]
-          },
-          {
-            "author": "Josh Woodward",
-            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-            "summary": "3.8 Flash rolling out to @GeminiApp / 3.8 Flash = great quality @ great price",
-            "urls": [
-              "https://x.com/joshwoodward/status/2095177483129917849",
-              "https://x.com/joshwoodward/status/2095178970912461279"
-            ]
-          },
-          {
-            "author": "Boris Cherny",
-            "role": "Claude Code @anthropicai",
-            "summary": "Fable 5.1 makes Claude Tag even more useful. Here it builds a last-minute leadership deck from a metrics spreadsheet and other data across Slack, spots a vendor report that disagrees with the numbers, and flags it befor… / Background computer use is underrated",
-            "urls": [
-              "https://x.com/bcherny/status/2095276133214491086",
-              "https://x.com/bcherny/status/2095378890370019683"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "It's ridiculous man Opening a public bank in SF is just asking for mass fraud, especially by Jackie Fielder's incompetent DSA friends and cronies / What's your California Dream?",
-            "urls": [
-              "https://x.com/garrytan/status/2095177204712017920",
-              "https://x.com/garrytan/status/2095202701646995965"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "This week is absolutely nuts for AI releases, and now a major new model update from Muse. We appear to be reaching escape velocity in capability progress. If this thing gets released as open weights it completely change…",
-            "urls": [
-              "https://x.com/levie/status/2095234253613359200"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "Replit is coming to London 🇬🇧 To celebrate Replit’s first international office in London, together with our friends @OpenAI, we're hosting a night of drinks, music, and a fireside chat with Paul Graham (@paulg). Thurs…",
-            "urls": [
-              "https://x.com/amasad/status/2095291912706220410"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "Damn I'm running out of Fable limit already, anyone in the same boat? / Product manager = Member of product staff Designer = Member of design staff Engineer = Member of technical staff Is this AI making job functions more verbose? 😅 If this flattens levels and titles, I'm all for it though…",
-            "urls": [
-              "https://x.com/petergyang/status/2095275295511281918",
-              "https://x.com/petergyang/status/2095255545594941910"
-            ]
-          },
-          {
-            "author": "Zara Zhang",
-            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
-            "summary": "We are not recording meetings for humans anymore. Nobody reads the AI summary notes or listens back. We are capturing transcripts to feed agents.",
-            "urls": [
-              "https://x.com/zarazhangrui/status/2095375073381318656"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "AI & I by Every",
-            "title": "How a Professional Writer Writes With AI",
-            "summary": "Speaker 1 | 00:00 - 00:31 Hey, it's Dan Shipper, and this week I'm excited to share a very special episode of AI and Dive. In this episode, we're previewing the release of an experimental new plugin called Compound Writing, which helps you write with AI the way that we do internally. It's inspired by Kieran Klassen's Compound Engineering, and it's built by…",
-            "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
           }
         ]
       },
