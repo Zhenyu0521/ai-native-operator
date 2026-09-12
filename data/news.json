@@ -1,7 +1,120 @@
 {
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-11",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-09-11",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 18,
+        "totalTweets": 35,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-09-11T06:40:01.402Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the sm… / Scaled agents on demand. This is pretty much the infrastructure that runs under the hood for ChatGPT Work, all wrapped up in an API which you can use to get started in < 1 min. Happy building.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2098113585683808624",
+              "https://x.com/thsottiaux/status/2098238138334548260"
+            ]
+          },
+          {
+            "author": "Claude",
+            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
+            "summary": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at",
+            "urls": [
+              "https://x.com/claudeai/status/2098138736642933143"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "This makes a lot of sense. Duplicating logic is no longer painful. Abstractions still are. / Better hop on soon. Astra demand is growing too fast!",
+            "urls": [
+              "https://x.com/steipete/status/2098089196800098798",
+              "https://x.com/steipete/status/2098088917782413740"
+            ]
+          },
+          {
+            "author": "Boris Cherny",
+            "role": "Claude Code @anthropicai",
+            "summary": "Every day, I get a lot of of emails and messages like this one. I try to respond to as many as I can. Sharing my response below, for anyone else in a similar situation. What do you think? / Hey ████, I think there is room for both. 1. Prototypes and other throw-away code can be treated as totally black box. If you’re going to throw it away anyway, and if the blast radius of it breaking is low, it doesn’t n…",
+            "urls": [
+              "https://x.com/bcherny/status/2098217571153838124",
+              "https://x.com/bcherny/status/2098217573276131577"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "Try this prompt in Claude chat to give it more context about yourself: Interview me in depth using free text, or askuserquestion tool when multiple choice works, about relevant parts of my life you don’t know about yet…",
+            "urls": [
+              "https://x.com/trq212/status/2098157600361861579"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date. Vercel is one of the most heavily multi-tenant systems in the world. Billions of application deployments co-exist and are accessible (… / We made deployments faster again",
+            "urls": [
+              "https://x.com/rauchg/status/2098091056302833837",
+              "https://x.com/rauchg/status/2098066258155708851"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "Lots of risk with AI. I worry a lot about cybersecurity for example. However, “extinction risk” — literally 100% of humans die — is not remotely one of them. / Chat with PG in London!",
+            "urls": [
+              "https://x.com/amasad/status/2098171265924116732",
+              "https://x.com/amasad/status/2098171501505581559"
+            ]
+          },
+          {
+            "author": "Dan Shipper",
+            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
+            "summary": "the possibilities for this are incredible extremely psyched to experiment / I’m so sorry",
+            "urls": [
+              "https://x.com/danshipper/status/2098116268671025210",
+              "https://x.com/danshipper/status/2098120649701204416"
+            ]
+          },
+          {
+            "author": "Josh Woodward",
+            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+            "summary": "Gemini, now on Windows! Get it:",
+            "urls": [
+              "https://x.com/joshwoodward/status/2098131750660772342"
+            ]
+          },
+          {
+            "author": "Google Labs",
+            "role": "Google’s home for our latest AI tools and experiments.",
+            "summary": "It’s time to ☁️ dream bigger ☁️ Dreambeans is officially available to all US users (18+) on iOS and Android, free of charge. No subscription required. You can also now connect @Geminiapp to Dreambeans. Dreambeans will b…",
+            "urls": [
+              "https://x.com/GoogleLabs/status/2098110018289803558"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "The MAD Podcast with Matt Turck",
+            "title": "When AI Improves Itself | Richard Socher (Recursive)",
+            "summary": "Speaker 1 | 00:00 - 00:19 Anything you can simulate, AI will solve. And before you know it, you're in this recursive self improvement loop and we believe that that will be a great unlock. Boy, are we far away from the true upper bounds of any of the spaces of intelligence. And there is still so much further that AI can go. Speaker 2 | 00:19 - 00:47 Hi. I'm…",
+            "url": "https://www.youtube.com/@DataDrivenNYC/videos"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-09-10",
@@ -611,122 +724,6 @@
             "title": "Redefining Chip Architecture with Arm CEO Rene Haas",
             "summary": "Speaker 1 | 00:00 - 00:15 There's no computing problem that's ever been invented that doesn't utilize and can't utilize the microprocessor. It is the heart of everything. All roads lead through it, around it, past it. Something has to do the orchestration, arbitration decision around where those tokens go. That's what CPUs do. Speaker 1 | 00:15 - 00:36 Chip…",
             "url": "https://www.youtube.com/@NoPriorsPodcast"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-09-04",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 19,
-        "totalTweets": 44,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-09-04T06:43:48.584Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "We will give one banked reset for every day you don't have access to Astra on your paid ChatGPT plan, starting today. Team is moving mountains to give access as fast as we can. First one will land in ~ 3 hours. There is… / We are going to need a different AGI benchmark. Where is the goalpost moving next?",
-            "urls": [
-              "https://x.com/thsottiaux/status/2095651088502591861",
-              "https://x.com/thsottiaux/status/2095601101701820752"
-            ]
-          },
-          {
-            "author": "Sam Altman",
-            "role": "The mission of OpenAI to ensure that AGI benefits all of humanity",
-            "summary": "Also, this is my favorite OpenAI video so far. It makes me excited for the future! / first, sorry for the messy rollout. second, when we screw up, we try to make it right. third, we should be able to begin broad rollout to API customers and chatgpt subscribers in the near future. as usual we will start…",
-            "urls": [
-              "https://x.com/sama/status/2095601442220638547",
-              "https://x.com/sama/status/2095678759651438887"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "GPT-6 is a major jump in capabilities and will unlock new use-cases. Will launch on Replit very soon for you to try it! / Really cool to see Foster City, where Replit is HQ’d, councilwoman is building on Replit to help the community!",
-            "urls": [
-              "https://x.com/amasad/status/2095608811868524679",
-              "https://x.com/amasad/status/2095594200889012593"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "I live in Codex and think it's the best software shipped in the past 5 years. But the combination of influencers posting non-stop about how great Astra is and paid users unable to get access at the same time is pretty r… / Wait so we don't get to play with Astra today?",
-            "urls": [
-              "https://x.com/petergyang/status/2095662778459766984",
-              "https://x.com/petergyang/status/2095599352941334772"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "GPT-6 Astra is out. We've been testing the model in early preview on our enterprise complex work eval at Box. It is now the best model we've ever tested on our expanded and hardest test set. Overall, GPT-6 Astra offers… / Another huge moment for open weights AI. The infra platforms are working. The models are getting better. The ecosystems are being deeply invested in. The business models are working.",
-            "urls": [
-              "https://x.com/levie/status/2095598710311067716",
-              "https://x.com/levie/status/2095519015771000964"
-            ]
-          },
-          {
-            "author": "Boris Cherny",
-            "role": "Claude Code @anthropicai",
-            "summary": "Your input needed: would you use this? This is an early look at how we're thinking about making Claude Code way more extensible. It's a little crazy, and very exciting. More details here:",
-            "urls": [
-              "https://x.com/bcherny/status/2095590515765060076"
-            ]
-          },
-          {
-            "author": "Zara Zhang",
-            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
-            "summary": "I wish more founders made more raw screen recordings of real product interfaces and the thinking behind them, rather than polished high-production launch videos / Grok Bot is what OpenClaw should have been",
-            "urls": [
-              "https://x.com/zarazhangrui/status/2095416650401186288",
-              "https://x.com/zarazhangrui/status/2095738566504800496"
-            ]
-          },
-          {
-            "author": "Swyx",
-            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
-            "summary": "sorry for the radio silence folks - got sucked into extreme LLM psychosis. but i can confidently say we have crossed over into a new age of AI Engineering and we are never, ever, looking back. this isnt even EVERYTHING… / ",
-            "urls": [
-              "https://x.com/swyx/status/2095621785953984782",
-              "https://x.com/swyx/status/2095621819667751202"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "If you intern at Vercel, you can work on incredible projects like this one. Improving Next.js chunking can yield massive efficiency improvements at internet scale. Excellent writeup by @sam_poder / “Feedback is a gift” has always been a favorite mantra of mine and a strongly-held belief. Now it’s fact. Each piece of feedback is someone gifting you a prompt for you to give your agents to improve your product ☺️ Tha…",
-            "urls": [
-              "https://x.com/rauchg/status/2095640323892629726",
-              "https://x.com/rauchg/status/2095720463397753000"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "#NewProfilePic Photo by Oliver Covrett / People who never had proper jobs or ever ran businesses can’t figure out that markets exist “Prices, how do they work?”",
-            "urls": [
-              "https://x.com/garrytan/status/2095689046253355055",
-              "https://x.com/garrytan/status/2095696315481256098"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "Unsupervised Learning",
-            "title": "Ep 93: CEO of Redwood Research Buck Shlegeris on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp; Takeover Odds",
-            "summary": "Speaker 1 | 00:00 - 00:37 The OpenAI Hugging Face incident has dominated the discourse these past days. It feels straight out of a sci fi novel, some of the things that happened, you know, the agent coordination, the obsession with the scores, and and what they would want. And we had the perfect person on today to just discuss everything that happened and t…",
-            "url": "https://www.youtube.com/@RedpointAI"
           }
         ]
       },
