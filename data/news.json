@@ -1,7 +1,121 @@
 {
-  "updatedAt": "2026-09-11",
+  "updatedAt": "2026-09-12",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-09-12",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 15,
+        "totalTweets": 30,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-09-12T06:36:41.733Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Hi Astra users. A reset and a quick update on quality issues that have been posted around. Working with some of you, we have found and fixed the following issues: - Some skills written for previous models were triggerin… / Astra powered ships this week - Images 2.5 - GPT-Live-1 - Agents API - Data Agent - ChatGPT for Financial Services and yet it’s not yet DevDay. Busy plans for next week too.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2098612714704891959",
+              "https://x.com/thsottiaux/status/2098639827084480864"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "it's basically impossible to interpret evals by looking at just at the pass/fail scores these days many of the failures I see in benchmarks are due to overly strict hidden tests, in some cases the model's answer makes m… / we heard feedback that it's hard to know if your skills are still working with new model releases plugin evals are here to help run `claude plugin eval init` in your plugin folder",
+            "urls": [
+              "https://x.com/trq212/status/2098490139798655427",
+              "https://x.com/trq212/status/2098531560643539440"
+            ]
+          },
+          {
+            "author": "Ryo Lu",
+            "role": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone…",
+            "summary": "i emptied my house said goodbyes and moved to taipei so far so great! 💛 / long-lived agents for your big ideas now in Cursor",
+            "urls": [
+              "https://x.com/ryolu_/status/2098612137321201942",
+              "https://x.com/ryolu_/status/2098324260867772806"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
+            "summary": "I think the idea of a \"one-person company\" is overrated Yes, a person can do a lot more thanks to AI. But building something new can be a profoundly lonely experience. You need someone to brainstorm together, suffer tog…",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2098483800456179923"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "TBH once you score 1600 you should unlock a second harder test that gives you a second score on top of the 1600— we should have more and higher measures of excellence But instead they ban the SAT so that everything turn…",
+            "urls": [
+              "https://x.com/garrytan/status/2098615692425851205"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "Replit acquires a business entirely built on Replit. I expect first of many to come. / Love seeing all the Astra 3D experiments on Replit!",
+            "urls": [
+              "https://x.com/amasad/status/2098548464452055437",
+              "https://x.com/amasad/status/2098316298820219058"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "I am skeptical of \"software factories.\" Other than for verification & testing, I don't think AI is at a point where it can self-improve a product or build a new feature end-to-end without human in the loop. Whenever I l… / I have decided to do this after much deliberation: All local scheduled tasks live in Codex. All cloud tasks I’m porting over to Grok Bot. Makes it a clean split.",
+            "urls": [
+              "https://x.com/petergyang/status/2098565668241334366",
+              "https://x.com/petergyang/status/2098614492066435228"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "Astra on OC in a cloud session playing Doom with CUA. Not quite AGI yet, but probably beats fly brain. / Had to submit a patch to @trycua to make keys work reliable under Linux, dope framework overall tho!",
+            "urls": [
+              "https://x.com/steipete/status/2098527519213604889",
+              "https://x.com/steipete/status/2098527982709256637"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure. AI Gateways are the new CDNs. You could go “direct to origin”, but it’s brittle. You could DIY, but it’s painful and costly. Pro…",
+            "urls": [
+              "https://x.com/rauchg/status/2098531157230969062"
+            ]
+          },
+          {
+            "author": "Matt Turck",
+            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
+            "summary": "My 9/11 story (lightly updated version of a blog post I wrote in 2016 for the 15th anniversary) In September 2001, I was the young co-founder of a NYC tech startup, TripleHop Technologies. We were building enterprise se… / You can see us on the list of tenants here:  and you can see part of Kenton's story here:",
+            "urls": [
+              "https://x.com/mattturck/status/2098517022049190227",
+              "https://x.com/mattturck/status/2098517023286247675"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "No Priors",
+            "title": "Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong",
+            "summary": "Speaker 1 | 00:00 - 00:19 The minimum fee typically on a debit or credit card transaction is about 30¢ fee flat plus the additional percentage. Arguably, it doesn't really work well for anything under a dollar. Certainly, it doesn't make sense to pay 30¢ to send a 1¢ payment. And I believe the stats we last saw on this are that about, like, 76% of the agent…",
+            "url": "https://www.youtube.com/watch?v=uLDK4l_-gUE"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-09-11",
@@ -596,134 +710,6 @@
             "title": "AI Could Take Over in 2029. Is It Already Too Late? | Ryan Greenblatt",
             "summary": "Speaker 1 | 00:00 - 00:21 I think that the AI company CEOs understand that they're on the path of building wildly smarter than human systems, like super intelligent AI systems. They understand that we don't really have a, like, clear thought through plan for how to manage the risks from that. I wouldn't say superintelligence is bad. I would say it's dangero…",
             "url": "https://www.youtube.com/watch?v=SK9ITBK5osA"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-09-05",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 13,
-        "totalTweets": 26,
-        "blogPosts": 2,
-        "feedGeneratedAt": "2026-09-05T06:35:59.594Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Sam Altman",
-            "role": "The mission of OpenAI to ensure that AGI benefits all of humanity",
-            "summary": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API. We will start rollout to Plus and Business users next. Thank you for the patience. / Now out to all Plus and Business users. Happy building!",
-            "urls": [
-              "https://x.com/sama/status/2095973658867171733",
-              "https://x.com/sama/status/2096008528834244741"
-            ]
-          },
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business… / Astra was probably our biggest competitive advantage while it wasn’t generally available. Since we’ve had it our productivity jumped so much that we shifted some of our plans 6 months ahead and will ship them at DevDay…",
-            "urls": [
-              "https://x.com/thsottiaux/status/2096035437299237298",
-              "https://x.com/thsottiaux/status/2096101429832552872"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "AI software factories will yield bug-free, self-improving software / Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), agents *need* to ride the existing WWW infrastructure… WebMCP makes it more efficient. Some pretty unique…",
-            "urls": [
-              "https://x.com/rauchg/status/2095926173293572467",
-              "https://x.com/rauchg/status/2096065378598441431"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "The singularity is here, it’s just not evenly distributed / It’s coming 🤗",
-            "urls": [
-              "https://x.com/amasad/status/2096022087035195647",
-              "https://x.com/amasad/status/2095792059647234204"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "Absolutely insane experience using @AsideAI as an AI harness - trying to setup OpenClaw with Slack was a 2 hour experience. Aside's harness with full integrations AND browser integration did it in less than 3 minutes, a… / GStack now uses @AsideAI browser as it's preferred remote session browser Does your AI agent need access to web and credentials as you? Aside is now the #1 absolute best way to do it I've found out of all AI agent tools…",
-            "urls": [
-              "https://x.com/garrytan/status/2095971990645755941",
-              "https://x.com/garrytan/status/2095948689823121872"
-            ]
-          },
-          {
-            "author": "Madhu Guru",
-            "role": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
-            "summary": "Here’s one practical thing you can do this weekend to get better at building AI products. Pick a workflow you know well - from your personal life or your work. Automate the whole thing with AI. Use the AI product you’re…",
-            "urls": [
-              "https://x.com/realmadhuguru/status/2095907570540335174"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "OpenAI should ship an app for Apple Watch where I can just voice dictate to my Codex threads and it'll reply back with voice too. Then I won't have to carry my phone around and have screen addiction. Or maybe this is wh… / Astra generated the most stereotypical image of a PM I've ever seen for my game",
-            "urls": [
-              "https://x.com/petergyang/status/2096086845159563476",
-              "https://x.com/petergyang/status/2096036429159973348"
-            ]
-          },
-          {
-            "author": "Dan Shipper",
-            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
-            "summary": "i've got Astra doing film study for our @every fantasy football draft we going to take over this league 😤 / can’t help myself",
-            "urls": [
-              "https://x.com/danshipper/status/2095882683729490108",
-              "https://x.com/danshipper/status/2095925615467659637"
-            ]
-          },
-          {
-            "author": "Aditya Agarwal",
-            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
-            "summary": "Me: I totally understand how RL, inference time scaling, modern data-verification loops work. Also Me: These models are total sorcery. There is no way that they should be able to do what they do.",
-            "urls": [
-              "https://x.com/adityaag/status/2095910036652577028"
-            ]
-          },
-          {
-            "author": "Matt Turck",
-            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
-            "summary": "Hugging Face and @Thom_Wolf cannot stop winning, first the acquisition and now this comment lol / From our recent pod:",
-            "urls": [
-              "https://x.com/mattturck/status/2095885284801982779",
-              "https://x.com/mattturck/status/2095885287960264962"
-            ]
-          }
-        ],
-        "official_blogs": [
-          {
-            "source": "Claude Blog",
-            "title": "Claude in Chrome is generally available ",
-            "summary": "Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude…",
-            "url": "https://claude.com/blog/claude-in-chrome-generally-available"
-          },
-          {
-            "source": "Claude Blog",
-            "title": "Claude gets its own browser in Cowork",
-            "summary": "Claude now has a browser built into Claude Cowork on the desktop app. When a task needs to use a website, a browser opens in the side panel and Claude navigates webpages, reads them, clicks, and types. You can now hand off the web part of the task and stay where you are: Claude can fill in a form, pull numbers from a dashboard, or work t…",
-            "url": "https://claude.com/blog/cowork-built-in-browser"
-          }
-        ],
-        "podcasts": [
-          {
-            "source": "No Priors",
-            "title": "Redefining Chip Architecture with Arm CEO Rene Haas",
-            "summary": "Speaker 1 | 00:00 - 00:15 There's no computing problem that's ever been invented that doesn't utilize and can't utilize the microprocessor. It is the heart of everything. All roads lead through it, around it, past it. Something has to do the orchestration, arbitration decision around where those tokens go. That's what CPUs do. Speaker 1 | 00:15 - 00:36 Chip…",
-            "url": "https://www.youtube.com/@NoPriorsPodcast"
           }
         ]
       },
