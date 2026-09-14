@@ -1,7 +1,131 @@
 {
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-13",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-09-13",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 16,
+        "totalTweets": 27,
+        "blogPosts": 2,
+        "feedGeneratedAt": "2026-09-13T06:41:35.550Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Sam Altman",
+            "role": "The mission of OpenAI to ensure that AGI benefits all of humanity",
+            "summary": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great id…",
+            "urls": [
+              "https://x.com/sama/status/2098811563415150910"
+            ]
+          },
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Reset all propagated. Sweet dreams.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2098685367058612394"
+            ]
+          },
+          {
+            "author": "Andrej Karpathy",
+            "role": "deep learning",
+            "summary": "I love this and really hope we can come together as an industry and make it happen.",
+            "urls": [
+              "https://x.com/karpathy/status/2098811935114551617"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "The concerns over AI safety and cybersecurity are legitimate, but we’re risking talking America, the global AI leader, into self-inflicted obsolescence and the obscurity of bureaucracy. The OpenAI hacking HuggingFace ar… / I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript & Python ones. The days of language or runtime choice based on human convenience are over. Agents are the new compilers. They compi…",
+            "urls": [
+              "https://x.com/rauchg/status/2098787667030712757",
+              "https://x.com/rauchg/status/2098833404707922239"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "Either you die a system of record or you live long enough to become a domain-specific harness / This is huge",
+            "urls": [
+              "https://x.com/garrytan/status/2098666551629267324",
+              "https://x.com/garrytan/status/2098863831732863310"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re starti…",
+            "urls": [
+              "https://x.com/trq212/status/2098860941391872132"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "Anyone got an invite code for Meta's Muse? 👉👈 I saw their Soul.md file and now i'm curious. / This is amazing. Add Master of Orion 2 next!",
+            "urls": [
+              "https://x.com/steipete/status/2098931686042210381",
+              "https://x.com/steipete/status/2098784877495939145"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "Not a bad idea to slow down to harden systems. Especially since we haven’t even discovered all the systems that agents hacked recently.",
+            "urls": [
+              "https://x.com/amasad/status/2098828265800835310"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "wtf? 2030? 😂 🤦 Someone should just use AI to make StarCraft 3 at this point… / What if this game worked like this: 1. One person is commander and can play this like a RTS (macro) 2. The rest of the team plays individual marines and characters (micro) Probably a terrible idea but would be cool 😎",
+            "urls": [
+              "https://x.com/petergyang/status/2098843136328171540",
+              "https://x.com/petergyang/status/2098945475038912741"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "Good post. Don’t agree with all of it, but it represents many of the actual practical realities for the general path forward in frontier AI whether we like it or not. At the level of capability we’re seeing from models…",
+            "urls": [
+              "https://x.com/levie/status/2098785357307539882"
+            ]
+          }
+        ],
+        "official_blogs": [
+          {
+            "source": "Claude Blog",
+            "title": "Claude in Chrome is generally available ",
+            "summary": "Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude…",
+            "url": "https://claude.com/blog/claude-in-chrome-generally-available"
+          },
+          {
+            "source": "Claude Blog",
+            "title": "Claude gets its own browser in Cowork",
+            "summary": "Claude now has a browser built into Claude Cowork on the desktop app. When a task needs to use a website, a browser opens in the side panel and Claude navigates webpages, reads them, clicks, and types. You can now hand off the web part of the task and stay where you are: Claude can fill in a form, pull numbers from a dashboard, or work t…",
+            "url": "https://claude.com/blog/cowork-built-in-browser"
+          }
+        ],
+        "podcasts": [
+          {
+            "source": "Unsupervised Learning",
+            "title": "Ep 93: CEO of Redwood Research Buck Shlegeris on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp; Takeover Odds",
+            "summary": "Speaker 1 | 00:00 - 00:37 The OpenAI Hugging Face incident has dominated the discourse these past days. It feels straight out of a sci fi novel, some of the things that happened, you know, the agent coordination, the obsession with the scores, and and what they would want. And we had the perfect person on today to just discuss everything that happened and t…",
+            "url": "https://www.youtube.com/@RedpointAI"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-09-12",
@@ -624,92 +748,6 @@
             "title": "Rethinking Legacy Data Infrastructure with Eon Co-Founders Ofir Ehrlich and Gonen Stein",
             "summary": "Speaker 1 | 00:00 - 00:22 Up until now, the concerns came from human threats. What we're seeing now on steroids is that the same type of threat is coming from nonhuman actors, agents that essentially have legitimate access to the environment with legitimate permissions. Fortunately for us, it's a very similar methodology in terms of detecting that and prote…",
             "url": "https://www.youtube.com/@NoPriorsPodcast"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-09-06",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 4,
-        "totalTweets": 6,
-        "blogPosts": 4,
-        "feedGeneratedAt": "2026-09-06T22:54:40.471Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high. If you were using high reasoning efforts with Sol and were happy, I suggest you mov…",
-            "urls": [
-              "https://x.com/thsottiaux/status/2096688770523467947"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "Can’t remember last time we had such a large jump in capabilities. / One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast en…",
-            "urls": [
-              "https://x.com/steipete/status/2096403459579015374",
-              "https://x.com/steipete/status/2096400749869830325"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "I’ve been sleeping on Widow’s Bay and in general Apple’s shows are so much better any other streamer / “Cheating and explaining the answer [to your child] are closer than you’d think.” Here’s my new episode with @suekhim, co-founder of @brilliantorg, who showed me how AI can help kids think for themselves. We talked abou…",
-            "urls": [
-              "https://x.com/petergyang/status/2096466888935276719",
-              "https://x.com/petergyang/status/2096612718098911590"
-            ]
-          },
-          {
-            "author": "Nan Yu",
-            "role": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
-            "summary": "Every tech startup logo",
-            "urls": [
-              "https://x.com/thenanyu/status/2096438571838370096"
-            ]
-          }
-        ],
-        "official_blogs": [
-          {
-            "source": "Anthropic Engineering",
-            "title": "How we contain Claude across products",
-            "summary": "Twelve months ago, we'd have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do…",
-            "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
-          },
-          {
-            "source": "Anthropic Engineering",
-            "title": "An update on recent Claude Code quality reports",
-            "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116). In this post, we e…",
-            "url": "https://www.anthropic.com/engineering/april-23-postmortem"
-          },
-          {
-            "source": "Anthropic Engineering",
-            "title": "Scaling Managed Agents: Decoupling the brain from the hands",
-            "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently…",
-            "url": "https://www.anthropic.com/engineering/managed-agents"
-          },
-          {
-            "source": "Claude Blog",
-            "title": "Claude Code now supports artifacts",
-            "summary": "Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code's work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring…",
-            "url": "https://claude.com/blog/artifacts-in-claude-code"
-          }
-        ],
-        "podcasts": [
-          {
-            "source": "The MAD Podcast with Matt Turck",
-            "title": "AI Could Take Over in 2029. Is It Already Too Late? | Ryan Greenblatt",
-            "summary": "Speaker 1 | 00:00 - 00:21 I think that the AI company CEOs understand that they're on the path of building wildly smarter than human systems, like super intelligent AI systems. They understand that we don't really have a, like, clear thought through plan for how to manage the risks from that. I wouldn't say superintelligence is bad. I would say it's dangero…",
-            "url": "https://www.youtube.com/watch?v=SK9ITBK5osA"
           }
         ]
       },
