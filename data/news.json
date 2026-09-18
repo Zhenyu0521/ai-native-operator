@@ -1,7 +1,121 @@
 {
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-17",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-09-17",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 0,
+        "xBuilders": 16,
+        "totalTweets": 33,
+        "blogPosts": 1,
+        "feedGeneratedAt": "2026-09-17T06:42:41.601Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Sometimes physics can't be cheated / Astra ✅ Fast ✅ Frontier ✅ Efficient ✅ For everyone",
+            "urls": [
+              "https://x.com/thsottiaux/status/2100363668051603608",
+              "https://x.com/thsottiaux/status/2100297380968997327"
+            ]
+          },
+          {
+            "author": "Sam Altman",
+            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+            "summary": "the main thing i was excited about launching this week will be next week instead, but imo worth the wait!",
+            "urls": [
+              "https://x.com/sama/status/2100351958167220547"
+            ]
+          },
+          {
+            "author": "Claude",
+            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
+            "summary": "You can also now make decks, docs, and designs in your conversation. Draft the one-pager in Claude Docs, turn it into a deck with Claude Slides, and mock up a matching visual in Claude Design, all from one place. / Fix a line in the doc yourself, leave a comment for Claude on a slide, or select an element and move it. When it's ready, present the deck straight from Claude, export the doc in the format you already use, or share eve…",
+            "urls": [
+              "https://x.com/claudeai/status/2100258492590207079",
+              "https://x.com/claudeai/status/2100258494221812123"
+            ]
+          },
+          {
+            "author": "Boris Cherny",
+            "role": "Claude Code @anthropicai",
+            "summary": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design. Th… / Claude Code showed that AI could do real work, not just answer questions. Developers hand Claude a feature, come back to shipped code. That's where much of the industry's serious engineering runs now. Cowork proved know…",
+            "urls": [
+              "https://x.com/bcherny/status/2100260544087535639",
+              "https://x.com/bcherny/status/2100259951398789487"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "We're seeing extraordinary results from @typesafeai. Default mode in 𝚏𝚡 is auto, with a safety reviewer analyzing every command. That reviewer runs on GPT Luna today. Jev is up to 18x faster (p95) *and* more accurate.… / ",
+            "urls": [
+              "https://x.com/rauchg/status/2100307962262872105",
+              "https://x.com/rauchg/status/2100260457617736051"
+            ]
+          },
+          {
+            "author": "Dan Shipper",
+            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
+            "summary": "THEY DID IT THE END OF THE TABS ERA IS UPON US / big big big big big",
+            "urls": [
+              "https://x.com/danshipper/status/2100269017977987341",
+              "https://x.com/danshipper/status/2100284086703046903"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
+            "summary": "I find myself using Claude less these days because the way it speaks has just become insufferable Like it’s constantly trying to showcase how smart/sophisticated it is, rather than actually communicating a point across",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2100278750776824115"
+            ]
+          },
+          {
+            "author": "Cat Wu",
+            "role": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+            "summary": "Today, we are merging Claude Cowork and chat to simplify how you use Claude! We are also integrating Claude Design so that you can ask Claude to make a Slide, Design, or Doc without needing to switch tabs or apps. Many…",
+            "urls": [
+              "https://x.com/_catwu/status/2100260655312089562"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "I can use any harness I want and it's the same personality and full memory of my personal AGI / Excited to speak at @Supabase Select in conversation with the amazing @kiwicopple about building startups in the time of AI Register for the event and join me:",
+            "urls": [
+              "https://x.com/garrytan/status/2100339347669279149",
+              "https://x.com/garrytan/status/2100354983053111365"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "related to this- I think bash is no longer all you need, if your goal is just reliably tool calling but sandboxes + bash are still good for work that involves code generation & execution / I think increasingly you can just give Claude tools shaped in the way you want vs tricking it with a layer of indirection e.g. for data storage do you really want a file system or do you want an API to a database this i…",
+            "urls": [
+              "https://x.com/trq212/status/2100315535758217422",
+              "https://x.com/trq212/status/2100315537251463523"
+            ]
+          }
+        ],
+        "official_blogs": [
+          {
+            "source": "Claude Blog",
+            "title": "Claude Cowork and chat are now one Claude",
+            "summary": "Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. It’s rolling out on Pro and Max plans over the next few weeks, with more plans to follow. What Claude makes doesn’t need its own place either.…",
+            "url": "https://claude.com/blog/cowork-is-now-claude"
+          }
+        ],
+        "podcasts": []
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-09-16",
@@ -722,114 +836,6 @@
             "url": "https://www.youtube.com/@DataDrivenNYC/videos"
           }
         ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-09-10",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 0,
-        "xBuilders": 14,
-        "totalTweets": 28,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-09-10T06:40:40.193Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Sam Altman",
-            "role": "The mission of OpenAI to ensure that AGI benefits all of humanity",
-            "summary": "ocarina of time remake is the best news in a long time. i will be unavailable november 5 and 6; need to find a case of mountain dew. / This would suck, but we will prioritize great service for customers until we can get back on top of things.",
-            "urls": [
-              "https://x.com/sama/status/2097696043492143157",
-              "https://x.com/sama/status/2097695001341829212"
-            ]
-          },
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in the affected time window is getting another one and an email to apolog… / Happy to be building here with you all. Lots to explore",
-            "urls": [
-              "https://x.com/thsottiaux/status/2097752790177370535",
-              "https://x.com/thsottiaux/status/2097829053147582782"
-            ]
-          },
-          {
-            "author": "Claude",
-            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
-            "summary": "New on Claude Marketplace: @CrowdStrike, @cursor_ai, @FactoryAI, @GammaApp, and @vercel. Enterprises can now use their Anthropic spend commitment to buy more Claude-powered products and agents. Get started: / If you're building on the Claude Platform, get listed and make it easier for our customers to buy your product:",
-            "urls": [
-              "https://x.com/claudeai/status/2097718980437831935",
-              "https://x.com/claudeai/status/2097718982920855834"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "This is brilliant. / Dashboards/Mini-Apps was something I pushed two months ago and now it replaced lots of custom tooling we built around OC. Everything’s a sidebar entry, a dashboard or a plugin now for our team server.",
-            "urls": [
-              "https://x.com/steipete/status/2097830230899769349",
-              "https://x.com/steipete/status/2097880507753382201"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "8 price cuts, fee removals and structure improvements, plus 16 model discounts… in the last 6 months alone. More to come… / AI Benchmarks with @Benchmark & @Vercel. It's ① the most aptly named event in SF history and ② about one of the most important software categories of our generation. The companies that benchmark models and guide the wor…",
-            "urls": [
-              "https://x.com/rauchg/status/2097828203658383674",
-              "https://x.com/rauchg/status/2097837950612717804"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "The way to the reconcile capability level of AI vs. GDP impact is that the diffusion of AI will take much longer than people think. And it will also show up in ways that are hard to measure in GDP immediately. You could… / The world is going to be using coding agents for far more than anyone would have thought before. We’ll be building tools in all new categories, building software for companies that couldn’t afford it before, using agent…",
-            "urls": [
-              "https://x.com/levie/status/2097738533297689012",
-              "https://x.com/levie/status/2097920810543468551"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "When is this coming to mobile for Work and Remote Codex threads? Seems to be only available for Chat threads / I instlaled @poteto's Dr Eggbot for making new Grok @bot (highly recommended!) but had to rename it to Dr Light so it doesn't become evil 😅",
-            "urls": [
-              "https://x.com/petergyang/status/2097763574886375832",
-              "https://x.com/petergyang/status/2097719517057253527"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "Jane Kim: Big Talk, little respect for facts, outright falsehoods Jane Kim is a NIMBY who helped create the SF doom loop, and now she's failing up: she wants to be CA Insurance Commissioner She is no public servant. We…",
-            "urls": [
-              "https://x.com/garrytan/status/2097728692596486487"
-            ]
-          },
-          {
-            "author": "Dan Shipper",
-            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
-            "summary": "this is a very good and well designed report however, two impt assumptions in it that significantly change the analysis once you start to play with it: 1. the report assumes that jobs can be decomposed into tasks 2. the… / i love looking at the @every slack",
-            "urls": [
-              "https://x.com/danshipper/status/2097758891270697101",
-              "https://x.com/danshipper/status/2097796322145562900"
-            ]
-          },
-          {
-            "author": "Zara Zhang",
-            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
-            "summary": "Idea is easy Conviction is hard",
-            "urls": [
-              "https://x.com/zarazhangrui/status/2097599758391255259"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": []
       },
       "errors": []
     }
