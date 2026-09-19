@@ -1,7 +1,112 @@
 {
-  "updatedAt": "2026-09-17",
+  "updatedAt": "2026-09-18",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-09-18",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 0,
+        "xBuilders": 15,
+        "totalTweets": 25,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-09-18T06:41:02.530Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Has anyone yet tried to get Astra and Fable to agree on the perfect styleguide? And then host it somewhere with a web mcp.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2100645454245720513"
+            ]
+          },
+          {
+            "author": "Boris Cherny",
+            "role": "Claude Code @anthropicai",
+            "summary": "Projects have changed not only how I interact with Claude but how I code. I stopped managing sessions. I just send thoughts as they come, Claude splits them into threads, and the project remembers how I work. It's where… / Projects are how I write a lot of my code these days. Really excited for everyone to try the new experience! Rolling out now",
+            "urls": [
+              "https://x.com/bcherny/status/2100669598995816511",
+              "https://x.com/bcherny/status/2100639991244427490"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "The future is already here We just have to choose it and spread it faster / Memorable found a way to optimize memory with embeddings instead of more tokens which is a powerful new way to do memory",
+            "urls": [
+              "https://x.com/garrytan/status/2100612808568172830",
+              "https://x.com/garrytan/status/2100668489178456268"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "Projects brings the architecture of Claude Tag to Claude Code. It has one agent per project that manages memory and spins off subagents for tasks. You can ask it to be proactive, to do things on a schedule, etc. It feel…",
+            "urls": [
+              "https://x.com/trq212/status/2100638355872706571"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "It's likely that more software will be produced next year than in all of the history of computing. It took Vercel 10 years to get to 1 billion deployments, but then we added another 1.4 billion in the last 10 months alo… / Vercel is the Vercel for Java",
+            "urls": [
+              "https://x.com/rauchg/status/2100698591417499972",
+              "https://x.com/rauchg/status/2100745015362552312"
+            ]
+          },
+          {
+            "author": "Google Labs",
+            "role": "Google’s home for our latest AI tools and experiments.",
+            "summary": "CC the entire fam 🤝! Today, we’re announcing the new CC – an AI agent built for families to spend less time on logistics and more time together. You can now: 👤 Add up to 5 members to your CC agent ☀️ Start mornings al…",
+            "urls": [
+              "https://x.com/GoogleLabs/status/2100653821907366366"
+            ]
+          },
+          {
+            "author": "Claude",
+            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
+            "summary": "A project builds over time. Every thread adds to and draws from its shared memory, so Claude can remember that the release moved to Friday, or who to ask before touching the billing service. The project's library keeps… / Existing projects on Pro and Max plans keep working as they do today. We'll upgrade them as the rollout expands across Claude. Read more:  Join the waitlist for earlier access:",
+            "urls": [
+              "https://x.com/claudeai/status/2100632684074549309",
+              "https://x.com/claudeai/status/2100632688625348890"
+            ]
+          },
+          {
+            "author": "Dan Shipper",
+            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
+            "summary": "it's happening!",
+            "urls": [
+              "https://x.com/danshipper/status/2100587802748440581"
+            ]
+          },
+          {
+            "author": "Cat Wu",
+            "role": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+            "summary": "In the new Projects experience, Claude coordinates all of your sessions. I've been using it every day since it lets me operate at a higher level of abstraction. I fire off a batch of tasks and move on. Claude has contex…",
+            "urls": [
+              "https://x.com/_catwu/status/2100641163120423057"
+            ]
+          },
+          {
+            "author": "Josh Woodward",
+            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+            "summary": "Have a family? We ❤️ this in ours. / If you're not using @Gemini_Notebook on your phone yet, you're missing out. This is such a cool story!",
+            "urls": [
+              "https://x.com/joshwoodward/status/2100665648825483726",
+              "https://x.com/joshwoodward/status/2100616682431807860"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": []
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-09-17",
@@ -721,119 +826,6 @@
             "title": "Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong",
             "summary": "Speaker 1 | 00:00 - 00:19 The minimum fee typically on a debit or credit card transaction is about 30¢ fee flat plus the additional percentage. Arguably, it doesn't really work well for anything under a dollar. Certainly, it doesn't make sense to pay 30¢ to send a 1¢ payment. And I believe the stats we last saw on this are that about, like, 76% of the agent…",
             "url": "https://www.youtube.com/watch?v=uLDK4l_-gUE"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-09-11",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 18,
-        "totalTweets": 35,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-09-11T06:40:01.402Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the sm… / Scaled agents on demand. This is pretty much the infrastructure that runs under the hood for ChatGPT Work, all wrapped up in an API which you can use to get started in < 1 min. Happy building.",
-            "urls": [
-              "https://x.com/thsottiaux/status/2098113585683808624",
-              "https://x.com/thsottiaux/status/2098238138334548260"
-            ]
-          },
-          {
-            "author": "Claude",
-            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
-            "summary": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at",
-            "urls": [
-              "https://x.com/claudeai/status/2098138736642933143"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "This makes a lot of sense. Duplicating logic is no longer painful. Abstractions still are. / Better hop on soon. Astra demand is growing too fast!",
-            "urls": [
-              "https://x.com/steipete/status/2098089196800098798",
-              "https://x.com/steipete/status/2098088917782413740"
-            ]
-          },
-          {
-            "author": "Boris Cherny",
-            "role": "Claude Code @anthropicai",
-            "summary": "Every day, I get a lot of of emails and messages like this one. I try to respond to as many as I can. Sharing my response below, for anyone else in a similar situation. What do you think? / Hey ████, I think there is room for both. 1. Prototypes and other throw-away code can be treated as totally black box. If you’re going to throw it away anyway, and if the blast radius of it breaking is low, it doesn’t n…",
-            "urls": [
-              "https://x.com/bcherny/status/2098217571153838124",
-              "https://x.com/bcherny/status/2098217573276131577"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "Try this prompt in Claude chat to give it more context about yourself: Interview me in depth using free text, or askuserquestion tool when multiple choice works, about relevant parts of my life you don’t know about yet…",
-            "urls": [
-              "https://x.com/trq212/status/2098157600361861579"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date. Vercel is one of the most heavily multi-tenant systems in the world. Billions of application deployments co-exist and are accessible (… / We made deployments faster again",
-            "urls": [
-              "https://x.com/rauchg/status/2098091056302833837",
-              "https://x.com/rauchg/status/2098066258155708851"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "Lots of risk with AI. I worry a lot about cybersecurity for example. However, “extinction risk” — literally 100% of humans die — is not remotely one of them. / Chat with PG in London!",
-            "urls": [
-              "https://x.com/amasad/status/2098171265924116732",
-              "https://x.com/amasad/status/2098171501505581559"
-            ]
-          },
-          {
-            "author": "Dan Shipper",
-            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
-            "summary": "the possibilities for this are incredible extremely psyched to experiment / I’m so sorry",
-            "urls": [
-              "https://x.com/danshipper/status/2098116268671025210",
-              "https://x.com/danshipper/status/2098120649701204416"
-            ]
-          },
-          {
-            "author": "Josh Woodward",
-            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-            "summary": "Gemini, now on Windows! Get it:",
-            "urls": [
-              "https://x.com/joshwoodward/status/2098131750660772342"
-            ]
-          },
-          {
-            "author": "Google Labs",
-            "role": "Google’s home for our latest AI tools and experiments.",
-            "summary": "It’s time to ☁️ dream bigger ☁️ Dreambeans is officially available to all US users (18+) on iOS and Android, free of charge. No subscription required. You can also now connect @Geminiapp to Dreambeans. Dreambeans will b…",
-            "urls": [
-              "https://x.com/GoogleLabs/status/2098110018289803558"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "The MAD Podcast with Matt Turck",
-            "title": "When AI Improves Itself | Richard Socher (Recursive)",
-            "summary": "Speaker 1 | 00:00 - 00:19 Anything you can simulate, AI will solve. And before you know it, you're in this recursive self improvement loop and we believe that that will be a great unlock. Boy, are we far away from the true upper bounds of any of the spaces of intelligence. And there is still so much further that AI can go. Speaker 2 | 00:19 - 00:47 Hi. I'm…",
-            "url": "https://www.youtube.com/@DataDrivenNYC/videos"
           }
         ]
       },
