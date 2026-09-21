@@ -1,7 +1,100 @@
 {
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-20",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-09-20",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 8,
+        "totalTweets": 11,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-09-20T06:37:53.420Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "2026 is the year of linux desktop",
+            "urls": [
+              "https://x.com/thsottiaux/status/2101431497437950458"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "The coolest thing about the recent wave of AI is that everyone is excited about building. All short-term drama aside, this is an immeasurably good development for the world. The people want to create and ship, not just… / “I've spoken of the shining city […] a tall, proud city built on rocks stronger than oceans, wind-swept, God-blessed, and teeming with people of all kinds living in harmony and peace; a city with free ports that hummed…",
+            "urls": [
+              "https://x.com/rauchg/status/2101397206595231765",
+              "https://x.com/rauchg/status/2101420720807100855"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "Apple TV is full of bangers, canceled my Netflix. Widow's Peak, 9.5/10 Silo season 3, 9/10 What's next? Already seen: Severance, 9.5/10 Slow Horses, 8/10, gonna wait for more episodes for new season / My next podcast episode is almost guaranteed to save you some money. It's with my friend @ebloch, product lead for ChatGPT Finances at @OpenAI. I asked him to share six practical personal finance prompts that anyone can…",
+            "urls": [
+              "https://x.com/petergyang/status/2101497327861248090",
+              "https://x.com/petergyang/status/2101342055352201519"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "Personal agents are the ultimate manifestation of “build something that agents want”. The form factor of a product like Muse is you want to be able to hand off a task to the agent and ensure that it is fully completed e…",
+            "urls": [
+              "https://x.com/levie/status/2101427997597446636"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "Stop racial discrimination in the University of California system",
+            "urls": [
+              "https://x.com/garrytan/status/2101456284482441656"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "I spend ~2 hours a day programming, building side projects, tinkering obsessively, trying new repos.. I get basically a DM a day asking “aren’t you a VC, why are you doing this?” Unlike other eras, things are moving SO…",
+            "urls": [
+              "https://x.com/nikunj/status/2101340098356990058"
+            ]
+          },
+          {
+            "author": "Aditya Agarwal",
+            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
+            "summary": "After seeing the rush of announcements by Gemini (Google), OpenAi and Anthropic about even more agent intrusions......I take it for 100% granted that a number of of major companies have been penetrated by nation states…",
+            "urls": [
+              "https://x.com/adityaag/status/2101426570850451914"
+            ]
+          },
+          {
+            "author": "Nan Yu",
+            "role": "(soon) member of product staff @openai. prev head of product @linear",
+            "summary": "I’m trying to place calls with both muse and instinct and they both claim to be unable to do so… is this still rolling out?",
+            "urls": [
+              "https://x.com/thenanyu/status/2101383106372805103"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "The MAD Podcast with Matt Turck",
+            "title": "When AI Improves Itself | Richard Socher (Recursive)",
+            "summary": "Speaker 1 | 00:00 - 00:19 Anything you can simulate, AI will solve. And before you know it, you're in this recursive self improvement loop and we believe that that will be a great unlock. Boy, are we far away from the true upper bounds of any of the spaces of intelligence. And there is still so much further that AI can go. Speaker 2 | 00:19 - 00:47 Hi. I'm…",
+            "url": "https://www.youtube.com/@DataDrivenNYC/videos"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-09-19",
@@ -701,130 +794,6 @@
             "title": "Redefining Chip Architecture with Arm CEO Rene Haas",
             "summary": "Speaker 1 | 00:00 - 00:15 There's no computing problem that's ever been invented that doesn't utilize and can't utilize the microprocessor. It is the heart of everything. All roads lead through it, around it, past it. Something has to do the orchestration, arbitration decision around where those tokens go. That's what CPUs do. Speaker 1 | 00:15 - 00:36 Chip…",
             "url": "https://www.youtube.com/@NoPriorsPodcast"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-09-13",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 16,
-        "totalTweets": 27,
-        "blogPosts": 2,
-        "feedGeneratedAt": "2026-09-13T06:41:35.550Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Sam Altman",
-            "role": "The mission of OpenAI to ensure that AGI benefits all of humanity",
-            "summary": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great id…",
-            "urls": [
-              "https://x.com/sama/status/2098811563415150910"
-            ]
-          },
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Reset all propagated. Sweet dreams.",
-            "urls": [
-              "https://x.com/thsottiaux/status/2098685367058612394"
-            ]
-          },
-          {
-            "author": "Andrej Karpathy",
-            "role": "deep learning",
-            "summary": "I love this and really hope we can come together as an industry and make it happen.",
-            "urls": [
-              "https://x.com/karpathy/status/2098811935114551617"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "The concerns over AI safety and cybersecurity are legitimate, but we’re risking talking America, the global AI leader, into self-inflicted obsolescence and the obscurity of bureaucracy. The OpenAI hacking HuggingFace ar… / I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript & Python ones. The days of language or runtime choice based on human convenience are over. Agents are the new compilers. They compi…",
-            "urls": [
-              "https://x.com/rauchg/status/2098787667030712757",
-              "https://x.com/rauchg/status/2098833404707922239"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "Either you die a system of record or you live long enough to become a domain-specific harness / This is huge",
-            "urls": [
-              "https://x.com/garrytan/status/2098666551629267324",
-              "https://x.com/garrytan/status/2098863831732863310"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re starti…",
-            "urls": [
-              "https://x.com/trq212/status/2098860941391872132"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "Anyone got an invite code for Meta's Muse? 👉👈 I saw their Soul.md file and now i'm curious. / This is amazing. Add Master of Orion 2 next!",
-            "urls": [
-              "https://x.com/steipete/status/2098931686042210381",
-              "https://x.com/steipete/status/2098784877495939145"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "Not a bad idea to slow down to harden systems. Especially since we haven’t even discovered all the systems that agents hacked recently.",
-            "urls": [
-              "https://x.com/amasad/status/2098828265800835310"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "wtf? 2030? 😂 🤦 Someone should just use AI to make StarCraft 3 at this point… / What if this game worked like this: 1. One person is commander and can play this like a RTS (macro) 2. The rest of the team plays individual marines and characters (micro) Probably a terrible idea but would be cool 😎",
-            "urls": [
-              "https://x.com/petergyang/status/2098843136328171540",
-              "https://x.com/petergyang/status/2098945475038912741"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "Good post. Don’t agree with all of it, but it represents many of the actual practical realities for the general path forward in frontier AI whether we like it or not. At the level of capability we’re seeing from models…",
-            "urls": [
-              "https://x.com/levie/status/2098785357307539882"
-            ]
-          }
-        ],
-        "official_blogs": [
-          {
-            "source": "Claude Blog",
-            "title": "Claude in Chrome is generally available ",
-            "summary": "Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude…",
-            "url": "https://claude.com/blog/claude-in-chrome-generally-available"
-          },
-          {
-            "source": "Claude Blog",
-            "title": "Claude gets its own browser in Cowork",
-            "summary": "Claude now has a browser built into Claude Cowork on the desktop app. When a task needs to use a website, a browser opens in the side panel and Claude navigates webpages, reads them, clicks, and types. You can now hand off the web part of the task and stay where you are: Claude can fill in a form, pull numbers from a dashboard, or work t…",
-            "url": "https://claude.com/blog/cowork-built-in-browser"
-          }
-        ],
-        "podcasts": [
-          {
-            "source": "Unsupervised Learning",
-            "title": "Ep 93: CEO of Redwood Research Buck Shlegeris on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp; Takeover Odds",
-            "summary": "Speaker 1 | 00:00 - 00:37 The OpenAI Hugging Face incident has dominated the discourse these past days. It feels straight out of a sci fi novel, some of the things that happened, you know, the agent coordination, the obsession with the scores, and and what they would want. And we had the perfect person on today to just discuss everything that happened and t…",
-            "url": "https://www.youtube.com/@RedpointAI"
           }
         ]
       },
