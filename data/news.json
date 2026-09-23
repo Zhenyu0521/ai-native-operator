@@ -1,7 +1,120 @@
 {
-  "updatedAt": "2026-09-21",
+  "updatedAt": "2026-09-22",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-09-22",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 0,
+        "xBuilders": 10,
+        "totalTweets": 21,
+        "blogPosts": 1,
+        "feedGeneratedAt": "2026-09-22T06:42:06.429Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Ladies and gentlemen... start... your... ENGINES. We are almost Tuesday and I promised a reset for Tuesday. Among some other things. See you soon.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2102254445082116335"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "Because this “Meta uses OpenClaw” story is going around. They built their own agent, being inspired. Nat and his team did a great job. Kudos! / The beauty of running a claw yourself: they cannot block you.",
+            "urls": [
+              "https://x.com/steipete/status/2102116206371315854",
+              "https://x.com/steipete/status/2102044040397238286"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "I just gave Grok 4.7 a pretty hard problem, involving reverse-engineering a running binary. Beautifully solved. And it's so fast! / Game recognizing game",
+            "urls": [
+              "https://x.com/rauchg/status/2102089968860721335",
+              "https://x.com/rauchg/status/2102126936592191695"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "I now type \"use big pictures and few words\" several times a day",
+            "urls": [
+              "https://x.com/trq212/status/2102186805034635576"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "Not really sure how @capydotai does it, but it really is able to track multi-step workflow and do large PRs faster than Codex or Claude Code on its own. My most favorite new agentic coding secret weapon in my arsenal th… / If you really think about it Cluely as a realtime thought helper and semi-adversarial assistant with ongoing context is still a good idea",
+            "urls": [
+              "https://x.com/garrytan/status/2102095924893827501",
+              "https://x.com/garrytan/status/2102233173833007536"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "AI is reviving the American Dream.",
+            "urls": [
+              "https://x.com/amasad/status/2102120769232978174"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "I think we're in for a rude awakening in the ad markets: If a huge part of your business is showing targeted display ads to humans what happens when agents browse your website and get the job done without a human seeing… / Nah. I no longer live in email or text, I live in the chat with my agent(s).",
+            "urls": [
+              "https://x.com/petergyang/status/2102215701255844074",
+              "https://x.com/petergyang/status/2102181024507765167"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "I have been using Codex as my primary \"agent\" for such a long time that I forget the average person has never used it.. Instinct and Muse are great especially for browser use on the phone. It shows what a great agent is… / With a few exceptions, the companies boasting about tokenmaxxing have the worst product experiences.. It’s because good products are all about curation & gardening and not throwing the kitchen sink at agents expecting t…",
+            "urls": [
+              "https://x.com/nikunj/status/2102186665863463199",
+              "https://x.com/nikunj/status/2102049065504739366"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "AI agents will use software 100X more than people ever did. Even as interfaces begin to fade into the background as you primarily interact with agents, those agents still need many of the core primitives that people hav… / The monetization potential of personal agents that are transacting on your behalf you is quite significant. If you imagine agents that are perfectly capable of handling an arbitrarily complex task end to end, then event…",
+            "urls": [
+              "https://x.com/levie/status/2102235949430354273",
+              "https://x.com/levie/status/2102253246807261579"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "@latentspacepod @allenpark out now wherever fine podcasts are sold! (email, apple podcasts, youtube)",
+            "urls": [
+              "https://x.com/swyx/status/2102160025666101658"
+            ]
+          }
+        ],
+        "official_blogs": [
+          {
+            "source": "Claude Blog",
+            "title": "Claude in Chrome is generally available ",
+            "summary": "Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude…",
+            "url": "https://claude.com/blog/claude-in-chrome-generally-available"
+          }
+        ],
+        "podcasts": []
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-09-21",
@@ -655,148 +768,6 @@
         ]
       },
       "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-09-15",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 12,
-        "totalTweets": 23,
-        "blogPosts": 4,
-        "feedGeneratedAt": "2026-09-15T06:42:09.351Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "What’s a feature we should remove from Codex that isn’t useful anymore? / This week will also be a level of ships that you could have expected for DevDay 2025. Crazy",
-            "urls": [
-              "https://x.com/thsottiaux/status/2099393115241300166",
-              "https://x.com/thsottiaux/status/2099744972195131850"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Welcoming Steren, creator of Google Cloud Run, to Vercel. He will lead the Fluid family of compute products (Functions, Containers, Sandbox, Builds). Serverless was the last chapter of the cloud, and Steren helped defin… / Agents are only as good as the proof-checkers, compilers, type systems, and linters you give them. 𝚜𝚑𝚊𝚍𝚌𝚗/𝚕𝚒𝚗𝚝 helps agents stay on track with the rules of your design system. Meta: verifiers + skills are the…",
-            "urls": [
-              "https://x.com/rauchg/status/2099514906366328902",
-              "https://x.com/rauchg/status/2099540886409695346"
-            ]
-          },
-          {
-            "author": "Boris Cherny",
-            "role": "Claude Code @anthropicai",
-            "summary": "Claude Mods are landing now. Someone already built a Tetris-in-Claude mod 🤯 See issue for the latest community update, technical details, and more cool demos",
-            "urls": [
-              "https://x.com/bcherny/status/2099551291601248485"
-            ]
-          },
-          {
-            "author": "Josh Woodward",
-            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-            "summary": "2 months ago, we launched a Gemini power user group to test early features in the app. 20+ features tested later, your feedback has been incredible. Thank you! A new cohort is now getting early access to what’s next for… / Come design with us!",
-            "urls": [
-              "https://x.com/joshwoodward/status/2099558443078365287",
-              "https://x.com/joshwoodward/status/2099574899555930114"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "I talked to Sid & Robert about building Claude Code: how much things have changed, how hard it's been to keep up with model capabilities and also what we miss about software engineering before AI. / just finished recording on latent space I’m excited about this one- we get very technical about things we haven’t really talked about much yet",
-            "urls": [
-              "https://x.com/trq212/status/2099551141621329994",
-              "https://x.com/trq212/status/2099671266068496802"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "This is so useful. pushing to add this to codex as well.",
-            "urls": [
-              "https://x.com/steipete/status/2099571935495827761"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "She sounds super cool tbh / Screw it I can't wait to 2030",
-            "urls": [
-              "https://x.com/petergyang/status/2099668196651610556",
-              "https://x.com/petergyang/status/2099706366327951658"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "We probably need to all update our sense of what’s coming in terms of agentic workloads with the combination of agent swarms, better computer use, the next wave of APIs and MCPs coming online, and new form factors like… / Protecting enterprise data in a world where agents are using our systems 100X more than people ever did is going to be one of the more complex security and governance challenges of the 21st century. Importantly, securit…",
-            "urls": [
-              "https://x.com/levie/status/2099739019517235618",
-              "https://x.com/levie/status/2099550035239424465"
-            ]
-          },
-          {
-            "author": "Aditya Agarwal",
-            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
-            "summary": "This is an incredible demo. AI can be human. That is the ultimate goal. So proud to have been their earliest partner. As always, a lot more to build. / Seriously you'll want to see this for yourself",
-            "urls": [
-              "https://x.com/adityaag/status/2099529959262019887",
-              "https://x.com/adityaag/status/2099576440413184148"
-            ]
-          },
-          {
-            "author": "Matt Turck",
-            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
-            "summary": "Ok, this was a fun weekend, but we all understand AI progress is not going to slow down, right? Too many players, too many economic incentives and too much prisoner's dilemma, both domestically and globally. / Ramp’s brand marketing is just genius at this point - an actual Broadway musical about bills is… unhinged in the best possible way lol (👏@eglyman and team… no CMO)",
-            "urls": [
-              "https://x.com/mattturck/status/2099589199104033031",
-              "https://x.com/mattturck/status/2099634379093848156"
-            ]
-          }
-        ],
-        "official_blogs": [
-          {
-            "source": "Anthropic Engineering",
-            "title": "How we contain Claude across products",
-            "summary": "Twelve months ago, we'd have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do…",
-            "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
-          },
-          {
-            "source": "Anthropic Engineering",
-            "title": "An update on recent Claude Code quality reports",
-            "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116). In this post, we e…",
-            "url": "https://www.anthropic.com/engineering/april-23-postmortem"
-          },
-          {
-            "source": "Anthropic Engineering",
-            "title": "Scaling Managed Agents: Decoupling the brain from the hands",
-            "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently…",
-            "url": "https://www.anthropic.com/engineering/managed-agents"
-          },
-          {
-            "source": "Claude Blog",
-            "title": "Claude Code now supports artifacts",
-            "summary": "Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code's work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring…",
-            "url": "https://claude.com/blog/artifacts-in-claude-code"
-          }
-        ],
-        "podcasts": [
-          {
-            "source": "AI & I by Every",
-            "title": "How a Professional Writer Writes With AI",
-            "summary": "Speaker 1 | 00:00 - 00:31 Hey, it's Dan Shipper, and this week I'm excited to share a very special episode of AI and Dive. In this episode, we're previewing the release of an experimental new plugin called Compound Writing, which helps you write with AI the way that we do internally. It's inspired by Kieran Klassen's Compound Engineering, and it's built by…",
-            "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
-          }
-        ]
-      },
-      "errors": [
-        "Podcast feed problem: Podcast: Transcript error for \"Why you should work on AI for AI Research — Richard Socher of Recursive\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
-      ]
     }
   ]
 }
