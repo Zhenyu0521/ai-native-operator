@@ -1,7 +1,138 @@
 {
-  "updatedAt": "2026-09-23",
+  "updatedAt": "2026-09-24",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-09-24",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 0,
+        "xBuilders": 17,
+        "totalTweets": 37,
+        "blogPosts": 3,
+        "feedGeneratedAt": "2026-09-24T06:42:38.168Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Voice! I've gotten so used to just call ChatGPT and talk about all the work, check on emails, do some coding, manage my calendar and it works across the full ecosystem of plugins, including 3P developed plugins. / Can't wait for DevDay next Tuesday. Some really fun stuff, but also many many things that should change the way you work. It's been our most ambitious sprint and Astra has really made new things possible in such short a…",
+            "urls": [
+              "https://x.com/thsottiaux/status/2102814202117411196",
+              "https://x.com/thsottiaux/status/2102996313780736363"
+            ]
+          },
+          {
+            "author": "Boris Cherny",
+            "role": "Claude Code @anthropicai",
+            "summary": "If you've noticed how fast  and the Desktop app have become in the last few weeks, here's how we did it. Lots of juicy learnings & techniques in the blog post for engineers working on speeding up your own apps. / It was an honor to meet Donald Knuth at the Computer History Museum today",
+            "urls": [
+              "https://x.com/bcherny/status/2102854267782705648",
+              "https://x.com/bcherny/status/2102971275543216623"
+            ]
+          },
+          {
+            "author": "Claude",
+            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
+            "summary": "You can now discover tools, agents and expert partners on Claude Marketplace. Use it to: - Add connectors and plugins like Slack and Notion - Buy agents and products from companies like Cursor and CrowdStrike - Scale wi… / Browse the marketplace:  And if you're building for Claude, list your tools, agents or services here:",
+            "urls": [
+              "https://x.com/claudeai/status/2102840851538080172",
+              "https://x.com/claudeai/status/2102840855258452037"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "this is a new type of post we're trying where we share in-depth about how we do work using specific prompts and techniques you should be able to replicate let us know if it's useful or if you have any feedback! / the post: \"Claude one-shot this\" the prompt: 10k characters with good takes plus skills, examples and API keys",
+            "urls": [
+              "https://x.com/trq212/status/2102857025206255902",
+              "https://x.com/trq212/status/2102870353781641416"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "Muse, Instinct, OpenClaw, Claude Code… All successful agents have 3 key components: 🧠 Brain → model, harness (logic) 👐 Hands → tools, computer, browser 🗃️ Files → memories, skills, repos The 'easy' way is to throw al… / ShellPerfBench. I'm really neurotic about the startup time of a new shell session. Opus 5.5 found a lot of really great optimizations other models missed. Anon, anytime you open a new terminal, you might be silently suf…",
+            "urls": [
+              "https://x.com/rauchg/status/2102820148629614685",
+              "https://x.com/rauchg/status/2102947745132924993"
+            ]
+          },
+          {
+            "author": "Ryo Lu",
+            "role": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone…",
+            "summary": "efficiency, productivity, speed we keep worshipping these words like they are what we live for ship faster merge more manage more agents compress every loop remove every pause turn every hour into output but what is the…",
+            "urls": [
+              "https://x.com/ryolu_/status/2102933485795369213"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "Two important simultaneous important trends in how startups get customers: Make software agents want Use agents to make people want software / This is not priced in yet",
+            "urls": [
+              "https://x.com/garrytan/status/2102955139875397806",
+              "https://x.com/garrytan/status/2102972765989151226"
+            ]
+          },
+          {
+            "author": "Aditya Agarwal",
+            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
+            "summary": "You think Zuck is good when he is down and in the trenches and in lockdown and in war mode? Just see how he dominates when he has the big stack. Proud Facebook alum. LFG. / It tells you a lot when someone has moved around a lot in their career. Also tells you a lot when there is low company turnover. A team that has been working together for 3+ years is significantly higher throughput and…",
+            "urls": [
+              "https://x.com/adityaag/status/2102948781813792996",
+              "https://x.com/adityaag/status/2102782451643040074"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "Opus 5.5 is: - Smart - Fast - Fun to talk to - Good at writing - Friendly on rate limits - Constantly surprising at just how much it is capable of / No more crappy corporate slides, the result of this prompt blew me away lol",
+            "urls": [
+              "https://x.com/petergyang/status/2102946952740741394",
+              "https://x.com/petergyang/status/2102956775645552645"
+            ]
+          },
+          {
+            "author": "Josh Woodward",
+            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+            "summary": "More of your favorite apps are coming to Gemini! Which ones do you want next?",
+            "urls": [
+              "https://x.com/joshwoodward/status/2102800209894056351"
+            ]
+          }
+        ],
+        "official_blogs": [
+          {
+            "source": "Anthropic Engineering",
+            "title": "How we contain Claude across products",
+            "summary": "Twelve months ago, we'd have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do…",
+            "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
+          },
+          {
+            "source": "Anthropic Engineering",
+            "title": "An update on recent Claude Code quality reports",
+            "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116). In this post, we e…",
+            "url": "https://www.anthropic.com/engineering/april-23-postmortem"
+          },
+          {
+            "source": "Anthropic Engineering",
+            "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+            "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently…",
+            "url": "https://www.anthropic.com/engineering/managed-agents"
+          }
+        ],
+        "podcasts": []
+      },
+      "errors": [
+        "Podcast feed problem: Podcast: Transcript error for \"🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}",
+        "Podcast feed problem: Podcast: Transcript error for \"🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}",
+        "Podcast feed problem: Podcast: Transcript error for \"Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
+      ]
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-09-23",
@@ -640,120 +771,6 @@
           }
         ],
         "official_blogs": [],
-        "podcasts": []
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-09-17",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 0,
-        "xBuilders": 16,
-        "totalTweets": 33,
-        "blogPosts": 1,
-        "feedGeneratedAt": "2026-09-17T06:42:41.601Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Sometimes physics can't be cheated / Astra ✅ Fast ✅ Frontier ✅ Efficient ✅ For everyone",
-            "urls": [
-              "https://x.com/thsottiaux/status/2100363668051603608",
-              "https://x.com/thsottiaux/status/2100297380968997327"
-            ]
-          },
-          {
-            "author": "Sam Altman",
-            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-            "summary": "the main thing i was excited about launching this week will be next week instead, but imo worth the wait!",
-            "urls": [
-              "https://x.com/sama/status/2100351958167220547"
-            ]
-          },
-          {
-            "author": "Claude",
-            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
-            "summary": "You can also now make decks, docs, and designs in your conversation. Draft the one-pager in Claude Docs, turn it into a deck with Claude Slides, and mock up a matching visual in Claude Design, all from one place. / Fix a line in the doc yourself, leave a comment for Claude on a slide, or select an element and move it. When it's ready, present the deck straight from Claude, export the doc in the format you already use, or share eve…",
-            "urls": [
-              "https://x.com/claudeai/status/2100258492590207079",
-              "https://x.com/claudeai/status/2100258494221812123"
-            ]
-          },
-          {
-            "author": "Boris Cherny",
-            "role": "Claude Code @anthropicai",
-            "summary": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design. Th… / Claude Code showed that AI could do real work, not just answer questions. Developers hand Claude a feature, come back to shipped code. That's where much of the industry's serious engineering runs now. Cowork proved know…",
-            "urls": [
-              "https://x.com/bcherny/status/2100260544087535639",
-              "https://x.com/bcherny/status/2100259951398789487"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "We're seeing extraordinary results from @typesafeai. Default mode in 𝚏𝚡 is auto, with a safety reviewer analyzing every command. That reviewer runs on GPT Luna today. Jev is up to 18x faster (p95) *and* more accurate.… / ",
-            "urls": [
-              "https://x.com/rauchg/status/2100307962262872105",
-              "https://x.com/rauchg/status/2100260457617736051"
-            ]
-          },
-          {
-            "author": "Dan Shipper",
-            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
-            "summary": "THEY DID IT THE END OF THE TABS ERA IS UPON US / big big big big big",
-            "urls": [
-              "https://x.com/danshipper/status/2100269017977987341",
-              "https://x.com/danshipper/status/2100284086703046903"
-            ]
-          },
-          {
-            "author": "Zara Zhang",
-            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
-            "summary": "I find myself using Claude less these days because the way it speaks has just become insufferable Like it’s constantly trying to showcase how smart/sophisticated it is, rather than actually communicating a point across",
-            "urls": [
-              "https://x.com/zarazhangrui/status/2100278750776824115"
-            ]
-          },
-          {
-            "author": "Cat Wu",
-            "role": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
-            "summary": "Today, we are merging Claude Cowork and chat to simplify how you use Claude! We are also integrating Claude Design so that you can ask Claude to make a Slide, Design, or Doc without needing to switch tabs or apps. Many…",
-            "urls": [
-              "https://x.com/_catwu/status/2100260655312089562"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "I can use any harness I want and it's the same personality and full memory of my personal AGI / Excited to speak at @Supabase Select in conversation with the amazing @kiwicopple about building startups in the time of AI Register for the event and join me:",
-            "urls": [
-              "https://x.com/garrytan/status/2100339347669279149",
-              "https://x.com/garrytan/status/2100354983053111365"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "related to this- I think bash is no longer all you need, if your goal is just reliably tool calling but sandboxes + bash are still good for work that involves code generation & execution / I think increasingly you can just give Claude tools shaped in the way you want vs tricking it with a layer of indirection e.g. for data storage do you really want a file system or do you want an API to a database this i…",
-            "urls": [
-              "https://x.com/trq212/status/2100315535758217422",
-              "https://x.com/trq212/status/2100315537251463523"
-            ]
-          }
-        ],
-        "official_blogs": [
-          {
-            "source": "Claude Blog",
-            "title": "Claude Cowork and chat are now one Claude",
-            "summary": "Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. It’s rolling out on Pro and Max plans over the next few weeks, with more plans to follow. What Claude makes doesn’t need its own place either.…",
-            "url": "https://claude.com/blog/cowork-is-now-claude"
-          }
-        ],
         "podcasts": []
       },
       "errors": []
