@@ -1,7 +1,121 @@
 {
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-09-30",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-09-30",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 0,
+        "xBuilders": 14,
+        "totalTweets": 32,
+        "blogPosts": 1,
+        "feedGeneratedAt": "2026-09-30T06:45:24.816Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Sam Altman",
+            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+            "summary": "Dots are here! A new way to use AI that works 24/7 for you; get more of your time and attention back to work at a higher level. / Ultrafast is so fast I do not ever want to go back",
+            "urls": [
+              "https://x.com/sama/status/2104995014208258235",
+              "https://x.com/sama/status/2104994601140711896"
+            ]
+          },
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "We will have a few million dots online within days, working on all sorts of things across such a diverse and large community. Excited to learn from all of you on what you love and what doesn’t yet feel magical. Personal… / It was so nice to connect with so many of you in person at DevDay. Immaculate vibes from the crowd and fun to see so many build things throughout the day.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2105105086506840421",
+              "https://x.com/thsottiaux/status/2105102820706058498"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "have you tried telling Claude \"we have the power to do anything, please be braver\" also, have you tried telling yourself / from our blog post on how we made Claude faster:",
+            "urls": [
+              "https://x.com/trq212/status/2105065127892734076",
+              "https://x.com/trq212/status/2105065175711924492"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "How to design and build a harness to reach frontier performance at a fraction of the cost!",
+            "urls": [
+              "https://x.com/amasad/status/2104996638817386820"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "This is pretty amazing. / That /goal is still running.",
+            "urls": [
+              "https://x.com/steipete/status/2105048996549116268",
+              "https://x.com/steipete/status/2105049100983132648"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "AI SDK has hit 30M weekly downloads. One-shotted this video in fframes +  + opus. I asked 𝚏𝚡 to look at  and highlight the 5M/10M/20M/30M milestones. Yes, this video was written in Rust and rendered on the GPU. h/t @n… / You can just ship things (and wallow in cartographic filigree)",
+            "urls": [
+              "https://x.com/rauchg/status/2105043144975011982",
+              "https://x.com/rauchg/status/2105012176952164777"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "Two random honest thoughts on the market right now.. First is on people: It's harder than ever to find missionaries. I'm seeing people leave the companies they have cofounded to join the \"obvious\" winners. Public CEOs a… / If you’re a B2B founder and don’t want to spend egregious amounts of money on LinkedIn CPMs, lots of alpha in just aggregating what’s trending on X and posting it on LinkedIn. LinkedIn is consistently a week or two behi…",
+            "urls": [
+              "https://x.com/nikunj/status/2105148927599423752",
+              "https://x.com/nikunj/status/2104949147812159672"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "I had so much fun at @OpenAI Dev Day despite not attending a single session other than the keynotes 😅 Instead, I spent the day catching up with some great folks, so I'm going to embarass some of them now: 1. @lennysan… / Wow I had no idea this toggle exists Going to try this now I hate the ai slop shorts on YouTube",
+            "urls": [
+              "https://x.com/petergyang/status/2105114973819244676",
+              "https://x.com/petergyang/status/2105127506701644024"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
+            "summary": "I made a marketing website for my water bottle The whole thing was done by Opus 5.5 (6 prompts); it used: - Elevenlabs to generate the music - Meshy to generate the 3D assets - OpenAI API to generate images (sound on)",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2105096296831017078"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "Just merged a version of OpenClaw’s test-audit skill into GStack. Test bloat is a real problem. Luckily intelligence is on tap these days!",
+            "urls": [
+              "https://x.com/garrytan/status/2105049005147525231"
+            ]
+          }
+        ],
+        "official_blogs": [
+          {
+            "source": "Claude Blog",
+            "title": "Claude in Chrome is generally available ",
+            "summary": "Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude…",
+            "url": "https://claude.com/blog/claude-in-chrome-generally-available"
+          }
+        ],
+        "podcasts": []
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-09-29",
@@ -695,114 +809,6 @@
         "Podcast feed problem: Podcast: Transcript error for \"🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}",
         "Podcast feed problem: Podcast: Transcript error for \"Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
       ]
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-09-23",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 0,
-        "xBuilders": 17,
-        "totalTweets": 43,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-09-23T06:42:38.470Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general \"you know when you try it\" quality. We are also permanently reducing the API price by 50% ma… / We have been focusing on efficiency and intelligence for all. Very proud of the team. Only possible when you have incredible models at the top end of the capability that you can then use to make a big difference in ever…",
-            "urls": [
-              "https://x.com/thsottiaux/status/2102463847714247142",
-              "https://x.com/thsottiaux/status/2102440619616682120"
-            ]
-          },
-          {
-            "author": "Boris Cherny",
-            "role": "Claude Code @anthropicai",
-            "summary": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and Fable 5.1 each port HAProxy from C to Rust. Both passed nearly all of HAProxy's tests, but Opus 5.5 finished in 9.5 hour… / I used Opus 5.5 to formally verify the Claude Agent SDK using Lean. A couple short prompts = 16 PRs fixing various bugs and race conditions. Video attached. TLA+ also works well. I sometimes combine Lean and TLA+ to loo…",
-            "urls": [
-              "https://x.com/bcherny/status/2102439069053747549",
-              "https://x.com/bcherny/status/2102543349102338309"
-            ]
-          },
-          {
-            "author": "Sam Altman",
-            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-            "summary": "Startups are naturally good at this; it is hard to keep a bigger company good at this and i think an underexplored space. / michelle embodies this as much as anyone openai is so, so lucky to have benefited from everything she has done so far and i think people will be quite pleased to see what she + team have cooking next!",
-            "urls": [
-              "https://x.com/sama/status/2102469008079679640",
-              "https://x.com/sama/status/2102468713866055872"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "the right way to use model capabilities is not to ship 10x more features to prod it's to spend more time understanding your users, trying experiments, building prototypes, learning about things you don't understand so t… / if you want to make games, 3d generation is a great capability to help you imagine your game come to life but you should figure out how to make a good, satisfying game loop first (talking to myself here)",
-            "urls": [
-              "https://x.com/trq212/status/2102548686303854790",
-              "https://x.com/trq212/status/2102549030303867257"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Love the tastefulness with which anthropic ships. Main reason I got excited about 'headless' for the web is that any given page could take whatever whimsical or unique shape you wanted. With AI, there's no excuse not to… / We ran fresh Next.js evals. The tally: ① Opus 5.5 [𝟿𝟽%] ② GPT 6 Sol [𝟿𝟽%] ③ Fable 5.1 [𝟿𝟽%] ④ Grok 4.7 [𝟿𝟺%] Notably, Grok is 2x-7x cheaper",
-            "urls": [
-              "https://x.com/rauchg/status/2102438365455167883",
-              "https://x.com/rauchg/status/2102519097770885231"
-            ]
-          },
-          {
-            "author": "Cat Wu",
-            "role": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
-            "summary": "Claude Opus 5.5 is now the default model in Claude Code and the Claude app, including Cowork, for Pro, Max, and Team plans. I’ve been using Opus 5.5 as a daily driver and love its clear communication skills and ability… / If you’re looking for ways to try Opus 5.5 and Claude Tag in Slack…",
-            "urls": [
-              "https://x.com/_catwu/status/2102437713781944397",
-              "https://x.com/_catwu/status/2102569951974584612"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "What an insane day in AI. The frontier models just became substantially cheaper, with the Opus 5.5 price cuts, and now with GPT-6 Sol and Luna dropping token prices by 50%. The rate at which the cost per task (on a like… / At Box, we've been testing Opus 5.5 on a variety of complex enterprise knowledge work tasks dealing with unstructured data with the Box Agent. Overall, we saw frontier capability levels, with major performance improveme…",
-            "urls": [
-              "https://x.com/levie/status/2102477253070430322",
-              "https://x.com/levie/status/2102448415775051790"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "Your intelligence is fake. It’s artificial. Mine? It’s super. Super Intelligence. Aka SI.",
-            "urls": [
-              "https://x.com/amasad/status/2102489320766800002"
-            ]
-          },
-          {
-            "author": "Alex Albert",
-            "role": "Research @AnthropicAI. Opinions are my own!",
-            "summary": "I've been on a Blender kick with Opus 5.5. Its better 3D modeling and vision mean you can build an entire world from a single prompt. Historically accurate San Francisco Market street in 1906, pre-earthquake / Prompt in Claude Tag \"Recreate Market Street, San Francisco as it stood on April 17, 1906, the afternoon before the earthquake, in Blender. Scope: the Ferry Building up Market to Fifth Street, including the Palace Hotel…",
-            "urls": [
-              "https://x.com/alexalbert__/status/2102466523164274839",
-              "https://x.com/alexalbert__/status/2102466524934271381"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "Had ChatGPT sometimes crashing on me after updating to macOS 27 and... Astra found a ~14 year old bug in libuv.",
-            "urls": [
-              "https://x.com/steipete/status/2102501642176528743"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": []
-      },
-      "errors": []
     }
   ]
 }
