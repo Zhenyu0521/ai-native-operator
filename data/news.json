@@ -1,7 +1,127 @@
 {
-  "updatedAt": "2026-10-03",
+  "updatedAt": "2026-10-04",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-10-04",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 13,
+        "totalTweets": 25,
+        "blogPosts": 1,
+        "feedGeneratedAt": "2026-10-04T08:22:04.655Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Sam Altman",
+            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+            "summary": "I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue.",
+            "urls": [
+              "https://x.com/sama/status/2106388373221118198"
+            ]
+          },
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. Sometimes you have to invest ahead of the curve, but feedback is clear… / I have never in my life achieved inbox zero until I just made it an active goal for my dot to help get it done. Let’s see how long it lasts, but it’s a great feeling.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2106610099720720811",
+              "https://x.com/thsottiaux/status/2106602729875685780"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "Do I know anyone at Google who could help? We're now over a week in review limbo for OpenClaw's Android app. / laughing about how we all are building the same thing.",
+            "urls": [
+              "https://x.com/steipete/status/2106446147791597774",
+              "https://x.com/steipete/status/2106489264443981978"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "AI will make everything free, including itself. The last domino to fall will be free energy, which is humanity’s final frontier. / Summer is finally here! 🌞⛱️",
+            "urls": [
+              "https://x.com/rauchg/status/2106503460384538793",
+              "https://x.com/rauchg/status/2106524265034162421"
+            ]
+          },
+          {
+            "author": "Ryo Lu",
+            "role": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone…",
+            "summary": "convergence to the mean when everyone looks at everyone else to decide what to make, we eventually stop making anything of our own. we copy what works. borrow the language, the aesthetic, the features. we call it learni… / ",
+            "urls": [
+              "https://x.com/ryolu_/status/2106337039201505453",
+              "https://x.com/ryolu_/status/2106343073127256507"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "Google CEO actually uses this app and replies to feedback while YouTube CEO only uses this as a comms channel to post announcements / I'm watching Foundation now season 1 episode 3 and can't decide if I really love it or not. Does it get much better? The emperor plot is good the rest seems meh so far.",
+            "urls": [
+              "https://x.com/petergyang/status/2106505635017986394",
+              "https://x.com/petergyang/status/2106593772863955419"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "Who’s building this? / Replit Drift",
+            "urls": [
+              "https://x.com/amasad/status/2106506305875947966",
+              "https://x.com/amasad/status/2106406812316827874"
+            ]
+          },
+          {
+            "author": "Aditya Agarwal",
+            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
+            "summary": "A common misconception is that if you are super rich, you can get unlimited access to the world's best doctor/lawyer/creative-professional etc. The reality is that the world's leading cancer doctor will still see you fo…",
+            "urls": [
+              "https://x.com/adityaag/status/2106503075209044336"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "AI agent adoption is still very bimodal right now. You have coding and coding adjacent tasks which have taken off, and then everything else. And even within coding, you have a very wide continuum of adoption patterns, w…",
+            "urls": [
+              "https://x.com/levie/status/2106583814709633413"
+            ]
+          },
+          {
+            "author": "Madhu Guru",
+            "role": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+            "summary": "AI adoption is largely a product problem today. Even among the 2% that are paying for AI today, the depth of usage is shallow. The main reason : most AI products look like airplane cockpits with 100 levers - connectors,…",
+            "urls": [
+              "https://x.com/realmadhuguru/status/2106450089938157720"
+            ]
+          }
+        ],
+        "official_blogs": [
+          {
+            "source": "Claude Blog",
+            "title": "Claude Cowork and chat are now one Claude",
+            "summary": "Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. It’s rolling out on Pro and Max plans over the next few weeks, with more plans to follow. What Claude makes doesn’t need its own place either.…",
+            "url": "https://claude.com/blog/cowork-is-now-claude"
+          }
+        ],
+        "podcasts": [
+          {
+            "source": "The MAD Podcast with Matt Turck",
+            "title": "Who Feeds the GPUs? Inside AI's Hidden $30B Layer | Renen Hallak, VAST Data",
+            "summary": "Speaker 1 | 00:00 - 00:17 Sometimes it scares me. We had a customer, one of these AI clouds, they said we're probably going to need about 500 petabytes over the next three years. Last week, came back to us and said, we're gonna need an extra two exabytes on top of that 500 petabytes. I think in the next ten years, we'll see more difference than we did in th…",
+            "url": "https://www.youtube.com/watch?v=awoR908Yu5Y"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-10-03",
@@ -704,101 +824,6 @@
             "title": "Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion",
             "summary": "Speaker 1 | 00:00 - 00:07 I wanna send an emergency alert to, like, everybody who's, like, a sophomore or junior in college and just be, like, follow these 20 accounts Speaker 2 | 00:07 - 00:07 on Twitter Yeah. Speaker 1 | 00:07 - 00:23 I agree. And also join Twitter because, like, this will just help your career. You're either, like, a year ahead or a year…",
             "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-09-27",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 8,
-        "totalTweets": 14,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-09-27T06:41:10.021Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Resets all propagated. That will be all. Have a fantastic weekend.",
-            "urls": [
-              "https://x.com/thsottiaux/status/2103911959544610829"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Hello world, Lisa Rauch 👧. What an amazing and beautiful world to be born in. / Reject non-understanding. Slop grenades are not just code and PRs. We run a real risk that *reading* gets entirely discounted, because of the exhaustion of getting low-quality and unverified AI prose being thrown at you…",
-            "urls": [
-              "https://x.com/rauchg/status/2103951116648280266",
-              "https://x.com/rauchg/status/2103939888513274147"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "Now I see why some people talk about AGI. This is so clever!",
-            "urls": [
-              "https://x.com/steipete/status/2103883264054505493"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "Just about 1 year ago I posted one of the first posts about using Claude Code to make videos. Each of these actually took a long time to iterate with Claude and get right, pointing out details that were wrong, etc. Craz…",
-            "urls": [
-              "https://x.com/trq212/status/2103897226154328502"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "Be chalant Don’t LARP / This is my favorite way to fix bugs now @capydotai with GStack /autoplan on a production issue GPT-6 medium reasoning",
-            "urls": [
-              "https://x.com/garrytan/status/2103932595956506885",
-              "https://x.com/garrytan/status/2103989902476259702"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "Not sure what happened to Claude limits they went from barely usable to basically unlimited 😂 / I am using @antigravity for the first time (to try Google's new audio APIs) and who do I give feedback to...",
-            "urls": [
-              "https://x.com/petergyang/status/2104066667361992892",
-              "https://x.com/petergyang/status/2104003094615052443"
-            ]
-          },
-          {
-            "author": "Dan Shipper",
-            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
-            "summary": "i wrote a novelization of Plato’s Protagoras then i had Opus 5.5 turn it into a movie (scene 1); / Plato's Protagoras, as a short film by Opus 5.5 scene 2:",
-            "urls": [
-              "https://x.com/danshipper/status/2103850415930708437",
-              "https://x.com/danshipper/status/2103894152316645620"
-            ]
-          },
-          {
-            "author": "Nikunj Kothari",
-            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
-            "summary": "Hope you got out today ✌️",
-            "urls": [
-              "https://x.com/nikunj/status/2104030951370322145"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "No Priors",
-            "title": "Why Diffusion Will Win AI Inference with Inception Co-Founder and CEO Stefano Ermon",
-            "summary": "Speaker 1 | 00:05 - 00:31 Hi, listeners. Welcome back to No Priors. Today, I'm here with Stefano Erman, who is a longtime Stanford professor and now co founder and CEO of Inception. Stefano has a extraordinarily broad body of work around generative modeling, but is especially well known as one of the fathers of diffusion. We talk about his company challengi…",
-            "url": "https://www.youtube.com/@NoPriorsPodcast"
           }
         ]
       },
