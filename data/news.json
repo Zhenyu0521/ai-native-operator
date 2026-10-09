@@ -1,7 +1,120 @@
 {
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-08",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-10-08",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 19,
+        "totalTweets": 41,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-10-08T06:47:17.990Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Google Labs",
+            "role": "Google’s home for our latest AI tools and experiments.",
+            "summary": "🚨NEW EXPERIMENT 🚨 Playground is an experimental gaming platform that lets you create your own games with zero coding experience. If you can think it, you can play it. Go to  to learn more! Available to users 18+ in th…",
+            "urls": [
+              "https://x.com/GoogleLabs/status/2107800195748737042"
+            ]
+          },
+          {
+            "author": "Claude",
+            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
+            "summary": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work. / Haiku 5.5 shows major improvements across almost all of our alignment evaluations relative to Haiku 4.5, with far fewer instances of misaligned behavior.",
+            "urls": [
+              "https://x.com/claudeai/status/2107894060229034197",
+              "https://x.com/claudeai/status/2107894054142787877"
+            ]
+          },
+          {
+            "author": "Sam Altman",
+            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+            "summary": "ChatGPT can now generate a custom UI for you! / Have been waiting for this one for a long time, and I would hate to have to go back to the old version of Chat!",
+            "urls": [
+              "https://x.com/sama/status/2107924408597950702",
+              "https://x.com/sama/status/2107924677801001381"
+            ]
+          },
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Confirmed landed across all accounts. How are we doing so far? / Will be there by EOD PST.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2108040921044639779",
+              "https://x.com/thsottiaux/status/2107913738791596286"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "the most common failure case I see is when people are working outside their domain of expertise and don't know how to be precise with their prompts and plans, so they have to spend a lot of turns iterating imprecisely / I think it's probably an incredible time to be a game dev content creator, for many people making games is a form of having fun and they're willing to pay for it!",
+            "urls": [
+              "https://x.com/trq212/status/2108021247301062894",
+              "https://x.com/trq212/status/2107957206327173484"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "Math was bound to fall first. The purer the field the easier it is for AI to crack. / That’s because Replit is not a consumer app. Most of our creators are building businesses or working on one.",
+            "urls": [
+              "https://x.com/amasad/status/2107934939287273551",
+              "https://x.com/amasad/status/2107927076926038273"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "gm from the best city in the world / One thing the engineering community will (re)discover is that every program can be ① hardened (edge cases squashed, inputs tightened, errors handled) and ② optimized (profiled, benchmarked, rewritten) basically ad infin…",
+            "urls": [
+              "https://x.com/rauchg/status/2107861196506595398",
+              "https://x.com/rauchg/status/2107962327169675566"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "The compute needed for the stage of AI we’re about to enter is going to be insane. Personal agents, agent swarms defending enterprises, agents that review all of our code for security issues, agents that process nearly…",
+            "urls": [
+              "https://x.com/levie/status/2108056577697882402"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "While everyone's talking about agents, I've been exploring how teams can use them to work better together. Here’s my take, from OpenAI DevDay 2026.",
+            "urls": [
+              "https://x.com/steipete/status/2107911769767440832"
+            ]
+          },
+          {
+            "author": "Alex Albert",
+            "role": "Research @AnthropicAI. Opinions are my own!",
+            "summary": "For reference, Haiku 4.5 came out on October 15th, 2025 so these two columns are less than a year apart. and oh yeah Haiku 5.5 is also much faster and 75% cheaper...",
+            "urls": [
+              "https://x.com/alexalbert__/status/2107912771568554415"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "AI & I by Every",
+            "title": "Why Every Traded Personal Agents for One Company Agent",
+            "summary": "Speaker 1 | 00:00 - 00:12 The hot thing right now is dots. They're persistent agents from OpenAI. I was there at Dev Day when they launched them. I interviewed Sam about them, and I've been using dots since before they came out. And now we're into week two of dots. Speaker 1 | 00:12 - 00:46 So how's it going? If you read my vibe check, you know that I thoug…",
+            "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-10-07",
@@ -711,121 +824,6 @@
       },
       "errors": [
         "Podcast feed problem: Podcast: Transcript error for \"Academia is for Ambition — Alex Zhang, MIT\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
-      ]
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-10-01",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 17,
-        "totalTweets": 34,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-10-01T06:46:31.245Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "GPT-6.1 Sol is our most demanded model pretty much ever both across both the API and subscriptions. Within ChatGPT & Codex, we were under heavy load, but have brough more capacity online and the speed should get much be… / Asked my dot to paint me. After sending me something cartoonish, I asked it to try a bit harder and to find a recent picture of me on the internet. It did better. Below video is me clicking through my dot's computer.",
-            "urls": [
-              "https://x.com/thsottiaux/status/2105464274747527543",
-              "https://x.com/thsottiaux/status/2105395200248156556"
-            ]
-          },
-          {
-            "author": "Claude",
-            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
-            "summary": "Claude Founder House is coming to SF Tech Week (Oct 6–8) and Stockholm (Oct 14). Come for talks, workshops, and office hours with our team, plus time to meet others building with Claude. Whether you're a founder, a CEO,… / Register for San Francisco:  Register for Stockholm:",
-            "urls": [
-              "https://x.com/claudeai/status/2105370680485417401",
-              "https://x.com/claudeai/status/2105370681613672773"
-            ]
-          },
-          {
-            "author": "Josh Woodward",
-            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-            "summary": "Gemini 4 Argon!",
-            "urls": [
-              "https://x.com/joshwoodward/status/2105396307250782446"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "There's a huge opportunity right now in being the deployment layer for AI into the economy. The amount of work it takes to change out workflows in enterprises tends to be far greater than anyone realizes or would prefer…",
-            "urls": [
-              "https://x.com/levie/status/2105354449795621179"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "It’s a fierce fight between CI and GitHub on what slows me down. Time to rethink how we work. (love GH tho and fully see their struggles!) / I'm finding inter-agent communication in the chat stream increasingly irritating. Changed the visibility in the OC harness to just a single line that can be expanded. Pretty sure others will follow.",
-            "urls": [
-              "https://x.com/steipete/status/2105341288958869952",
-              "https://x.com/steipete/status/2105362785534361996"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "If you run a service and want to get in front of 20M+ developers and the billions of agents they'll ship, add yourself to Connect. With code now being 'free', the final boss of building is connecting to stuff. Connect i… / Most token aggregators have extreme noise from ① token promos from/to providers that train on your data or ② providers that *claim* to be ZDR. Vercel AI Gateway is the largest trustworthy datasource to understand global…",
-            "urls": [
-              "https://x.com/rauchg/status/2105390544096841942",
-              "https://x.com/rauchg/status/2105476587756138942"
-            ]
-          },
-          {
-            "author": "Matt Turck",
-            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
-            "summary": "SaaS companies seeing Anthropic’s ARR growth flatline",
-            "urls": [
-              "https://x.com/mattturck/status/2105261211906384132"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "*chefs kiss* / Other code editors let you top down coordinate child agents I’ve never really seen this where agent swarms speak to one another as peers and self coordinate allowing you to organically explore the space instead of pre-a…",
-            "urls": [
-              "https://x.com/garrytan/status/2105472268482875898",
-              "https://x.com/garrytan/status/2105449821645480046"
-            ]
-          },
-          {
-            "author": "Google Labs",
-            "role": "Google’s home for our latest AI tools and experiments.",
-            "summary": "💠 Opal shines on in Skills! 💠 When we launched Opal in Google Labs, it was an experiment to learn how you customize your workflows. Your incredible creativity taught us so much — first inspiring Gems made by Labs, and…",
-            "urls": [
-              "https://x.com/GoogleLabs/status/2105352889665564838"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "Google cooked on Gemini 4! Now they just need to be more competitive on coding harness (Antigravity) + personal agent (Spark). / This is getting nuclear 🌶️",
-            "urls": [
-              "https://x.com/petergyang/status/2105393240392585359",
-              "https://x.com/petergyang/status/2105427638236180883"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "AI & I by Every",
-            "title": "How Sam Altman Uses Dots to Take Back His Time",
-            "summary": "Do you do all your prompting on Ultrafast? I do. That's sick. Yeah. That's crazy. You know, seven people's dots can, working together, create something new that kind of existed in all of our heads to some degree, but was like an emergent thing. Hey, this is Dan Shipper. You might be wondering what happened to AI and I. This is the same show, we are just reb…",
-            "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
-          }
-        ]
-      },
-      "errors": [
-        "Podcast feed problem: Podcast: Transcript error for \"Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
       ]
     }
   ]
