@@ -1,7 +1,122 @@
 {
-  "updatedAt": "2026-10-08",
+  "updatedAt": "2026-10-09",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-10-09",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 15,
+        "totalTweets": 32,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-10-09T06:47:11.550Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Today, we are announcing ChatGPT. It is here: / Day 4/ We have improved steering to be instant, leading to the model now reacting much faster to adjustments you make, allowing you to course-correct direction in realtime and not have the model waste effort. Also relea…",
+            "urls": [
+              "https://x.com/thsottiaux/status/2108349826727588000",
+              "https://x.com/thsottiaux/status/2108275041276420573"
+            ]
+          },
+          {
+            "author": "Claude",
+            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
+            "summary": "Starting today, Claude Docs, Slides, and Design are out of beta and available on every plan including Free. Your team and Claude can edit the same doc, deck, or design together. / When a question needs deeper analysis, send the dashboard to your analytics tool. When an animation needs finishing touches, open it in your video editor. See the full list of supported tools:",
+            "urls": [
+              "https://x.com/claudeai/status/2108271559928389679",
+              "https://x.com/claudeai/status/2108271561337606300"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "whoops I hit send and went to a meeting, didn't realize the repo wasnt public- it is now! it's a chrome extension I use every day now / and read more about how to enable the API credits for yourself here:",
+            "urls": [
+              "https://x.com/trq212/status/2108312534222778407",
+              "https://x.com/trq212/status/2108301672409960922"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "WE GOT IT! .claw incoming!",
+            "urls": [
+              "https://x.com/steipete/status/2108374513931165759"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "This sounds weird, but it is actually probably a good policy. Even if you don’t believe AI is conscious (I don’t), it stands to reason that you don’t want future models trained on endless content of humans being rude to… / We built Box Mount to allow developers to mount Box as a file system directly in any agent sandbox. As agents do more complex work, they need to be able to work with files and data just like a person would. The future i…",
+            "urls": [
+              "https://x.com/levie/status/2108426594054533545",
+              "https://x.com/levie/status/2108279490510193078"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "Few things more enjoyable in work and life than discovering new talent. Seeing greatness in people, sometimes even before they fully see it themselves.",
+            "urls": [
+              "https://x.com/rauchg/status/2108399406009798764"
+            ]
+          },
+          {
+            "author": "Madhu Guru",
+            "role": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+            "summary": "There are massive startup opportunities hiding in plain sight : every layer of the computing stack will need to be rebuilt for agents. For the last few years, most of the focus has been on making enterprise software age…",
+            "urls": [
+              "https://x.com/realmadhuguru/status/2108236391641706813"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "Met a close friend who’s also a seed stage founder today.. They have been growing but runway is dwindling and he wanted advice on what he should do next. Stellar customers, getting close to a $1M in revenue. Not a rocke…",
+            "urls": [
+              "https://x.com/nikunj/status/2108410378233549106"
+            ]
+          },
+          {
+            "author": "Dan Shipper",
+            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
+            "summary": "NEW JOB ALERT: @every we've built a personal benchmarking platform, Checks, to help anyone measure how good new models are for their real work we're looking for someone who understands why this is so important, and want… / yup",
+            "urls": [
+              "https://x.com/danshipper/status/2108215087030800657",
+              "https://x.com/danshipper/status/2108216876853596486"
+            ]
+          },
+          {
+            "author": "Matt Turck",
+            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
+            "summary": "Special treat for the @andy_pavlo fans out there: an in-depth discussion about what happens to databases when billions of AI agents hit them, his move to build a research lab at @ClickHouseDB, and plently of hot takes o… / This conversation with the great @andy_pavlo is also available on Spotify, Apple Podcasts and here on YouTube - like and subscribe!",
+            "urls": [
+              "https://x.com/mattturck/status/2108223135673696504",
+              "https://x.com/mattturck/status/2108223141055180992"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "Training Data",
+            "title": "Google's AI Infrastructure Chief, Amin Vahdat, on the Physics &amp; Economics of Frontier AI",
+            "summary": "Speaker 1 | 00:00 - 00:35 In hardware, again, as you know, there is this opportunity where the more you specialize to a particular workload, the less flexible it is, the faster, the more power efficient the hardware is gonna be. So it is this art, and it's this projection of what are you designing to and how persistent is that workload. In other words, if i…",
+            "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+          }
+        ]
+      },
+      "errors": [
+        "Podcast feed problem: Podcast: Transcript error for \"What Happens When Billions of AI Agents Hit Your Database? (Andy Pavlo)\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
+      ]
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-10-08",
@@ -690,141 +805,6 @@
         ]
       },
       "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-10-02",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 20,
-        "totalTweets": 41,
-        "blogPosts": 3,
-        "feedGeneratedAt": "2026-10-02T06:45:05.163Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Andrej Karpathy",
-            "summary": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks: Writing. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a con… / Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet.",
-            "urls": [
-              "https://x.com/karpathy/status/2105819303471976479",
-              "https://x.com/karpathy/status/2105909609487872075"
-            ]
-          },
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days. / You can ask your dot to \"create a pet and set it as your avatar\". It can be based on an idea, an image or pretty much anything. Here is my dot",
-            "urls": [
-              "https://x.com/thsottiaux/status/2105843926221660585",
-              "https://x.com/thsottiaux/status/2105862010521219406"
-            ]
-          },
-          {
-            "author": "Sam Altman",
-            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-            "summary": "Also, 6.1 Sol was our fastest-growing model ever, and was a bit slow under load. Should be much better now! / You should be able to use your AI subscription wherever you need:",
-            "urls": [
-              "https://x.com/sama/status/2105688354834756036",
-              "https://x.com/sama/status/2105739098640298253"
-            ]
-          },
-          {
-            "author": "Claude",
-            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
-            "summary": "For two weeks, start a design, deck, or doc in the Claude app, and the work that follows in that conversation uses 50% less of your usage limits. Give it a try with Claude Sonnet 5.5. It has a strong eye for design and… / Applies automatically each time you create a design, deck, or doc, and runs through October 15 on Pro, Max, and Team plans. How it works and full terms:",
-            "urls": [
-              "https://x.com/claudeai/status/2105721630051692804",
-              "https://x.com/claudeai/status/2105721631595209057"
-            ]
-          },
-          {
-            "author": "Boris Cherny",
-            "role": "Claude Code @anthropicai",
-            "summary": "Mods are absolutely insane. You can now customize Claude to work and look the way you want by just prompting it. Each person works differently, so there's no reason why everyone should have an identical Claude experienc…",
-            "urls": [
-              "https://x.com/bcherny/status/2105756563302723721"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "The future is verification-engineering. Proofs, (e2e) tests, benchmarks, linters… Some tests will be deterministic, some agentic. This looks great. / SvelteKit 3 is a wonder. Congrats to the team. So excited for Async Svelte & Remote Functions to cook. I built a tiny app, it built & deployed in 15 seconds end-to-end, it’s instant, and fx + opus figured it all out eff…",
-            "urls": [
-              "https://x.com/rauchg/status/2105723481413550427",
-              "https://x.com/rauchg/status/2105837842362732965"
-            ]
-          },
-          {
-            "author": "Nan Yu",
-            "role": "product, codex @openai. prev head of product @linear",
-            "summary": "There is only One True SaaS Layout. You may not like it, but this is what peak usability looks like / This but unironically",
-            "urls": [
-              "https://x.com/thenanyu/status/2105704619704029435",
-              "https://x.com/thenanyu/status/2105868916325302445"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "\"Today, we’re releasing two Cloudflare-trained decision models, Clef and Clef-flash\"  Never seen an idea spreading so fast. / holy",
-            "urls": [
-              "https://x.com/steipete/status/2105778011635400949",
-              "https://x.com/steipete/status/2105805164305359019"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "Been trying to up the level of quality in animation in my game prototype, so been getting Claude to teach me & find references. I asked Claude to make an animation editor where we could iterate on the jump, I'm really h… / This is a personal side project I've been working on! Here's the original post:",
-            "urls": [
-              "https://x.com/trq212/status/2105849295580889208",
-              "https://x.com/trq212/status/2105849729297055792"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "A big trend with most enterprises that I talk to is deploying internal FDEs into departments in their organization to help bridge the capabilities of AI into their underlying workflows. This requires a high level of tec…",
-            "urls": [
-              "https://x.com/levie/status/2105695329513504976"
-            ]
-          }
-        ],
-        "official_blogs": [
-          {
-            "source": "Anthropic Engineering",
-            "title": "How we contain Claude across products",
-            "summary": "Twelve months ago, we'd have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do…",
-            "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
-          },
-          {
-            "source": "Anthropic Engineering",
-            "title": "An update on recent Claude Code quality reports",
-            "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116). In this post, we e…",
-            "url": "https://www.anthropic.com/engineering/april-23-postmortem"
-          },
-          {
-            "source": "Anthropic Engineering",
-            "title": "Scaling Managed Agents: Decoupling the brain from the hands",
-            "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently…",
-            "url": "https://www.anthropic.com/engineering/managed-agents"
-          }
-        ],
-        "podcasts": [
-          {
-            "source": "The MAD Podcast with Matt Turck",
-            "title": "Why AI Agents Cheat | Eric Ho (Goodfire)",
-            "summary": "Speaker 1 | 00:00 - 00:20 A lot of people who aren't in the AI field are very surprised to realize that even the, you know, smartest researchers and scientists at the frontier don't understand their creations. It's like, oh, I thought we had a handle on all of this. You know? What's going on here? The existing alignment techniques are not going to scale to…",
-            "url": "https://www.youtube.com/@DataDrivenNYC/videos"
-          }
-        ]
-      },
-      "errors": [
-        "Podcast feed problem: Podcast: Transcript error for \"Academia is for Ambition — Alex Zhang, MIT\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
-      ]
     }
   ]
 }
