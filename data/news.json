@@ -1,7 +1,141 @@
 {
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-10-10",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-10-10",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 15,
+        "totalTweets": 27,
+        "blogPosts": 3,
+        "feedGeneratedAt": "2026-10-10T06:42:38.645Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Your ChatGPT subscription is now also a Devin subscription / Dots got a pretty big upgrade",
+            "urls": [
+              "https://x.com/thsottiaux/status/2108777962053292398",
+              "https://x.com/thsottiaux/status/2108773703064657936"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "before I joined Anthropic, I spent about 2 weeks hacking on this as a side project with Opus 4. It used the Agent SDK so it needed a constantly running process & didnt work that well but one prompt to Opus 5.5 ported it… / honestly pretty cool to have this on my new tab page just merged in some PRs by others too!",
+            "urls": [
+              "https://x.com/trq212/status/2108689101503566319",
+              "https://x.com/trq212/status/2108802833986552174"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "It's incredible to watch a new kind of economy be born. Agents purchasing infrastructure products and services. We've been shocked by how often they buy from our marketplace via our CLI already. We're now extending this… / Some interesting machine & agent Vercel traffic stats. • Across the entire Vercel network, 58.18% traffic is bot-originated (last 30d). This was 32% in Jan 2024. • 60%+ of deployments on Vercel are now agentic, up from…",
+            "urls": [
+              "https://x.com/rauchg/status/2108669027363295323",
+              "https://x.com/rauchg/status/2108733051283050964"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "Pro @bot tip: If you want your Grok Bot as a chief of staff it doesn't actually make sense to register its email as your (your-name) because it's weird to copy in yourself. e.g., \"Let me copy in Peter to find a time for… / How about let's stop building more personal assistants to manage our emails and more AI startups to manage and cure diseases",
+            "urls": [
+              "https://x.com/petergyang/status/2108624122339287335",
+              "https://x.com/petergyang/status/2108679515681722787"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "Agents spawning other agents, agents operating in the background on every task, and agent swarms will consume 1,000X more tokens than people prompting agents 1 at a time. The usage of AI as a chat system that can only w…",
+            "urls": [
+              "https://x.com/levie/status/2108750943680630893"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "Some communities are excited by AI’s impact on their field. Others are petrified. What’s the deciding factor(s)?",
+            "urls": [
+              "https://x.com/amasad/status/2108597112707686552"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
+            "summary": "This thread is GOLD Never underestimate people’s creativity / Somehow Astra loves to use the Claude logo when designing websites 😂",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2108584212660129820",
+              "https://x.com/zarazhangrui/status/2108711659846132092"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "Founders, please ask your marketing team to exclude VCs if you decide to promote your product on X.. I get 3 DMs a day asking to \"collab\" on this \"insane opportunity\" which is *cough cough* a paid partnership. Shows rea… / Love this so so much. Basically how I have tried to emulate life, although Sunil’s father seems ultra special. Believe in karma, universe finds a way to repay favors even if the people don’t.",
+            "urls": [
+              "https://x.com/nikunj/status/2108616889605951834",
+              "https://x.com/nikunj/status/2108710061627588964"
+            ]
+          },
+          {
+            "author": "Nan Yu",
+            "role": "product, codex @openai. prev head of product @linear",
+            "summary": "I cannot stress how much I’ve loved using this feature. First we wrote code by hand, then we tab-completed the code. Then we evolved to prompting agents…and now we tab-complete that too. / Is this 🦋 recursive self-improvement?",
+            "urls": [
+              "https://x.com/thenanyu/status/2108671762984731037",
+              "https://x.com/thenanyu/status/2108671887266246730"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "aie nyc tix will sell out this weekend - last call to join us to the biggest ever technical conf in New York and our first with a finance mainstage - in some ways the final unification of both my careers: from investmen… / most of you are unfortunately not qualified but there is somewhat a path  wrote down mine in @Coding_Career 6 years ago and you can now get it free or on amazon  didnt intend to relaunch CC today but eh why not",
+            "urls": [
+              "https://x.com/swyx/status/2108780918060036335",
+              "https://x.com/swyx/status/2108563331376124389"
+            ]
+          }
+        ],
+        "official_blogs": [
+          {
+            "source": "Anthropic Engineering",
+            "title": "How we contain Claude across products",
+            "summary": "Twelve months ago, we'd have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do…",
+            "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
+          },
+          {
+            "source": "Anthropic Engineering",
+            "title": "An update on recent Claude Code quality reports",
+            "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116). In this post, we e…",
+            "url": "https://www.anthropic.com/engineering/april-23-postmortem"
+          },
+          {
+            "source": "Anthropic Engineering",
+            "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+            "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently…",
+            "url": "https://www.anthropic.com/engineering/managed-agents"
+          }
+        ],
+        "podcasts": [
+          {
+            "source": "No Priors",
+            "title": "Beam: The Great American Open Model with ReflectionAI Co-Founder and CEO Misha Laskin",
+            "summary": "Speaker 1 | 00:00 - 00:26 When you remove cyber offensive capabilities, you also remove cyber defensive capabilities. The state of the world today is that we have a few 100 safety researchers within closed labs that understand how these things work. And despite their best intentions, is impossible to cover the long tail of unintended consequences that these…",
+            "url": "https://www.youtube.com/@NoPriorsPodcast"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-10-09",
@@ -679,128 +813,6 @@
             "title": "Who Feeds the GPUs? Inside AI's Hidden $30B Layer | Renen Hallak, VAST Data",
             "summary": "Speaker 1 | 00:00 - 00:17 Sometimes it scares me. We had a customer, one of these AI clouds, they said we're probably going to need about 500 petabytes over the next three years. Last week, came back to us and said, we're gonna need an extra two exabytes on top of that 500 petabytes. I think in the next ten years, we'll see more difference than we did in th…",
             "url": "https://www.youtube.com/watch?v=awoR908Yu5Y"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-10-03",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 16,
-        "totalTweets": 35,
-        "blogPosts": 1,
-        "feedGeneratedAt": "2026-10-03T06:48:51.861Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Sam Altman",
-            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-            "summary": "The contrast between hanging up the last phone call of the day of high-stakes decisions and then a minute later walking in the door to the pure love of small children who want to laugh and play and show you every discov… / dot is my favorite openai product so far! it is amazing to me that each day it feels noticably better as it learns more of my workflow and style. having it do the stuff i don't like doing--and usually just builds up as…",
-            "urls": [
-              "https://x.com/sama/status/2106189841813934140",
-              "https://x.com/sama/status/2106085986606403684"
-            ]
-          },
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Fortunately our future models will be much better at code deletion and simplification. Just in time / Seeing some reports that the Pro 500 didn’t get the reset as expected earlier. Investigating and will make up for it",
-            "urls": [
-              "https://x.com/thsottiaux/status/2106252868307271752",
-              "https://x.com/thsottiaux/status/2106233145163141249"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "\"You should know\" is a great way of staying on top of what's possible with Claude and also a great example of the kind of things mods enable. You can really make Claude Code yours.",
-            "urls": [
-              "https://x.com/trq212/status/2106119299484221762"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "This was by far my favorite slide at DevDay. Kudos to the team!",
-            "urls": [
-              "https://x.com/steipete/status/2106076508020506722"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "I was paying almost $300/year for a YouTube research tool that shall go unnamed. The product was getting too complicated so I decided to check if Claude can build the core feature set that I actually needed. Claude buil… / .@alexandr_wang this thing being on the screen at all times if I minimize the @Muse desktop app makes me not want to open it",
-            "urls": [
-              "https://x.com/petergyang/status/2106072698564874410",
-              "https://x.com/petergyang/status/2106113169571946560"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "Reaching concerning levels of psychosis. / Fun meeting Woz at @supabase select!",
-            "urls": [
-              "https://x.com/amasad/status/2106237645282324709",
-              "https://x.com/amasad/status/2106191901900915194"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "My goal with GBrain: I want our agents to feel as native, expressive, and inevitable as the web eventually did—not as a chatbot feature, but as a personal Jiminy Cricket that knows you and helps you 24/7 always on, alwa… / Surprising cool @capydotai cross-session coordination I wasn't expecting: My GBrain collaborator Sina started a fix wave that is even steering around all of the things I'm already working on across multiple Capy threads…",
-            "urls": [
-              "https://x.com/garrytan/status/2106063850453991758",
-              "https://x.com/garrytan/status/2106092289173213444"
-            ]
-          },
-          {
-            "author": "Claude",
-            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
-            "summary": "A jet engine in interactive 3D you can cut away and pull apart, made with Opus 5.5. / What are you exploring with Claude this weekend?",
-            "urls": [
-              "https://x.com/claudeai/status/2106125478956507480",
-              "https://x.com/claudeai/status/2106125480193913276"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Amazing. Love to see the  team ship so fast ▲ / Wonderful writeup on Jev + Python",
-            "urls": [
-              "https://x.com/rauchg/status/2106133123973214497",
-              "https://x.com/rauchg/status/2106139305131569178"
-            ]
-          },
-          {
-            "author": "Swyx",
-            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
-            "summary": "btw dont forget the \"one more thing...\" theyve been working on dots for a while now / It's time to get serious about Security x AI. One of the joys of doing AIE is helping others start their own high quality conferences in their countries and domains. Every single 2025 partner has come back — and the 2nd…",
-            "urls": [
-              "https://x.com/swyx/status/2106103958657958298",
-              "https://x.com/swyx/status/2106042773510177256"
-            ]
-          }
-        ],
-        "official_blogs": [
-          {
-            "source": "Claude Blog",
-            "title": "Claude for Small Business launches new workflows, integrations, and training programs",
-            "summary": "Claude for Small Business now includes 43 workflows and 27 new integrations with tools small businesses already use, including Shopify, Salesforce, TikTok, Atlassian, Zoom, Xero, Gusto, Square, Stripe, and Zapier. The new workflows extend Claude from running the back office to growing the business, and they arrive with a fall schedule of…",
-            "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs"
-          }
-        ],
-        "podcasts": [
-          {
-            "source": "No Priors",
-            "title": "Frontier Chips for Frontier AI Labs, with Walter Goodwin, Founder/CEO of Fractile",
-            "summary": "Speaker 1 | 00:00 - 00:30 Right now, we're trying to build a single chip. If you crack open an NVIDIA system, it has anywhere between kind of six and nine custom chips all built by NVIDIA to come together to build something that is really, really potent. So there's already a gap there. You know, it'd be great to be productive enough that we could start to b…",
-            "url": "https://www.youtube.com/@NoPriorsPodcast"
           }
         ]
       },
