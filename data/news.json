@@ -1,7 +1,122 @@
 {
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-13",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-10-13",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 15,
+        "totalTweets": 31,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-10-13T06:50:13.445Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "What would you like with your side of reset? It's done. / Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2109873287853707513",
+              "https://x.com/thsottiaux/status/2109892247580000595"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "6.1 Sol ultrafast >>> 6 Astra ~ same cost but whole different game with 250 tpm / said that last year, saying it again. vibes coding is a slur.",
+            "urls": [
+              "https://x.com/steipete/status/2109730774593487009",
+              "https://x.com/steipete/status/2109724776168300631"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "evergreen",
+            "urls": [
+              "https://x.com/trq212/status/2109717295631372628"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "What a crazy time in AI with Meta now jumping fully into the frontier. Now that there are multiple players pushing the state of the art, this is going to lead to a further acceleration of advances, as well as the loweri… / Ok this is quite cool research and ultimately must be the eventual architecture of agents. In the limit, AI will obviously be better at determining its own harness once it sees the task at hand, than us being able to do…",
+            "urls": [
+              "https://x.com/levie/status/2109711062757216738",
+              "https://x.com/levie/status/2109788979952558255"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "Coding CLIs keep getting more complicated. Daemons, 3 layers of TUIs, client-server architectures. The whole point of a CLI is to deliver intelligence with zero friction, and be unix-like. 💾 Try  It's 6mb, starts in mi… / Muse Wonder on Vercel AI Gateway Try with 𝚏𝚡 --𝚖𝚘𝚍𝚎𝚕 𝚖𝚎𝚝𝚊/𝚖𝚞𝚜𝚎-𝚠𝚘𝚗𝚍𝚎𝚛-𝟷.𝟶",
+            "urls": [
+              "https://x.com/rauchg/status/2109734766107099312",
+              "https://x.com/rauchg/status/2109719267344261375"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "Yeah pro rata matters and is powerful for investors / Nobody is coming to save you You don’t need saving",
+            "urls": [
+              "https://x.com/garrytan/status/2109847735449047295",
+              "https://x.com/garrytan/status/2109749184639488265"
+            ]
+          },
+          {
+            "author": "Josh Woodward",
+            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+            "summary": "I’ve learned from Lenny for years, but we had never met. What you see is what you get with him: he’s kind, prepared, and deeply curious. Great interviewers do their homework, and you can tell he’s in that league: he too…",
+            "urls": [
+              "https://x.com/joshwoodward/status/2109646793713786970"
+            ]
+          },
+          {
+            "author": "Ryo Lu",
+            "role": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone…",
+            "summary": "new on ryOS: Dictionary + Fitness learn new words, pronunciation, 漢字. plan workouts, track body and food with AI. made with @bot @cursor_ai / syncs to your ryOS Account Dictionary 👉  Fitness 👉",
+            "urls": [
+              "https://x.com/ryolu_/status/2109568690358555064",
+              "https://x.com/ryolu_/status/2109569515910836433"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "Here's a clip of me explaining why Grok @bot is my favorite agent right now. tl;dr It’s built on personas instead of chat threads, so it really feels like hiring employees to work for you. Each owns a specific job: → Be… / So many people’s childhoods were defined by StarCraft even Ben. Still can’t believe the new game won’t come out till 2030. @Blizzard_Ent should double down on this franchise. Make movies, TV shows, and yes a real time s…",
+            "urls": [
+              "https://x.com/petergyang/status/2109803399332213090",
+              "https://x.com/petergyang/status/2109820627561676970"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "one of the best parts of my job is bringing out the best in ai in each city i love new york ♥️ / @cjav_dev @aiDotEngineer @ricmac @latentspacepod our workshop writeup is live now!",
+            "urls": [
+              "https://x.com/swyx/status/2109797444204572880",
+              "https://x.com/swyx/status/2109837651893485844"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "AI & I by Every",
+            "title": "How Sam Altman Uses Dots to Take Back His Time",
+            "summary": "Do you do all your prompting on Ultrafast? I do. That's sick. Yeah. That's crazy. You know, seven people's dots can, working together, create something new that kind of existed in all of our heads to some degree, but was like an emergent thing. Hey, this is Dan Shipper. You might be wondering what happened to AI and I. This is the same show, we are just reb…",
+            "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-10-12",
@@ -704,114 +819,6 @@
             "url": "https://www.youtube.com/@RedpointAI"
           }
         ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-10-06",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 0,
-        "xBuilders": 15,
-        "totalTweets": 30,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-10-06T06:45:56.730Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "This might have been my best day so far at oai. Ridiculous amounts of fun and intensity. Future is bright / The real story is this one",
-            "urls": [
-              "https://x.com/thsottiaux/status/2107311729768353844",
-              "https://x.com/thsottiaux/status/2107295839655952486"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript. gdp-ts is a library, linter and AI skill for safer API design. Under this contract, sensitive functions require 'proofs' that the caller performed an authori…",
-            "urls": [
-              "https://x.com/rauchg/status/2107119811444748555"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "a big advantage of doing planning like this is that it’s a lot more token efficient compared to raw HTML- the model doesn’t need to remake the components or logic to do common things like state machines, diagrams, code… / my favorite name for this pattern is \"local hands\", Claude runs in the cloud but can access your files locally- also coming to cowork",
-            "urls": [
-              "https://x.com/trq212/status/2107294499282293017",
-              "https://x.com/trq212/status/2107229483015258493"
-            ]
-          },
-          {
-            "author": "Ryo Lu",
-            "role": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone…",
-            "summary": "made a lil thing for language learners: watch Netflix with subtitles in any two languages, plus pronunciation guides for Japanese, Chinese, and Korean. customizable styles, hand-picked defaults. enjoy 🍿 / remembering Steve i grew up with beige boxes. then i moved to Canada and saw the iMac G4. how can computers be so beautiful? i couldn’t afford a Mac, so i made my PC look like one. changed the icons, the fonts, the wind…",
-            "urls": [
-              "https://x.com/ryolu_/status/2107146629338042853",
-              "https://x.com/ryolu_/status/2107246891977335049"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "Harnesses from labs have an incentive to burn tokens, which means harnesses from startups have a real utility, like how Grep can automatically swap token burn into deterministic tested code that is repeatable just by ob… / AGI Science Loops are coming, and there will be Muse/Instinct for those AGI Science Loops. Halmos is building that.",
-            "urls": [
-              "https://x.com/garrytan/status/2107129959550685660",
-              "https://x.com/garrytan/status/2107173670699622830"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "The US is catching up on open-weights models. / Really proud of how many family-run businesses are powered by Replit.",
-            "urls": [
-              "https://x.com/amasad/status/2107222388429766970",
-              "https://x.com/amasad/status/2107222889946898893"
-            ]
-          },
-          {
-            "author": "Aditya Agarwal",
-            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
-            "summary": "Three Stanford degrees. Berkeley EECS faculty since 2016. Cofounder of @physical_int. @svlevine builds the algorithms that let robots learn from experience, linking what they see to how they move. He's coming to @spc to… / It would be interesting to be able to run the Muse/Dot \"computer\" locally. Feels like that is a better agent environment than increasingly locked down MacOS.",
-            "urls": [
-              "https://x.com/adityaag/status/2107171588194152936",
-              "https://x.com/adityaag/status/2107133989941387282"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "A decent amount of agent adoption and deployment is bottlenecked by being able to test, tune, and optimize agents on “real” work environments. The files agents need to access, the CRM environments, email, and more. It’s…",
-            "urls": [
-              "https://x.com/levie/status/2107283615247999257"
-            ]
-          },
-          {
-            "author": "Dan Shipper",
-            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
-            "summary": "what we promise @every: as the frontier advances, so do you. / waiting for your dot to pick up",
-            "urls": [
-              "https://x.com/danshipper/status/2107173061313388636",
-              "https://x.com/danshipper/status/2107099152161095955"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "I built an AI language learning app that teaches me Japanese via live voice calls. Here's my new tutorial that shows you exactly how I built this, including: → Using my spec skill to create key designs → Setting up Gemi… / Learn more about Gemini 3.8 Live here:",
-            "urls": [
-              "https://x.com/petergyang/status/2107108755699900459",
-              "https://x.com/petergyang/status/2107108768240796093"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": []
       },
       "errors": []
     }
