@@ -1,7 +1,124 @@
 {
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-10-15",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-10-15",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 12,
+        "totalTweets": 28,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-10-15T06:42:36.600Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "The reports of my reset button being lost are greatly exaggerated Day 10/ Reset / Landing within the next 2 hours",
+            "urls": [
+              "https://x.com/thsottiaux/status/2110595484180214059",
+              "https://x.com/thsottiaux/status/2110595554036400151"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "The academics think the founder who raised at $2B valuation can pay but they can’t You are a founder who owns 50% of your company and you have 20x voting rights. You owe 5% on $10B in the asset seizure tax. You owe $500… / The academics don’t actually think about what will happen to startups. They also have no idea how new innovations occur and how much of a miracle that is for CA. Their ignorance results in misguided policy that will kil…",
+            "urls": [
+              "https://x.com/garrytan/status/2110372513792577971",
+              "https://x.com/garrytan/status/2110373177637605643"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "This is one of the most exhilarating times in technology, and this challenge was yet another jaw-dropping moment. When the details of OpenAI’s agent escape and Hugging Face hack started to emerge, it became clear that a… / See you tomorrow at  Back to where it all began",
+            "urls": [
+              "https://x.com/rauchg/status/2110514201559228606",
+              "https://x.com/rauchg/status/2110567790776320288"
+            ]
+          },
+          {
+            "author": "Aditya Agarwal",
+            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
+            "summary": "At @spc, we are trying to reconcile two things: 1. We have never seen technological progress this rapid or fundamental. Nothing seems impossible. 2. Capital is flowing to consensus teams, in consensus markets, and with… / We don't know what ideas to ask for. Bring us what you think is most daring and risky. We’re actively looking to rethink all of our priors. What we do know is that ambition is infectious. Come to @spc, and build alongsi…",
+            "urls": [
+              "https://x.com/adityaag/status/2110422584357478530",
+              "https://x.com/adityaag/status/2110422589403193559"
+            ]
+          },
+          {
+            "author": "Amanda Askell",
+            "role": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All…",
+            "summary": "I think about this passage a lot.",
+            "urls": [
+              "https://x.com/AmandaAskell/status/2110560531501449485"
+            ]
+          },
+          {
+            "author": "Matt Turck",
+            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
+            "summary": "Twitter: “Europe is done. No AI there” Jensen:",
+            "urls": [
+              "https://x.com/mattturck/status/2110441018113904772"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
+            "summary": "Made a playful website for the things on my wishlist! Your next wedding/baby/birthday gift registry could look like this / This is some really good storytelling!",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2110262048819208642",
+              "https://x.com/zarazhangrui/status/2110490124446568859"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "Found out that my 8 year old used ChatGPT to get an answer for her math homework. Instead of being mad I was actually quite impressed :) / I wonder what bangers means here",
+            "urls": [
+              "https://x.com/petergyang/status/2110521081450922117",
+              "https://x.com/petergyang/status/2110555129091150327"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+            "summary": "\"Today's Weather: Partly Agentic\" / context:",
+            "urls": [
+              "https://x.com/trq212/status/2110564027231568277",
+              "https://x.com/trq212/status/2110564783074463865"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "People overcomplicate venture investing - it's deceptively simple.. 1) You have to win the right to 2) Find and invest in exceptional founders 3) Just before it's \"consensus\" 4) Consistently every year Vast majority of… / Astra at 7 pm not following instructions clearly 🤝 Toddler at 7 pm not following instructions clearly Verdict: “They nerfed my poor baby”",
+            "urls": [
+              "https://x.com/nikunj/status/2110493174787670529",
+              "https://x.com/nikunj/status/2110546229549797693"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "AI & I by Every",
+            "title": "How Hugging Face’s Investor Spots Winners",
+            "summary": "Speaker 1 | 00:00 - 00:17 The Frontier duopoly is over. This week, we got new Frontier models from Google and from Meta. Google launched Gemini Argon four and Meta launched Wonder, which comes in standard and full. So you can run Wonder full, you know. That's their sense of humor. Speaker 1 | 00:17 - 01:04 Of course, both new models from these pretty much s…",
+            "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+          }
+        ]
+      },
+      "errors": [
+        "Podcast feed problem: Podcast: Transcript error for \"Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
+      ]
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-10-14",
@@ -714,119 +831,6 @@
       "errors": [
         "Podcast feed problem: Podcast: Transcript error for \"What Happens When Billions of AI Agents Hit Your Database? (Andy Pavlo)\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
       ]
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-10-08",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 19,
-        "totalTweets": 41,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-10-08T06:47:17.990Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Google Labs",
-            "role": "Google’s home for our latest AI tools and experiments.",
-            "summary": "🚨NEW EXPERIMENT 🚨 Playground is an experimental gaming platform that lets you create your own games with zero coding experience. If you can think it, you can play it. Go to  to learn more! Available to users 18+ in th…",
-            "urls": [
-              "https://x.com/GoogleLabs/status/2107800195748737042"
-            ]
-          },
-          {
-            "author": "Claude",
-            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
-            "summary": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work. / Haiku 5.5 shows major improvements across almost all of our alignment evaluations relative to Haiku 4.5, with far fewer instances of misaligned behavior.",
-            "urls": [
-              "https://x.com/claudeai/status/2107894060229034197",
-              "https://x.com/claudeai/status/2107894054142787877"
-            ]
-          },
-          {
-            "author": "Sam Altman",
-            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-            "summary": "ChatGPT can now generate a custom UI for you! / Have been waiting for this one for a long time, and I would hate to have to go back to the old version of Chat!",
-            "urls": [
-              "https://x.com/sama/status/2107924408597950702",
-              "https://x.com/sama/status/2107924677801001381"
-            ]
-          },
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Confirmed landed across all accounts. How are we doing so far? / Will be there by EOD PST.",
-            "urls": [
-              "https://x.com/thsottiaux/status/2108040921044639779",
-              "https://x.com/thsottiaux/status/2107913738791596286"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "the most common failure case I see is when people are working outside their domain of expertise and don't know how to be precise with their prompts and plans, so they have to spend a lot of turns iterating imprecisely / I think it's probably an incredible time to be a game dev content creator, for many people making games is a form of having fun and they're willing to pay for it!",
-            "urls": [
-              "https://x.com/trq212/status/2108021247301062894",
-              "https://x.com/trq212/status/2107957206327173484"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "Math was bound to fall first. The purer the field the easier it is for AI to crack. / That’s because Replit is not a consumer app. Most of our creators are building businesses or working on one.",
-            "urls": [
-              "https://x.com/amasad/status/2107934939287273551",
-              "https://x.com/amasad/status/2107927076926038273"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "gm from the best city in the world / One thing the engineering community will (re)discover is that every program can be ① hardened (edge cases squashed, inputs tightened, errors handled) and ② optimized (profiled, benchmarked, rewritten) basically ad infin…",
-            "urls": [
-              "https://x.com/rauchg/status/2107861196506595398",
-              "https://x.com/rauchg/status/2107962327169675566"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "The compute needed for the stage of AI we’re about to enter is going to be insane. Personal agents, agent swarms defending enterprises, agents that review all of our code for security issues, agents that process nearly…",
-            "urls": [
-              "https://x.com/levie/status/2108056577697882402"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "While everyone's talking about agents, I've been exploring how teams can use them to work better together. Here’s my take, from OpenAI DevDay 2026.",
-            "urls": [
-              "https://x.com/steipete/status/2107911769767440832"
-            ]
-          },
-          {
-            "author": "Alex Albert",
-            "role": "Research @AnthropicAI. Opinions are my own!",
-            "summary": "For reference, Haiku 4.5 came out on October 15th, 2025 so these two columns are less than a year apart. and oh yeah Haiku 5.5 is also much faster and 75% cheaper...",
-            "urls": [
-              "https://x.com/alexalbert__/status/2107912771568554415"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "AI & I by Every",
-            "title": "Why Every Traded Personal Agents for One Company Agent",
-            "summary": "Speaker 1 | 00:00 - 00:12 The hot thing right now is dots. They're persistent agents from OpenAI. I was there at Dev Day when they launched them. I interviewed Sam about them, and I've been using dots since before they came out. And now we're into week two of dots. Speaker 1 | 00:12 - 00:46 So how's it going? If you read my vibe check, you know that I thoug…",
-            "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
-          }
-        ]
-      },
-      "errors": []
     }
   ]
 }
