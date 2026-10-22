@@ -1,7 +1,116 @@
 {
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-21",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-10-21",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 0,
+        "xBuilders": 15,
+        "totalTweets": 31,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-10-21T06:42:56.495Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that wa… / Day 16/ You can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are…",
+            "urls": [
+              "https://x.com/thsottiaux/status/2112592264686149749",
+              "https://x.com/thsottiaux/status/2112712984644784534"
+            ]
+          },
+          {
+            "author": "Sam Altman",
+            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+            "summary": "I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on t…",
+            "urls": [
+              "https://x.com/sama/status/2112652656602923366"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "AI will be able to compute the perfect delta of what you understand and don't, helping you progressively learn any idea and unravel any mystery. If you so desire, you'll reach the maximum of your capability and intellig… / Much like we did with @aisdk, we're bringing a truly open-source, runtime-agnostic solution to harness durability. We're extending the durability infra that powers @eve and Workflows to all harnesses, like Pi and OpenCo…",
+            "urls": [
+              "https://x.com/rauchg/status/2112638107749355867",
+              "https://x.com/rauchg/status/2112658577110520122"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "Greatest unlock for any startup founder or anyone who has to get in touch with the right people / Asset seizure tax destroying California You can bet they will keep trying to do it because it’s all the same goal: eat the Golden Goose Better off just enjoying unlimited golden eggs but no, gotta eat that goose",
+            "urls": [
+              "https://x.com/garrytan/status/2112611824432742493",
+              "https://x.com/garrytan/status/2112553922753864109"
+            ]
+          },
+          {
+            "author": "Josh Woodward",
+            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+            "summary": "We just crossed a big milestone for our @GeminiApp Trusted Tester community yesterday. TLDR: Lots of people want to try early stuff on Web, Android, and iOS! If you’ve signed up before, you’re fully in. If you want to s… / Sundar: \"We are so committed to being at the frontier. It’s in our DNA. We won’t do it any other way.\" Come build with us!",
+            "urls": [
+              "https://x.com/joshwoodward/status/2112676777290248675",
+              "https://x.com/joshwoodward/status/2112679011839344651"
+            ]
+          },
+          {
+            "author": "Aditya Agarwal",
+            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
+            "summary": "Call me an old hat computer scientist but the parallels between Inference time scaling ---> Subagents --> Agent Swarms looks an awful lot like CPU Threads --> Multi-core CPUs --> Multi-Node Distributed Systems History r…",
+            "urls": [
+              "https://x.com/adityaag/status/2112579526379401408"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "See you at @Cloudflare Connect tomorrow! Will be chatting with @dok2001 about agents / Astra did the planning, Sol 6.1 did the coding. I found that the workflow of prompting Astra to run codex cli in worktrees works FAR better than relying on subagents. A second agent oversaw the work to keep Astra on tra…",
+            "urls": [
+              "https://x.com/steipete/status/2112735411688857770",
+              "https://x.com/steipete/status/2112605703219347503"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Make something people want, then make people want it. Harvard’17. GitHub:  Y…",
+            "summary": "If you’re a product builder in the earliest stages, the biggest advantage of having your own audience isn’t even the distribution. It’s being able to - Test different ideas/angles and see what resonate with people - Fin…",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2112530473994072225"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "Pretty cool that we clearly have an emerging form factor for what AI might look like for the foreseeable future as autonomous systems dedicated to specific tasks or domains. This is a huge leap past the LLM wrapper days…",
+            "urls": [
+              "https://x.com/levie/status/2112769686798832013"
+            ]
+          },
+          {
+            "author": "Matt Turck",
+            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
+            "summary": "Thrilled to double down at @daytonaio: @ivanburazin, @JukicVedran and team are building one of the iconic companies of the AI era. We're grateful that they let us lead the Series B, after leading the Series A earlier th… / Fun day for the @FirstMarkCap family * Series B announcement at @daytonaio * Series A announcement at @BabaHQ * Big launch of @GradiumAI’s new SOTA open source on-device voice AI model * and just this morning, @synthesi…",
+            "urls": [
+              "https://x.com/mattturck/status/2112570721499042246",
+              "https://x.com/mattturck/status/2112696155519775041"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": []
+      },
+      "errors": [
+        "Podcast feed problem: Podcast: Transcript error for \"The Programmable Data Center — Evan Conrad, SF Compute\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}",
+        "Podcast feed problem: Podcast: Transcript error for \"Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots\": HTTP 500: {\"status\":\"error\",\"message\":\"Failed to get transcript\"}"
+      ]
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-10-20",
@@ -683,127 +792,6 @@
       "errors": [
         "Podcast feed problem: Podcast: Transcript error for \"Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
       ]
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-10-14",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 13,
-        "totalTweets": 28,
-        "blogPosts": 1,
-        "feedGeneratedAt": "2026-10-14T06:42:17.865Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Day 9/ We've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've heard enough feedback about power users r…",
-            "urls": [
-              "https://x.com/thsottiaux/status/2110151780478927344"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Congrats Gemini team. Never bet against Google, the company that brought us Transformers and has overwhelming data, engineering talent, and compute. Everyone has, rightfully, pivoted back to coding. Coding agents are th…",
-            "urls": [
-              "https://x.com/rauchg/status/2110044152482365747"
-            ]
-          },
-          {
-            "author": "Josh Woodward",
-            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-            "summary": "Gemini 4 Argon: At 96 millimeters wide, the hardest part of manufacturing this custom furniture leg was deciding how many stacked spheres to give it. / The latest Gemini model made this",
-            "urls": [
-              "https://x.com/joshwoodward/status/2110089824573272547",
-              "https://x.com/joshwoodward/status/2110055636109312264"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-            "summary": "excited to be back home",
-            "urls": [
-              "https://x.com/trq212/status/2110035114432532654"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "Giving your harnesses access to a real browser with your real credentials is a real unlock - highly recommend @AsideAI / Connie Chan wants China to win the AI race She also has done so much to make San Francisco unsafe for everyone I asked her to resign earlier this year. Instead the legacy Dem machine thinks she is the best choice 🤮",
-            "urls": [
-              "https://x.com/garrytan/status/2110053836945756234",
-              "https://x.com/garrytan/status/2110115691684925777"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "At Box, we've been testing Gemini 4 Argon on our Box AI Complex Work eval for the past week. It's a huge upgrade over Gemini 3.1 Pro, jumping by 14 percentage points across all our tests, and firmly at the frontier. In… / Cyber is going to be one of the biggest spaces for AI agents in the future. Obviously the risks of software exploits and the attack surface area increases 100 fold due to the ability for agents to work through any crack…",
-            "urls": [
-              "https://x.com/levie/status/2110046686198550539",
-              "https://x.com/levie/status/2110227571090788526"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "MXC.exe / brb, adding puppies to all my sites",
-            "urls": [
-              "https://x.com/amasad/status/2110049740285165779",
-              "https://x.com/amasad/status/2110112408463376730"
-            ]
-          },
-          {
-            "author": "Dan Shipper",
-            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
-            "summary": "gemini 4 argon really struggles on our senior engineer benchmark task comes in at 21% far below Sol 6 and even Muse: / VIBE CHECK: GEMINI 4—GOOGLE IS BACK",
-            "urls": [
-              "https://x.com/danshipper/status/2110056016872427944",
-              "https://x.com/danshipper/status/2110039417650024592"
-            ]
-          },
-          {
-            "author": "Swyx",
-            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
-            "summary": "🆕 How to Kill Your SaaS  A lot of people talk about the death of SaaS but mostly in theoretical terms. We took a real $43,000/year SaaS we use and launched a global hackathon to clone it in a weekend, with both AI and… / this is what talent density means at @aidotengineer - @SydneyScouts runs speakers at AIE!!",
-            "urls": [
-              "https://x.com/swyx/status/2110065576764686421",
-              "https://x.com/swyx/status/2110194074573586607"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "Owning a house in the Bay Area is fun because you can just randomly spend five-figures on yard work. / Poteto cracks me up with her trolling",
-            "urls": [
-              "https://x.com/petergyang/status/2110120062908862517",
-              "https://x.com/petergyang/status/2110194356166795474"
-            ]
-          }
-        ],
-        "official_blogs": [
-          {
-            "source": "Anthropic Engineering",
-            "title": "Redesigning source control at Anthropic",
-            "summary": "At Anthropic, coding is no longer the bottleneck to building systems or doing research. Claude is able to autonomously iterate on research loops, micro-optimize complex programs, and build new services from the ground up at a speed and scale we haven’t seen before. The bottleneck, now, is all of the developer infrastructure built for hum…",
-            "url": "https://www.anthropic.com/engineering/redesigning-source-control"
-          }
-        ],
-        "podcasts": [
-          {
-            "source": "Training Data",
-            "title": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience",
-            "summary": "Speaker 1 | 00:00 - 00:32 Collectively, you know, we started with this kind of gray mush in our head. We somehow started out knowing nothing at all and somehow discovered, like, everything that humans know today was, like, this process of collective discovery, like, of of languages and technology and science and mathematics and all the rest of it. Know, eve…",
-            "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
-          }
-        ]
-      },
-      "errors": []
     }
   ]
 }
