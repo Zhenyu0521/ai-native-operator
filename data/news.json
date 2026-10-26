@@ -1,7 +1,121 @@
 {
-  "updatedAt": "2026-10-24",
+  "updatedAt": "2026-10-25",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-10-25",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 11,
+        "totalTweets": 23,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-10-25T06:39:19.352Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Day 20/ Rest and reset / It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2114200152701575656",
+              "https://x.com/thsottiaux/status/2114237083652882932"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "There’ll be times where you over-guide the AI. It knows better than you and is more intelligent than you. There’ll be times where you under-guide the AI. It can go off-track, have the wrong biases, or miss context. How… / I oddly love the models' engineering vernacular: gate, evidence, culprit, durable, provenance, contract… A lot of these stem from most engineering being debugging and understanding existing systems, where you take on th…",
+            "urls": [
+              "https://x.com/rauchg/status/2114085432749347086",
+              "https://x.com/rauchg/status/2114164830403989880"
+            ]
+          },
+          {
+            "author": "Ryo Lu",
+            "role": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone…",
+            "summary": "struggle together i learned programming and design by trying, failing, and trying again. when i hit a wall, i figured out how to climb it. read something i barely understood. took things apart. asked someone for help. s… / ",
+            "urls": [
+              "https://x.com/ryolu_/status/2114187405251219954",
+              "https://x.com/ryolu_/status/2114187660734668884"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "Of all the learning apps that my 4-year-old and I have tried, @once_reading is the only one that we’ve managed to persist in following for months. It works because: 1. It builds a habit where you need to learn with your… / I had trouble believing this is true but shouldn’t have doubted @ArfurGrok Huge bummer for claude users. Anthony and Thariq are two of the best at listening to users.",
+            "urls": [
+              "https://x.com/petergyang/status/2114042708105060501",
+              "https://x.com/petergyang/status/2114001125636768121"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "we are hiring writers, reviewers and reporters for the new @latentspacepod editorial team (hit up @ricmac and @adlinzainal) and i’m gonna put a version of this in the welcome package for everyone we hire / part time and oneoff guest posts welcome",
+            "urls": [
+              "https://x.com/swyx/status/2114145315196711194",
+              "https://x.com/swyx/status/2114149330135519730"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "What’s new in Gstack?",
+            "urls": [
+              "https://x.com/garrytan/status/2114090740217499854"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "We’ll likely have 1,000X more tokens flowing through cyber agents soon than we do today. As the surface area of cyber risk increases, at some point soon it will be nearly impossible to keep up with the volume of new ris…",
+            "urls": [
+              "https://x.com/levie/status/2114187326406766604"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "Venture in a single meme 🤦 / This describes much more eloquently what I meant what evolving from context -> harnesses -> judgement means.. If you have built something in this space, and want to jam on product ideas, please hit me up 👋",
+            "urls": [
+              "https://x.com/nikunj/status/2114091467652444625",
+              "https://x.com/nikunj/status/2113994081345126486"
+            ]
+          },
+          {
+            "author": "Aditya Agarwal",
+            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
+            "summary": "One weird effect of being max AI pilled is that I have started to really treasure IRL time with my family and my friends. Put on some techno, dance with friends, take your kids to the park. Let the agents cook (or not).…",
+            "urls": [
+              "https://x.com/adityaag/status/2114135237806760097"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Harvard’17. Instagram:  GitHub:",
+            "summary": "It is so much easier to give advice to other people than to apply the same advice to yourself / Lots of inspiring examples in this thread too",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2114225607022412049",
+              "https://x.com/zarazhangrui/status/2114013292016611442"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "The MAD Podcast with Matt Turck",
+            "title": "Jev: The AI That Makes Decisions, Not Text - and Why It Changes Everything (Diogo Almeida)",
+            "summary": "Speaker 1 | 00:00 - 00:18 95% Einstein, 5% mister Bean. And if it doesn't tell you when it's the mister Bean, then how are you gonna automate anything? I wrote a document at OpenAI. We could have had AGI last year, and I still believe that to be true. Pre training is a giant dumpster fire of wasting resources. Speaker 1 | 00:18 - 00:31 When I first started…",
+            "url": "https://www.youtube.com/@DataDrivenNYC/videos"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-10-24",
@@ -699,103 +813,6 @@
         ]
       },
       "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-10-18",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 8,
-        "totalTweets": 15,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-10-18T06:38:12.951Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Done / My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file some tax stuff. Took 20 minutes. We're sti…",
-            "urls": [
-              "https://x.com/thsottiaux/status/2111566005684289735",
-              "https://x.com/thsottiaux/status/2111495392559067199"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. Exact…",
-            "urls": [
-              "https://x.com/levie/status/2111525362446520466"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "To clarify: Replit remains model agnostic. Our users can choose Anthropic models as well as many other supported models. What I meant at TC Disrupt is that OpenAI is now our preferred partner powering Agent based on per…",
-            "urls": [
-              "https://x.com/amasad/status/2111494912562888939"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "“What matters is the end product, whether it's a game or an engine”. Well said!",
-            "urls": [
-              "https://x.com/rauchg/status/2111643672274165938"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "Have to give credit to @amorriscode and team - the Claude Code app is much faster now and arguably simpler to use than ChatGPT. The only things missing still are better browser/computer use, remote control for all threa… / If you have way too many apps and agents (45!) connected to your Google account like me, here's a prompt to audit and remove them: \"Help me audit my Google app connections at  1. Review EVERY app across all connection c…",
-            "urls": [
-              "https://x.com/petergyang/status/2111496600522805624",
-              "https://x.com/petergyang/status/2111508293818671449"
-            ]
-          },
-          {
-            "author": "Nikunj Kothari",
-            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
-            "summary": "nyc ily 👋 / introducing the modern venture capital stack (2026): - pre-pre-seed - pre-seed - post-pre-seed - mid-seed - pre-post-seed - post-seed - post-post-seed(?)",
-            "urls": [
-              "https://x.com/nikunj/status/2111415330622820739",
-              "https://x.com/nikunj/status/2111558586421920134"
-            ]
-          },
-          {
-            "author": "Nan Yu",
-            "role": "product, codex @openai. prev head of product @linear",
-            "summary": "I had the same conversation reminiscing at a team offsite the other day. “What did we pay attention to before AI?” “😅 Front end JavaScript frameworks”",
-            "urls": [
-              "https://x.com/thenanyu/status/2111597172840083574"
-            ]
-          },
-          {
-            "author": "Swyx",
-            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
-            "summary": "@dexhorthy @Jeffdelaney23 @ThePrimeagen kinda like this chart to tell the story. basically no love for 2 years and then slowly we get recommended via browsing. our CTR sucks. / @dexhorthy channel affinity my goal is basically to collab with every single one of these folks. you guys already love them. pls @Jeffdelaney23 @ThePrimeagen",
-            "urls": [
-              "https://x.com/swyx/status/2111353401363902573",
-              "https://x.com/swyx/status/2111351354409300230"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "The MAD Podcast with Matt Turck",
-            "title": "What Happens When Billions of AI Agents Hit Your Database? (Andy Pavlo)",
-            "summary": "Speaker 1 | 00:00 - 00:06 What is a file system? It's a database. Right? Everything's a database. Every month, there's a story where someone lost their production database because the agent deleted something. Speaker 1 | 00:06 - 00:15 It's the wild west for people that don't know their history databases. It's just like, you know, taking a cheetah, giving th…",
-            "url": "https://www.youtube.com/@DataDrivenNYC/videos"
-          }
-        ]
-      },
-      "errors": [
-        "Podcast feed problem: Podcast: Transcript error for \"Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
-      ]
     }
   ]
 }
