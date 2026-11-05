@@ -1,7 +1,119 @@
 {
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-04",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-11-04",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 18,
+        "totalTweets": 29,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-11-04T06:28:22.825Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Sam Altman",
+            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+            "summary": "People should always be in control of the future. OpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”. Pe…",
+            "urls": [
+              "https://x.com/sama/status/2117794005165748448"
+            ]
+          },
+          {
+            "author": "Cat Wu",
+            "role": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+            "summary": "Friday was my last day at Anthropic. Two years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I steered it for tens of hours but never manually wrote a line of code. It worked, I was hoo…",
+            "urls": [
+              "https://x.com/_catwu/status/2117731934340337676"
+            ]
+          },
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
+            "urls": [
+              "https://x.com/thsottiaux/status/2117746467058405665"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "playing WoW forever, formerly Claude Code @anthropicai",
+            "summary": "this is basically the bitter lesson at work the smartest models will need fewer and fewer tokens, they won't need to verify their work or check it for bugs, they will just be right",
+            "urls": [
+              "https://x.com/trq212/status/2117670540148347273"
+            ]
+          },
+          {
+            "author": "Boris Cherny",
+            "role": "Claude @anthropicai",
+            "summary": "Signing in to your company's plugins one by one is annoying, so we let Claude auto-connect to them now. Team and Enterprise admins can set them up, and teammates are connected automatically the first time they use the p…",
+            "urls": [
+              "https://x.com/bcherny/status/2117693181651542387"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "RIP Popular Mechanics / Case study in how blue states self-immolate There's national and there's local. How about we pay attention to local issues and fight for good policies that improve the livelihoods of people *locally*? Left vs lefter is…",
+            "urls": [
+              "https://x.com/garrytan/status/2117721182049046735",
+              "https://x.com/garrytan/status/2117728932183351646"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "I've been looking forward to this day, because Vercel has an internal security agent that is **astonishingly effective** (lovingly called @𝚑𝚊𝚌𝚔𝚎𝚛). Every single line of code gets audited, automatically. You can no… / `𝚟𝚎𝚛𝚌𝚎𝚕 𝚍𝚘𝚌𝚝𝚘𝚛` - recommend you ship doctor subcommands in your CLIs!",
+            "urls": [
+              "https://x.com/rauchg/status/2117734833824948373",
+              "https://x.com/rauchg/status/2117802827519250568"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "We’re deep in the chaotic phase of enterprise adoption of agents and vibe coding.",
+            "urls": [
+              "https://x.com/amasad/status/2117761721750475146"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "The divergence in AI output weirdly may be the highest it’s ever been, even though adoption is the broadest it’s ever been. A few years ago the best productivity gains you could get, even in the most capability-aligned…",
+            "urls": [
+              "https://x.com/levie/status/2117505799937577263"
+            ]
+          },
+          {
+            "author": "Matt Turck",
+            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
+            "summary": "Hang it in the Louvre / Major moment for @SurrealDB Building a database is an incredible grind - if you get that initial open-source pop, you then face years of unglamorous hard work to build a truly world class product SurrealDB 4 is now that…",
+            "urls": [
+              "https://x.com/mattturck/status/2117675063637905497",
+              "https://x.com/mattturck/status/2117741948609949932"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "Unsupervised Learning",
+            "title": "Ep 96: Nebius CTO on Racing the Hyperscalers Before AWS Wakes Up",
+            "summary": "Speaker 1 | 00:00 - 00:15 If NVIDIA could have bought... Like, could have produced, like, 10 x the chips, this whole market would have been shaped differently. Yeah. Because there is not enough capacity for their scale, this is a relatively small business for them. For the hyperscalers, it's not just a matter of, like, sales. Speaker 1 | 00:15 - 00:29 It's…",
+            "url": "https://www.youtube.com/@RedpointAI"
+          }
+        ]
+      },
+      "errors": [
+        "Podcast feed problem: Podcast: Transcript error for \"⚡️ The 2026 Software Factory Standard — Zach Lloyd, Warp.dev\": HTTP 502: {\"status\":\"error\",\"code\":\"transcription_submit_failed\",\"message\":\"The transcription service couldn't start this episode.\"}"
+      ]
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-11-03",
@@ -668,116 +780,6 @@
         ]
       },
       "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-10-28",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 0,
-        "xBuilders": 13,
-        "totalTweets": 29,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-10-28T06:32:16.853Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thariq",
-            "role": "playing WoW forever, formerly Claude Code @anthropicai",
-            "summary": "experimenting with a lil personal project: an AI-native macOS dock with custom modes (writing, building, etc.) to help me stay focused my agent is able to customize mode behavior and add new modes, it uses jev to classi… / feels like there needs to be a new way to distribute opensource software such that people can modify via agents but also get upstream automatically merged in coding agents can do this but they won’t do it automatically",
-            "urls": [
-              "https://x.com/trq212/status/2115135857669881939",
-              "https://x.com/trq212/status/2115188992861970693"
-            ]
-          },
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "has landed / Lands by midnight PST.",
-            "urls": [
-              "https://x.com/thsottiaux/status/2115297093879472332",
-              "https://x.com/thsottiaux/status/2115273253711409208"
-            ]
-          },
-          {
-            "author": "Swyx",
-            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
-            "summary": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer).… / yeah you ignored a @mntruell email in 2024 but did you pitch something like Claude Code in 2019 and then.... not do it for 7 years",
-            "urls": [
-              "https://x.com/swyx/status/2115089887959359988",
-              "https://x.com/swyx/status/2115135448876269782"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "If I’m investing in frontier AI I would underwrite it mostly on new discovery and its applications like medicine because coding and most of knowledge work is quickly being saturated by sub-frontier models. / Designers’ contribution to the codebase.",
-            "urls": [
-              "https://x.com/amasad/status/2115207856496480261",
-              "https://x.com/amasad/status/2115150680977715419"
-            ]
-          },
-          {
-            "author": "Dan Shipper",
-            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
-            "summary": "extremely good explanation / video creation and game making are going to become widely distributed foundations of knowledge work in the same way doc and deck creation are today",
-            "urls": [
-              "https://x.com/danshipper/status/2115080807656419759",
-              "https://x.com/danshipper/status/2115093098816745910"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": " / $ 𝚊𝚕𝚒𝚊𝚜 𝚗𝚘𝚠=𝚟𝚎𝚛𝚌𝚎𝚕 $ 𝚌𝚊𝚝 >𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎 <<'𝙴𝙾𝙵' 𝙵𝚁𝙾𝙼 𝚘𝚟𝚎𝚗/𝚋𝚞𝚗:𝚊𝚕𝚙𝚒𝚗𝚎 𝙲𝙼𝙳 [\"𝚋𝚞𝚗\",\"-𝚎\",\"𝙱𝚞𝚗.𝚜𝚎𝚛𝚟𝚎({𝚙𝚘𝚛𝚝:𝟾𝟶,𝚏𝚎𝚝𝚌𝚑:()=>𝚗𝚎𝚠 𝚁𝚎𝚜𝚙𝚘𝚗𝚜𝚎('𝚠𝚎 𝚊𝚛…",
-            "urls": [
-              "https://x.com/rauchg/status/2115161107078021563",
-              "https://x.com/rauchg/status/2115218670389756243"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "The @capydotai software factory renormalization of your GitHub contribution colors is real Here is mine 👀 I was no token slouch before but wow the PRs are hot and heavy with Capy Captains (10 to 20 subagents running at… / I am trying to slim down GStack and reduce token usage and task latency to be sure",
-            "urls": [
-              "https://x.com/garrytan/status/2115193524152860771",
-              "https://x.com/garrytan/status/2115215790756794496"
-            ]
-          },
-          {
-            "author": "Matt Turck",
-            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
-            "summary": "Usual startup advice: too many co-founders is bad!!! Too much dilution! Founder friction risk! Analysis paralysis! Also: * Anthropic: 7 co-founders * OpenAI: 11 co-founders * Databricks: 7 co-founders",
-            "urls": [
-              "https://x.com/mattturck/status/2115132327131328806"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "This is correct. The vast majority of enterprise workflows have not actually had agents applied to them in any meaningful way. The economy probably has this deployed < 1% right now. At best you have a few automated syst…",
-            "urls": [
-              "https://x.com/levie/status/2115305369799110905"
-            ]
-          },
-          {
-            "author": "Nikunj Kothari",
-            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
-            "summary": "VCs love talking about the number of cofounders and how sometimes there’s too many.. @AnthropicAI x @databricks both with 7 cofounders showing that the best startups are truly outliers. All the definitions of the “right… / Things I have a pretty decent idea about but I still have to go deep on since I’ll get 10 wildly different definitions… > long horizon > out of distribution (esp data) > intelligence per watt > rl environments > “forwar…",
-            "urls": [
-              "https://x.com/nikunj/status/2115157188704612735",
-              "https://x.com/nikunj/status/2115111451614744845"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": []
-      },
-      "errors": [
-        "Podcast feed problem: Podcast: Transcript error for \"How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands\": HTTP 500: {\"status\":\"error\",\"message\":\"Failed to get transcript\"}"
-      ]
     }
   ]
 }
