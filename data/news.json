@@ -1,7 +1,122 @@
 {
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-11-05",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 15,
+        "totalTweets": 30,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-11-05T06:28:43.321Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Cat Wu",
+            "role": "core products @openai, prev: claude code @anthropic, @dagster, @scale_ai",
+            "summary": "Some news: I’m joining OpenAI to lead product management for Core Products! I have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great…",
+            "urls": [
+              "https://x.com/_catwu/status/2118137612577968402"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "Wow can’t believe Michigan is under Shawerma law now / Excited to announce our partnership with Sumitomo Mitsui Finance & Leasing (SMFL), one of Japan’s leading financial institutions! Replit is powering SMFL’s core software products and has massively accelerated their deve…",
+            "urls": [
+              "https://x.com/amasad/status/2117904733658845218",
+              "https://x.com/amasad/status/2118180254300688857"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "We will all be learning in coming weeks & months, that most human-made software: ▫️ Was really slow ▫️ Had many security vulnerabilities ▫️ Was under-specified and incorrect AI will rewrite it all. Many times. It will m… / In just 24 hours 🤯 ✓ 𝟲,𝟴𝟭𝟳 vulnerabilities identified ✓ 𝟱𝟴𝟬 critical or high ✓ 𝟭,𝟰𝟭𝟭 already patched by Agent Vercel Security Reviews are 100% free until Nov 10",
+            "urls": [
+              "https://x.com/rauchg/status/2118166970273292299",
+              "https://x.com/rauchg/status/2118152230260092940"
+            ]
+          },
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. / CatGPT",
+            "urls": [
+              "https://x.com/thsottiaux/status/2118146794362405231",
+              "https://x.com/thsottiaux/status/2118138764161913278"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "playing WoW forever, formerly Claude Code @anthropicai",
+            "summary": "manifesting ⠀⠀⠀⠀ 🕯️🕯️🕯️🕯️🕯️ ⠀⠀🕯️⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🕯️ 🕯️⠀⠀Apple lets apps⠀ 🕯️ 🕯️⠀⠀⠀build Shortcuts 🕯️ 🕯️⠀⠀⠀⠀. for you⠀⠀ ⠀ 🕯️ ⠀⠀🕯️⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🕯️ ⠀⠀⠀⠀ 🕯️🕯️🕯️🕯️🕯️ / sorry I mean inshallah",
+            "urls": [
+              "https://x.com/trq212/status/2118124218839859700",
+              "https://x.com/trq212/status/2118124292500287814"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "We did it guys Connie Chan is a private citizen / We dodged a bullet on this asset seizure tax. With any luck Prop 42 will pass. Builders of tech in California had a good day yesterday: we want abundance and asset seizure is the one guaranteed way to kill the golden go…",
+            "urls": [
+              "https://x.com/garrytan/status/2118154891176857608",
+              "https://x.com/garrytan/status/2118058438714650985"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "Do individual limits still make sense? As capabilities increase you want to work with and support an agent that represents your project, that runs loops and evolves your codebase. The humans merely curate the automation…",
+            "urls": [
+              "https://x.com/steipete/status/2118116514700386439"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "i'm still processing. what an insane run. $0 to $100B ARR in 2.5 years. / uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2 this is distillation without tradeoffs. i think @thinkymachines inkling is one of the most underrated base models in the world. expect to see a TON more o…",
+            "urls": [
+              "https://x.com/swyx/status/2118152585911869634",
+              "https://x.com/swyx/status/2118208851506036989"
+            ]
+          },
+          {
+            "author": "Dan Shipper",
+            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
+            "summary": "omfg / all of these new @openai hires obvoiusly because they read my codex piece",
+            "urls": [
+              "https://x.com/danshipper/status/2118138941765280149",
+              "https://x.com/danshipper/status/2118170810841965023"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Harvard’17. Instagram:  GitHub:",
+            "summary": "One thing I noticed: the vast majority of people who shared their personal websites in this thread are developers or designers. Is it because only developers and designers need personal websites, or because only they kn… / What's the best group chat tool for engaging with a user community? Discord feels too overwhelming, WhatsApp isn't widely used in the US, iMessage is too personal, Slack feels too corporate",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2117869262505427072",
+              "https://x.com/zarazhangrui/status/2118120795780370768"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "AI & I by Every",
+            "title": "The Inside Story of the 50 Who Built Modern AI With Kevin Roose",
+            "summary": "Speaker 1 | 00:00 - 00:17 A couple years ago, you know, we had to fact check the AIs, and now the AIs fact check me. I'm playing with everything. Literally, like, I can't keep track. I have agents now that are, like, correcting my other agents. It's a huge mess. Speaker 2 | 00:18 - 00:19 The AGI Chronicles. Speaker 3 | 00:19 - 00:21 It was so good. Speaker…",
+            "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-11-04",
@@ -662,120 +777,6 @@
             "title": "State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?) | Nathan Benaich",
             "summary": "Speaker 1 | 00:00 - 00:18 The cyber risk is, like, much more real than, like, AI exterminating humanity. You either, like, die trying to get to the frontier or you just live long enough to eventually serve inference. Individuals would prefer to live next to a nuclear power plant than live next to a data center. It's bananas what's happened in the last year…",
             "url": "https://www.youtube.com/@DataDrivenNYC/videos"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-10-29",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 18,
-        "totalTweets": 39,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-10-29T06:32:19.194Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thariq",
-            "role": "playing WoW forever, formerly Claude Code @anthropicai",
-            "summary": "very weird thing happening rn technical people are sad, they think their skills are now useless non-technical people are desperately wishing they were more technical so they could use agents better / courage in shorter supply than genius",
-            "urls": [
-              "https://x.com/trq212/status/2115544056038350960",
-              "https://x.com/trq212/status/2115493334324310463"
-            ]
-          },
-          {
-            "author": "Claude",
-            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
-            "summary": "New in Claude for Legal: a gallery of ready-made artifacts for contract review, regulatory horizon scans, cite checks, and more. Start from the built-in example, add your own documents and connectors, and share it with… / Learn more:",
-            "urls": [
-              "https://x.com/claudeai/status/2115467192276025500",
-              "https://x.com/claudeai/status/2115467193626571174"
-            ]
-          },
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully… / Pretty wild that this site got 3M views.",
-            "urls": [
-              "https://x.com/thsottiaux/status/2115588390414581916",
-              "https://x.com/thsottiaux/status/2115473170279080149"
-            ]
-          },
-          {
-            "author": "Boris Cherny",
-            "role": "Claude @anthropicai",
-            "summary": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot.",
-            "urls": [
-              "https://x.com/bcherny/status/2115491259381072269"
-            ]
-          },
-          {
-            "author": "Zara Zhang",
-            "role": "Builder. Harvard’17. Instagram:  GitHub:",
-            "summary": "this is too cute",
-            "urls": [
-              "https://x.com/zarazhangrui/status/2115336629770707254"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "OpenClaw’s web UI now works offline and uses a smart websocket compression/reconnect logic. Been flying to Vienna today and got plenty work done, despite spotty airplane wifi. / Kinda funny how easy it is to spot bugs by agents vs humans. Someone at Disney still writes code by HAND?",
-            "urls": [
-              "https://x.com/steipete/status/2115397368229060636",
-              "https://x.com/steipete/status/2115380217938158049"
-            ]
-          },
-          {
-            "author": "Josh Woodward",
-            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-            "summary": "2 weeks ago: Gemini 4 Argon Today: Gemini 4 Carbon The frontier is fast, and the internal vibes on this model are good. Rolling out to cyber defenders first, then more widely available as the next step! / New in Gemini: Connect your @Strava account to turn years of raw workout logs into your personalized coaching plan",
-            "urls": [
-              "https://x.com/joshwoodward/status/2115495943948902517",
-              "https://x.com/joshwoodward/status/2115580552170627080"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "There’s a budget crush and high schoolers can’t take honors classes (they’re phasing out) but guess what new classes they are getting next / Particle will be on the frontier for smartest model at lowest dollar per unit of intelligence",
-            "urls": [
-              "https://x.com/garrytan/status/2115639558935359941",
-              "https://x.com/garrytan/status/2115517748860375286"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Vercel CI solves the \"AI coding bottleneck\" via: ① Fast and stable infrastructure (faster work) ② Turborepo integration (less work) ③ Agentic CI ① is obvious. Your CI is slow, flaky, goes down. We solve that. We operate… / This is like DNS for models. An alias that *resolves* to a model, giving you traffic-steering abilities. Solves a huge number of problems. From not having teams stuck on old model versions, to saving on costs, to removi…",
-            "urls": [
-              "https://x.com/rauchg/status/2115539426684408300",
-              "https://x.com/rauchg/status/2115573969369845855"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "Agents are going to consume 1,000X more tokens than we consume today. Because they’re going to be running in our workflows, processing all of our data, building out nearly all software, securing enterprises, and much mo…",
-            "urls": [
-              "https://x.com/levie/status/2115516370695987435"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "AI & I by Every",
-            "title": "Can You Use AI To Make Good Art? — With Fred Graver",
-            "summary": "Speaker 1 | 00:00 - 00:18 The industry is in a tailspin. There are fewer opportunities for writers and producers and people who make things. And I really had the conviction that AI can help you figure out who you are, how you have to survive in this world, and also how to make things that will then promote you and promote your career. Speaker 2 | 00:18 - 00…",
-            "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
           }
         ]
       },
