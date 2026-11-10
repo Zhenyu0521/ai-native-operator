@@ -1,7 +1,121 @@
 {
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-09",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-11-09",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 10,
+        "totalTweets": 21,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-11-09T06:36:37.960Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "Built a physical simulation of a record player with WebGL2 and Web Audio. It's *shockingly* accurate:  Instead of playing a song, it works by converting it into the physical shape of a groove. Then a simulated stylus ri…",
+            "urls": [
+              "https://x.com/rauchg/status/2119536313712230802"
+            ]
+          },
+          {
+            "author": "Matt Turck",
+            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
+            "summary": "Lol not Elon now, after nailing the Tucker Carlson impersonation 😂Absolutely epic run from Jeremy Culhane / ok lol trolls coming out in full force - Elon is a business genius, a visionary and and the richest man in the world, it’s ok for comedians to attempt to poke some fun, relax!",
+            "urls": [
+              "https://x.com/mattturck/status/2119457959625498698",
+              "https://x.com/mattturck/status/2119525416780361766"
+            ]
+          },
+          {
+            "author": "Ryo Lu",
+            "role": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone…",
+            "summary": "when we can do anything, do we still know what we want? the full talk from @aiDotEngineer shanghai. every slide handmade in keynote, subs in 中文 and english",
+            "urls": [
+              "https://x.com/ryolu_/status/2119586846657454152"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Harvard’17. Instagram:  GitHub:",
+            "summary": "I’ve almost stopped using the term “vibe coding” because there’s a negative connotation to it It implies that you didn’t put a lot of effort or soul into the output and it’s just AI slop But oftentimes people ARE puttin… / The joy of building a product comes from the collision between the predictability of how technology behaves & the unpredictability of how humans behave",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2119592080318341128",
+              "https://x.com/zarazhangrui/status/2119342420412510686"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "A good lesson in AI is that you need to check back in on the latest with every 3 to 6 months to try something that wasn’t possible before and see if it works again. At no point in AI’s history is that more true than tod… / We’re moving from an era of AI where the output comes roughly at the rate that you can chat back and forth with the AI to work with you, to a period where you can set a problem for a set of agents to go off and do an ar…",
+            "urls": [
+              "https://x.com/levie/status/2119502716770902234",
+              "https://x.com/levie/status/2119592025440092192"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "You're really going to want your own software factory / My gstack-evals project took a look at this Jev Engineering article and tried to replicate it, and I also told it to try particle-1 and it turns out this article replicates, and particle-1 is even better",
+            "urls": [
+              "https://x.com/garrytan/status/2119615647592395037",
+              "https://x.com/garrytan/status/2119624260675350605"
+            ]
+          },
+          {
+            "author": "Nan Yu",
+            "role": "product, codex @openai. prev head of product @linear",
+            "summary": "This is basically true in all aspects of software. Choose the dumbest architecture that’ll work. choose the dumbest design that gets the job done. Being clever means your users also have to be just as clever to understa… / Software got a lot easier if you know what you wanna build, and a lot harder if you don’t. With clarity, you can straight-shot to the solution. Without it, you’ll ship a pile of junk and spend a lot of money doing it. P…",
+            "urls": [
+              "https://x.com/thenanyu/status/2119462979179892925",
+              "https://x.com/thenanyu/status/2119462224721002560"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "Anecdotally, I think cheating is far more common in Asia. Plenty of guys who have their wife and kids living in the US/Canada, while they do business in Asia and have another girlfriend or even family in a 二奶村. Most of… / This affair is going to destroy billions in shareholder value isn’t it",
+            "urls": [
+              "https://x.com/petergyang/status/2119556651636441416",
+              "https://x.com/petergyang/status/2119657833516171384"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "are you listening anon? / and a special pod!",
+            "urls": [
+              "https://x.com/swyx/status/2119611058881192187",
+              "https://x.com/swyx/status/2119550477629379009"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "If you are visiting SF, and trying to meet more people, here are a random list of things you should remove from your vocabulary.. > swap notes > \"synergies\" > pick your brain > networking > \"san fran\" (tourist tell) > g…",
+            "urls": [
+              "https://x.com/nikunj/status/2119670529254981756"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "Latent Space",
+            "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+            "summary": "Okay, this is a pretty special episode because we're celebrating one million subscribers on the AIU Code, uh, AI, AI Engineer YouTube channel. So go over there and subscribe if you haven't heard about it already. The guest is Mihail Eric, who is not only teaching the Modern Software Developer at Stanford, which is going viral right now for basically coverin…",
+            "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-11-08",
@@ -688,122 +802,6 @@
         ]
       },
       "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-11-02",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 11,
-        "totalTweets": 22,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-11-02T06:35:38.590Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Andrej Karpathy",
-            "summary": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience,…",
-            "urls": [
-              "https://x.com/karpathy/status/2116957135661945283"
-            ]
-          },
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Day 28/ Banked 2/2 / My dog just patched that bug we couldn’t find for two weeks. Clever dog",
-            "urls": [
-              "https://x.com/thsottiaux/status/2117035794678546764",
-              "https://x.com/thsottiaux/status/2116936205623611781"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Own your intelligence. Anyone that opposes this has something to sell you (perhaps your own intelligence back to you.) Local models need to continue proliferating. The “absolute unit” massive models may be out of reach… / F1 is basically the perfect competition for our times. The celebration of extraordinary technology and extraordinary human ability. That’s what Vercel stands for! (also: winning)",
-            "urls": [
-              "https://x.com/rauchg/status/2117000819623243925",
-              "https://x.com/rauchg/status/2117039740096847920"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "If you’re enjoying a subsidized AI subscription get ready to get rug pulled. / You can enable this on Replit with one toggle. If you enable the “feedback widget” on your site, users’ feedback become prompts for the agents to build.",
-            "urls": [
-              "https://x.com/amasad/status/2117010858845089805",
-              "https://x.com/amasad/status/2116998155925360965"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "playing WoW forever, formerly Claude Code @anthropicai",
-            "summary": "adding a new character: a taekwondo master that fights with fire I also updated the art style from 3d models to use generated sprites / also had a little highlight intro video I like how its all coming together! hoping to have a vertical slice sometime next week",
-            "urls": [
-              "https://x.com/trq212/status/2116976789046350040",
-              "https://x.com/trq212/status/2116977363728867664"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "YC is the YC for hard tech / Practical robotics is nigh",
-            "urls": [
-              "https://x.com/garrytan/status/2116909591607099793",
-              "https://x.com/garrytan/status/2116941191526895975"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "I wish I could just use one AI tool but right now there are clear winners in each category below: Browser/computer use = ChatGPT + Codex Design/video editing/\"taste\" = Claude 24/7 agents and scheduled jobs = Grok Bot Al… / Upcoming episodes of Behind the Craft: 1. Ashley Alexander Ashley is VP of Product at @OpenAI. We had a heart-to-heart conversation about what it's like to care for parents through cancer and where ChatGPT and AI can he…",
-            "urls": [
-              "https://x.com/petergyang/status/2116946320674152810",
-              "https://x.com/petergyang/status/2117059131349868790"
-            ]
-          },
-          {
-            "author": "Dan Shipper",
-            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
-            "summary": "this is anti competitive and not cool / argon cooks",
-            "urls": [
-              "https://x.com/danshipper/status/2116978123044688304",
-              "https://x.com/danshipper/status/2117014507083948453"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "Increasingly this will be the new job description for a lot of roles, not just coding. We’re clearly moving from a world where agents help us do our work incrementally better or faster, to us helping agents do their wor…",
-            "urls": [
-              "https://x.com/levie/status/2117134917847093491"
-            ]
-          },
-          {
-            "author": "Zara Zhang",
-            "role": "Builder. Harvard’17. Instagram:  GitHub:",
-            "summary": "What if your Linktree were an actual tree",
-            "urls": [
-              "https://x.com/zarazhangrui/status/2117086544586780867"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "Unsupervised Learning",
-            "title": "Ep 95: Modal CEO on the Future of Inference, the Chaos of the GPU Market &amp; Origins of the Sandbox Bet",
-            "summary": "Speaker 1 | 00:00 - 00:04 How much of, like, an an organized marketplaces compute these days versus, like, the Wild West? Speaker 2 | 00:04 - 00:17 I went to GTC last year. It was like an open air drug market, but, like, GPUs. Walking around, like, talking to people, trying to get GPUs, and meeting people in hotel lobbies, exchanging numbers. It's very far…",
-            "url": "https://www.youtube.com/@RedpointAI"
-          }
-        ]
-      },
-      "errors": [
-        "Podcast feed problem: Podcast: Transcript error for \"⚡ Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services\": HTTP 500: {\"status\":\"error\",\"message\":\"Failed to get transcript\"}",
-        "Podcast feed problem: Podcast: Transcript error for \"Why Agents Love Supabase\": HTTP 500: {\"status\":\"error\",\"message\":\"Failed to get transcript\"}"
-      ]
     }
   ]
 }
