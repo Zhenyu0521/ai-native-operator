@@ -1,7 +1,121 @@
 {
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-11",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-11-11",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 15,
+        "totalTweets": 32,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-11-11T06:28:17.628Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Labs innovating together ftw / How many of you have a small business?",
+            "urls": [
+              "https://x.com/thsottiaux/status/2120266880963473789",
+              "https://x.com/thsottiaux/status/2120267268517249036"
+            ]
+          },
+          {
+            "author": "Claude",
+            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
+            "summary": "Also new: with interactive connectors, you can now open the full version of a tool inside Claude. Work in Adobe, Atlassian, and Box beside your conversation. Make changes yourself, or ask Claude to make them with you. R… / Claude Data (formerly Dashboards) is now generally available on paid plans. Along with dashboards, Claude can draft data stories and narrated videos from your metrics, for you to review before sharing. Certified queries…",
+            "urls": [
+              "https://x.com/claudeai/status/2120206375137484875",
+              "https://x.com/claudeai/status/2120206372478566799"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "playing WoW forever, formerly Claude Code @anthropicai",
+            "summary": "we need fewer one shot demos and more tools that show how you can collaborate with models to bring your vision to life",
+            "urls": [
+              "https://x.com/trq212/status/2120223476279869875"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "\"When the company ran diagnostics on about 700 systems, it found 10,500 vulnerabilities and held an emergency press conference on June 16, applying fixes over three months. However, when it re-ran diagnostics using \"GPT…",
+            "urls": [
+              "https://x.com/steipete/status/2120228665946710248"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "Rust is a superb language and ecosystem, especially given it was invented pre agentic coding. With agents, new languages will blossom, even purpose-built ones for specific usecases, and discretionary C or even LLVM IR,… / Vercel Security Review, less than 1 week since launch: ✓ 𝟱𝟳,𝟴𝟵𝟳 vulnerabilities identified ✓ 𝟲,𝟬𝟮𝟵 critical or high ✓ 𝟭𝟰,𝟲𝟲𝟱 already patched by Agent I'm shocked at ① the number of critical vulnerabilities…",
+            "urls": [
+              "https://x.com/rauchg/status/2120337388178379178",
+              "https://x.com/rauchg/status/2120188488628977819"
+            ]
+          },
+          {
+            "author": "Josh Woodward",
+            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+            "summary": "Right now, Gemini 4 Carbon is in the @GeminiApp for Ultra subscribers worldwide",
+            "urls": [
+              "https://x.com/joshwoodward/status/2120186249281778135"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "I don't really care about the stock price but if @AnthropicAI can accelerate cures of all these terrible diseases it'll be one of the most impactful companies in history. I'm actually really glad Dario is focused on thi… / Agree with Kartik. Game developers and gamers hating on (tasteful) use of AI is idiotic. There’s a huge difference between someone using AI to pump out slop and someone using it as another tool to make a great game.",
+            "urls": [
+              "https://x.com/petergyang/status/2120320377163501817",
+              "https://x.com/petergyang/status/2120370522622181809"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Harvard’17. Instagram:  GitHub:",
+            "summary": "Step 1 of sharing your work/building an audience: Don't wait until it's done or perfect. Share a work in progress. Sometimes that's how you figure out if it's even worth finishing. / If users don't come back to your product, - 20% of the time it's because they don't like your product - 80% of the time it's because they forgot your product even exists",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2120041030951297033",
+              "https://x.com/zarazhangrui/status/2120235104194932841"
+            ]
+          },
+          {
+            "author": "Ryo Lu",
+            "role": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone…",
+            "summary": "working together with other humans is where the magic happens, not each of us running our own army of agents in silos glad to see this come alive 💛 / we build software not just to optimize, complete tasks or impose our own constraints – but to build a world where we let people in, aspire to things they couldn’t do before, to create, and find ourselves – just like fil…",
+            "urls": [
+              "https://x.com/ryolu_/status/2120337691661443081",
+              "https://x.com/ryolu_/status/2120380317429350654"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "Agents are going to work with enterprise files 100X more than people do today. This is why we're excited to partner with Anthropic to bring full read/write interoperability to Box content via Claude. Now you can have an… / Agent swarms have the potential to drive yet another leap in output from AI. The impact will be a clear separation between teams that adopt this pattern of work and those that don’t. The progression has roughly been: ch…",
+            "urls": [
+              "https://x.com/levie/status/2120261416733036905",
+              "https://x.com/levie/status/2120385739342897469"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "Latent Space",
+            "title": "Designing for Agents — Zeno Rocha, Resend",
+            "summary": "It's like, oh my gosh, how are we ever gonna beat SendGrid? It's im- just impossible. And then earlier this year, we crossed a number of, uh, downloads from SendGrid, and I was like, \"That's insane,\" and now we're more than double. So Resend now is powering four point three million users as of this morning. Uh, we have all sorts of customers like, uh, Warne…",
+            "url": "https://www.youtube.com/@LatentSpacePod"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-11-10",
@@ -689,118 +803,6 @@
         ]
       },
       "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-11-04",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 18,
-        "totalTweets": 29,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-11-04T06:28:22.825Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Sam Altman",
-            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-            "summary": "People should always be in control of the future. OpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”. Pe…",
-            "urls": [
-              "https://x.com/sama/status/2117794005165748448"
-            ]
-          },
-          {
-            "author": "Cat Wu",
-            "role": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
-            "summary": "Friday was my last day at Anthropic. Two years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I steered it for tens of hours but never manually wrote a line of code. It worked, I was hoo…",
-            "urls": [
-              "https://x.com/_catwu/status/2117731934340337676"
-            ]
-          },
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
-            "urls": [
-              "https://x.com/thsottiaux/status/2117746467058405665"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "playing WoW forever, formerly Claude Code @anthropicai",
-            "summary": "this is basically the bitter lesson at work the smartest models will need fewer and fewer tokens, they won't need to verify their work or check it for bugs, they will just be right",
-            "urls": [
-              "https://x.com/trq212/status/2117670540148347273"
-            ]
-          },
-          {
-            "author": "Boris Cherny",
-            "role": "Claude @anthropicai",
-            "summary": "Signing in to your company's plugins one by one is annoying, so we let Claude auto-connect to them now. Team and Enterprise admins can set them up, and teammates are connected automatically the first time they use the p…",
-            "urls": [
-              "https://x.com/bcherny/status/2117693181651542387"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "RIP Popular Mechanics / Case study in how blue states self-immolate There's national and there's local. How about we pay attention to local issues and fight for good policies that improve the livelihoods of people *locally*? Left vs lefter is…",
-            "urls": [
-              "https://x.com/garrytan/status/2117721182049046735",
-              "https://x.com/garrytan/status/2117728932183351646"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "I've been looking forward to this day, because Vercel has an internal security agent that is **astonishingly effective** (lovingly called @𝚑𝚊𝚌𝚔𝚎𝚛). Every single line of code gets audited, automatically. You can no… / `𝚟𝚎𝚛𝚌𝚎𝚕 𝚍𝚘𝚌𝚝𝚘𝚛` - recommend you ship doctor subcommands in your CLIs!",
-            "urls": [
-              "https://x.com/rauchg/status/2117734833824948373",
-              "https://x.com/rauchg/status/2117802827519250568"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "We’re deep in the chaotic phase of enterprise adoption of agents and vibe coding.",
-            "urls": [
-              "https://x.com/amasad/status/2117761721750475146"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "The divergence in AI output weirdly may be the highest it’s ever been, even though adoption is the broadest it’s ever been. A few years ago the best productivity gains you could get, even in the most capability-aligned…",
-            "urls": [
-              "https://x.com/levie/status/2117505799937577263"
-            ]
-          },
-          {
-            "author": "Matt Turck",
-            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
-            "summary": "Hang it in the Louvre / Major moment for @SurrealDB Building a database is an incredible grind - if you get that initial open-source pop, you then face years of unglamorous hard work to build a truly world class product SurrealDB 4 is now that…",
-            "urls": [
-              "https://x.com/mattturck/status/2117675063637905497",
-              "https://x.com/mattturck/status/2117741948609949932"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "Unsupervised Learning",
-            "title": "Ep 96: Nebius CTO on Racing the Hyperscalers Before AWS Wakes Up",
-            "summary": "Speaker 1 | 00:00 - 00:15 If NVIDIA could have bought... Like, could have produced, like, 10 x the chips, this whole market would have been shaped differently. Yeah. Because there is not enough capacity for their scale, this is a relatively small business for them. For the hyperscalers, it's not just a matter of, like, sales. Speaker 1 | 00:15 - 00:29 It's…",
-            "url": "https://www.youtube.com/@RedpointAI"
-          }
-        ]
-      },
-      "errors": [
-        "Podcast feed problem: Podcast: Transcript error for \"⚡️ The 2026 Software Factory Standard — Zach Lloyd, Warp.dev\": HTTP 502: {\"status\":\"error\",\"code\":\"transcription_submit_failed\",\"message\":\"The transcription service couldn't start this episode.\"}"
-      ]
     }
   ]
 }
