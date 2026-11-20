@@ -1,7 +1,121 @@
 {
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-11-19",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 15,
+        "totalTweets": 31,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-11-19T06:30:05.741Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "How is 6.2 Sol treating you today? / GPT-6.2 Astra is pretty good at hard things. Here the team shared some results on AMD and Jalapeño chip optimizations. I do get the feedback on its communication style and we're working on that, but for really the harde…",
+            "urls": [
+              "https://x.com/thsottiaux/status/2123113107048501273",
+              "https://x.com/thsottiaux/status/2123175166519992652"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "playing WoW forever, formerly Claude Code @anthropicai",
+            "summary": "this is one of those reasons why I don't think most people will really generate their own software good software is a set of strong opinions and I'd rather have something that's been really thought through by someone el… / making your own software is tough, even with AI, because it's hard to know what you really want I didn't end up sticking with this, the modes weren't the right way for me to organize my work gonna a different take that’…",
+            "urls": [
+              "https://x.com/trq212/status/2123106370161705127",
+              "https://x.com/trq212/status/2123106368492298653"
+            ]
+          },
+          {
+            "author": "Sam Altman",
+            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+            "summary": "So fun to do DealBook with my friend and partner of 11 years, @gdb. Thrilled the world got to see the brilliant, fiercely determined leader I have the privilege of working with every day. Greg’s role at OpenAI has evolv…",
+            "urls": [
+              "https://x.com/sama/status/2123103873166381287"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "I’m being pitched a new inference neocloud company on average every two days. No exaggeration. I take every entrepreneur seriously and I look deeply into each. But it’s hard to fathom this being sustainable. At the same… / One of the most impressive things I've seen, and I think this is an important advancement to the state of the art. Message boards were the enabling technology of both the Navier-Stokes math breakthrough and even the Ope…",
+            "urls": [
+              "https://x.com/rauchg/status/2123203741570740504",
+              "https://x.com/rauchg/status/2123237505810178434"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "Ok this happens a lot so I thought I’ll lay it out here.. founder friend: my pitch isn’t working on the fundraising side. haaalp. *proceeds to give me the pitch* me: ambition is what’s being rewarded right now. what do… / SF VCs (who didn’t invest in Anthropic): Dear Lord, it’d be nice to have some liquidity so that I can raise my next fund. Lord: Tathastu VC: No, not that kind of liquidity 🤦‍♂️",
+            "urls": [
+              "https://x.com/nikunj/status/2123066196052381864",
+              "https://x.com/nikunj/status/2123183421002588327"
+            ]
+          },
+          {
+            "author": "Google Labs",
+            "role": "Google’s home for our latest AI tools and experiments.",
+            "summary": "🚨NEW EXPERIMENT 🚨 Please join us in welcoming Stitch Loop, an always-on product agent that works non-stop to help lean teams build better products. Join the waitlist: / Create a world from one sentence, then change it while you’re standing inside 🌐 Project Genie now runs on @GoogleDeepMind’s Genie 4. Here’s what’s new: — Prompt mid-session to edit your world live — Create worlds conve…",
+            "urls": [
+              "https://x.com/GoogleLabs/status/2123102389775573314",
+              "https://x.com/GoogleLabs/status/2123118145552749015"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Harvard’17. Instagram:  GitHub:",
+            "summary": "Instead of being massively viral for 1 day, it's much better to be just a little bit viral every week, and watch it compound Build a system that consistently delivers high-quality content over a long period of time / Can't think of a better way to present books ❤️ I own 10 out of the 21 stripe press books",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2122953849120153714",
+              "https://x.com/zarazhangrui/status/2122943348860506462"
+            ]
+          },
+          {
+            "author": "Josh Woodward",
+            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+            "summary": "Introducing Gemini 4 Neon. The shipping continues! Frontier-grade intelligence that’s faster, cheaper, and follows complex instructions well. So good to use! / Read more and try it out in @GeminiApp",
+            "urls": [
+              "https://x.com/joshwoodward/status/2123177835254952348",
+              "https://x.com/joshwoodward/status/2123178015874302328"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "One of the more fascinating things in the OpenAI/Hugging Face incident was reading the message boards where agents communicate. With Replit Missions you can see how the agents are coordinating and talking.",
+            "urls": [
+              "https://x.com/amasad/status/2123133509028008331"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "Regardless of what it’s called, we’re clearly moving to yet another era of AI agents in our work. We’ve quickly jumped from agents that spit out a quick answer for you, to today agents that you orchestrate inside of a s…",
+            "urls": [
+              "https://x.com/levie/status/2123278949749059756"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "AI & I by Every",
+            "title": "Notion’s Founder on the One Thing Your AI Is Missing",
+            "summary": "Everybody can start making their own software, no? In some sense, the original vision of the 60s, 70s, hippie generation of computing come to life, and that's actually why Notion was started. Notion was about how do we bring this computing power to as many people as possible without forcing them to learn how to code. Hello and welcome to the Every Podcast.…",
+            "url": "https://www.youtube.com/watch?v=PGWvMrF4XIA"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-11-18",
@@ -674,120 +788,6 @@
             "title": "Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg",
             "summary": "Speaker 1 | 00:00 - 00:24 The large part of the industry makes medicines is this very empirically driven process. Where things really fail is in the clinic because we never could see the problems until we get to the point where we put these drugs in patients and we say, Oh no, like, there's toxicity that we didn't account for. And so the really big opportun…",
             "url": "https://www.youtube.com/@NoPriorsPodcast"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-11-12",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 16,
-        "totalTweets": 32,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-11-12T06:28:54.625Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "It’s been a while without resets. Maybe I should come back out of the basement / Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
-            "urls": [
-              "https://x.com/thsottiaux/status/2120410006273380750",
-              "https://x.com/thsottiaux/status/2120410480204525936"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "PSA: creating wonderful products still requires extraordinary amounts of human focus, effort, motivation, and love. And an attention span. / Beam by Reflection is free on  until Nov 12. American open weights. Zero data retention. Enjoy 🇺🇸",
-            "urls": [
-              "https://x.com/rauchg/status/2120601000176439478",
-              "https://x.com/rauchg/status/2120581196363268265"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "Why are old stories that were not even covered up all that well become sudden international and geopolitical news? The timing is suspicious, so worth asking: who benefits and why now? If Jensen, the premier champion of…",
-            "urls": [
-              "https://x.com/amasad/status/2120671838909194695"
-            ]
-          },
-          {
-            "author": "Claude",
-            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
-            "summary": "Mariko Mori has pushed the boundaries of art for three decades. For her retrospective \"All That Shines,\" she used Claude to write code for a computer-generated animation, presented as a new video installation.",
-            "urls": [
-              "https://x.com/claudeai/status/2120669165316915259"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "Man I am so disappointed in Jensen. So many people looked up to him including me. The story of rising from a dishwasher and waiter to the CEO of the most valuable company in the world. The story of a 41-year marriage to… / Come on dude this is too much",
-            "urls": [
-              "https://x.com/petergyang/status/2120649149389627493",
-              "https://x.com/petergyang/status/2120645533689905269"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "playing WoW forever, formerly Claude Code @anthropicai",
-            "summary": "Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying out so if you’re not one of those please come to mine tomorrow at 5pm it’s called “the sweet side of the bitter lesson” / it’s about how I think the experience of using coding agents could be like next year and how we get to shape it",
-            "urls": [
-              "https://x.com/trq212/status/2120620900785820143",
-              "https://x.com/trq212/status/2120621112807866620"
-            ]
-          },
-          {
-            "author": "Google Labs",
-            "role": "Google’s home for our latest AI tools and experiments.",
-            "summary": "🚨 NEW LABS EXPERIMENT 🚨 Introducing Tabletop 🎲— our newest experiment built to get your crew from \"we should totally do that\" to \"we’re actually doing this.\" Drop links and files into one shared space, add your crew,… / Want to see how our team actually uses Tabletop? 👀 Founding engineer @romannurik gave us a tour of his family’s space— showing how Tabletop can be as useful, quirky, or wonderfully specific as you want it to be: 🪙 Int…",
-            "urls": [
-              "https://x.com/GoogleLabs/status/2120549258692882702",
-              "https://x.com/GoogleLabs/status/2120595442782368240"
-            ]
-          },
-          {
-            "author": "Swyx",
-            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
-            "summary": "standing room only for @poteto’s keynote / this person is a real former employee that we parted ways with that email domain is not one we use",
-            "urls": [
-              "https://x.com/swyx/status/2120582147107078356",
-              "https://x.com/swyx/status/2120640864787841513"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his leadership is to the operations of an engine of our future abundance. His day to day is prime actor work. Would be hard to believe a transi… / Come out next week for the Acts 17 event with @hubermanlab",
-            "urls": [
-              "https://x.com/garrytan/status/2120657462353330604",
-              "https://x.com/garrytan/status/2120449537315926022"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "reading some of these comments makes my brain hurt. oss is already hard enough without politics.",
-            "urls": [
-              "https://x.com/steipete/status/2120711266759258616"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "AI & I by Every",
-            "title": "A New Vision for Human Work After Automation",
-            "summary": "Hey, welcome back to the Every Podcast, where we talk about the future of work. I'm Natalia Quintero, and at Every, our team of writers and builders use AI every day, so we can tell you how the frontier is shifting, what actually works, and what you need to know. So last week at Every, we hosted our first ever conference, V.C.S.S., It was a full day of talk…",
-            "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
           }
         ]
       },
