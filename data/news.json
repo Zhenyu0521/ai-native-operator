@@ -1,7 +1,121 @@
 {
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-11-20",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 14,
+        "totalTweets": 33,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-11-20T06:29:26.095Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thariq",
+            "role": "playing WoW forever, formerly Claude Code @anthropicai",
+            "summary": " / an age of miracles",
+            "urls": [
+              "https://x.com/trq212/status/2123457177419760100",
+              "https://x.com/trq212/status/2123452888248992024"
+            ]
+          },
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "We’re also working on a new mobile experience for ChatGPT! It’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who have a dot or are eligible to create one… / Le ChatGPT 2.0",
+            "urls": [
+              "https://x.com/thsottiaux/status/2123557171321561133",
+              "https://x.com/thsottiaux/status/2123612433923051976"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "My “is engineering a valuable pursuit” math. An outcome-oriented, creative engineer is now a 1000x engineer. A tabs-vs-spaces-debating, miss-forest-for-trees engineer is now a -10x engineer. The regular knowledge worker… / 𝚟𝚎𝚛𝚌𝚎𝚕 𝚋𝚘𝚊𝚛𝚍 has no heavyweight or opinionated UI. It's infra not product. I love the \"headless Slack\" for agents analogy, because UI is free now. You can generate and deploy the ideal \"factory interface\" for…",
+            "urls": [
+              "https://x.com/rauchg/status/2123505400591106113",
+              "https://x.com/rauchg/status/2123468825538789380"
+            ]
+          },
+          {
+            "author": "Josh Woodward",
+            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+            "summary": "Gemini app on Mac can now do tasks on your computer, a top feature request!",
+            "urls": [
+              "https://x.com/joshwoodward/status/2123534862569324703"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "Build your own Muse-like personal agent with one prompt. / Having a contract with your agent is a paradigm I expect many will copy from us",
+            "urls": [
+              "https://x.com/amasad/status/2123535544718418191",
+              "https://x.com/amasad/status/2123535362568134894"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "when scrolling social media i think it is worth bearing in mind that you can say “odds of reaching SOTA have dropped to zero” and get alot of likes and then 3 months later when they have reached SOTA you post apology fo… / fuuuuuuck",
+            "urls": [
+              "https://x.com/swyx/status/2123591875349422435",
+              "https://x.com/swyx/status/2123552457649492023"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "Bostrom: \"if nobody builds it, everyone dies\" Hard agree",
+            "urls": [
+              "https://x.com/garrytan/status/2123496208316694669"
+            ]
+          },
+          {
+            "author": "Claude",
+            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
+            "summary": " / ",
+            "urls": [
+              "https://x.com/claudeai/status/2123431928414273582",
+              "https://x.com/claudeai/status/2123431925918433403"
+            ]
+          },
+          {
+            "author": "Peter Steinberger",
+            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
+            "summary": "Landed a fix for that in OpenClaw yesterday (for the few folks using the embedded harness instead of codex, since it’s a plugin), most harnesses aren’t updated yet.",
+            "urls": [
+              "https://x.com/steipete/status/2123487048250327497"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "Gemini 4 Neon is getting rave reviews, so I made a new video comparing it to Opus 5.5, my favorite model for everyday work. Some takeaways: 1. Opus is still better at 3D and design from my testing, but Neon is on par or… / People make fun of Google for being large and bureaucratic but I think one of their competitive advantages is they have 100,000+ employees testing their latest models and tools before wide release. At that employee popu…",
+            "urls": [
+              "https://x.com/petergyang/status/2123540875733315815",
+              "https://x.com/petergyang/status/2123648490844897389"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "No Priors",
+            "title": "Superintelligence Needs the Physical World with CEO and Co-Founder of Arda Bob McGrew",
+            "summary": "Speaker 1 | 00:00 - 00:17 If you look around outside, how different is anything from ten years ago before AI happened? Not very different at all. The first time you were in your Waymo, you thought to yourself, this is amazing. Probably the third time you're in your Waymo, you're like, man, this traffic sucks. We need to break out of this pure focus on the d…",
+            "url": "https://www.youtube.com/watch?v=_wLzJINt9iQ"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-11-19",
@@ -674,120 +788,6 @@
             "title": "A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning",
             "summary": "Speaker 1 | 00:00 - 00:32 A lot of our philosophy in product actually comes from Apple. In, like, the early two thousands, you had a computer that had access to the Internet, and you had a phone that you could make phone calls. And I think no one really thought to put the two together until Apple said, okay. What if you actually put the Internet on a handhe…",
             "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-11-13",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 16,
-        "totalTweets": 38,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-11-13T06:28:02.651Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "How can codex be improved? Try not to say model. / We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
-            "urls": [
-              "https://x.com/thsottiaux/status/2121062974161092792",
-              "https://x.com/thsottiaux/status/2120999993079451919"
-            ]
-          },
-          {
-            "author": "Claude",
-            "role": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Tal…",
-            "summary": "Claude joins as a visible participant. Ask it a question out loud or in chat, or have it start a doc. Your team can see what it’s building and correct it as it takes shape. / Claude Meetings is starting with Google Meet, with support for other video conferencing platforms coming soon. Learn more:",
-            "urls": [
-              "https://x.com/claudeai/status/2120973996304830859",
-              "https://x.com/claudeai/status/2120974000746582357"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "Makes total sense that congressman leading the inquiry into Jensen’s alleged foreign ties is the same guy who showed up at the Capitol wearing a foreign army uniform. He’s an expert at foreign ties! / China hawkishness was right-coded rhetoric. The Cathedral will turn it into actual power.",
-            "urls": [
-              "https://x.com/amasad/status/2121081862659739870",
-              "https://x.com/amasad/status/2120793075836768333"
-            ]
-          },
-          {
-            "author": "Josh Woodward",
-            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-            "summary": "Gemini, now from your point of view / Introducing Gemini 4 Hydrogen, cutting-edge intelligence for everyone! Now in @GeminiApp. It's fast. It's smart. It's a big jump. Enjoy!",
-            "urls": [
-              "https://x.com/joshwoodward/status/2120990820631450061",
-              "https://x.com/joshwoodward/status/2120942262054232392"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "There’s some new agent launching later this week and marketers offer a lot of money to say nice things about it on X. Keep a lookout on honest reviews 🫠 / My team wrote about how we run persistent agents inside OpenAI.",
-            "urls": [
-              "https://x.com/steipete/status/2121009372470067544",
-              "https://x.com/steipete/status/2121058770767982997"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "Ok this is a big deal. We’ve been testing Gemini 4 Hydrogen in early access with the Box AI Complex Work Eval, and it’s a serious jump for fast models. Hydrogen is 5 percentage points better in accuracy than Gemini 3.8… / What a mess 😕",
-            "urls": [
-              "https://x.com/levie/status/2120947988143198302",
-              "https://x.com/levie/status/2120880718868045973"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "What happens to frameworks in the agents era? to component libraries? to @shadcn? The answer is: we need to drill deeper. Delete the part, optimize, accelerate, automate. UI SDK is like the x86 instruction set for agent…",
-            "urls": [
-              "https://x.com/rauchg/status/2120966768483262648"
-            ]
-          },
-          {
-            "author": "Alex Albert",
-            "role": "Research @AnthropicAI",
-            "summary": "A lot of getting good work out of Claude now is just finding the context it’s missing and figuring out how to close that gap Claude Meetings is one way to bring in the remaining slices and has proved very useful interna…",
-            "urls": [
-              "https://x.com/alexalbert__/status/2120983722182988206"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "Can't tell if this is real but if NVIDIA employees feels strongly doing something like this isn't a bad idea. / This man clearly was an inspiration to many people and well respected by NVIDIA employees which makes his downfall all the sadder 😢",
-            "urls": [
-              "https://x.com/petergyang/status/2121100531502620784",
-              "https://x.com/petergyang/status/2121035933541941297"
-            ]
-          },
-          {
-            "author": "Aditya Agarwal",
-            "role": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbo…",
-            "summary": "We would not be where we are today without Jensen. It is viscerally painful to see what is happening.",
-            "urls": [
-              "https://x.com/adityaag/status/2120924059709956201"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "No Priors",
-            "title": "Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg",
-            "summary": "Speaker 1 | 00:00 - 00:24 The large part of the industry makes medicines is this very empirically driven process. Where things really fail is in the clinic because we never could see the problems until we get to the point where we put these drugs in patients and we say, Oh no, like, there's toxicity that we didn't account for. And so the really big opportun…",
-            "url": "https://www.youtube.com/@NoPriorsPodcast"
           }
         ]
       },
