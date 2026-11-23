@@ -1,7 +1,123 @@
 {
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-11-22",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 12,
+        "totalTweets": 23,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-11-22T06:27:10.098Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there? / Going to check out this threads thing",
+            "urls": [
+              "https://x.com/thsottiaux/status/2124322968499282388",
+              "https://x.com/thsottiaux/status/2124277855131664869"
+            ]
+          },
+          {
+            "author": "Garry Tan",
+            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
+            "summary": "Given AI and all the GTA VI hate, how long before a vibe coded hobbyist PC port with all the hated design flaws removed? Could literally be a month or two with enough tokens. / Been using this for about half of my work with my software factory. Best experience I have had so far across both desktop mobile and cloud.",
+            "urls": [
+              "https://x.com/garrytan/status/2124154280450134231",
+              "https://x.com/garrytan/status/2124151626286170609"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "This post nails why we why we should take the Riemann Hypothesis breakthrough very seriously, even beyond math. We’re entering an era where solving problems will look very different from how we solved them in the past.…",
+            "urls": [
+              "https://x.com/levie/status/2124252844710887549"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "A high school kid is recompiling the GTA6 to work on PC. What’s more interesting is how they’re github issues to coordinate tasks across agent swarms. A new model for open source? / Amuse, built by Replit Missions, is open source!",
+            "urls": [
+              "https://x.com/amasad/status/2124345037408686228",
+              "https://x.com/amasad/status/2124277564596519355"
+            ]
+          },
+          {
+            "author": "Thariq",
+            "role": "at your service, formerly Claude Code @anthropicai",
+            "summary": "yes, Claude is doing a lot of the technical work. and yes, maybe future models will one-shot \"prove the Riemann hypothesis\" or \"make javascript a static language\" but I believe collaborating with models to push the fron… / it seems to me that as models get more powerful, the skill of working with them becomes more and more important, and I have not seen diminishing returns on that skill yet we have many many more problems to solve",
+            "urls": [
+              "https://x.com/trq212/status/2124239684536840682",
+              "https://x.com/trq212/status/2124239686482923553"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "is there any possible benign explanation why these providers were secretly phoning home? because wtf",
+            "urls": [
+              "https://x.com/swyx/status/2124147427313861009"
+            ]
+          },
+          {
+            "author": "Matt Turck",
+            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
+            "summary": "First Slush wrap up * best startup conference * visually striking, in a gothic dark chic kinda way * organized by students! Super pros * convos about Russia threat (next door) is a whole vibe * conferences in non-tech h… / The art of tweeting excitedly about AI solving the Riemann Hypothesis when you have no idea what the Riemann Hypothesis is",
+            "urls": [
+              "https://x.com/mattturck/status/2124119755485245539",
+              "https://x.com/mattturck/status/2124239403107459490"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "I get the complaints about GTA VI now wtf is this / The new ChatGPT mobile app is very clean but if you miss your codex threads like me you can go to the right most tab and hold to pin codex to the bottom nav. This isn’t obvious at all btw @chatgpt",
+            "urls": [
+              "https://x.com/petergyang/status/2124197623683027363",
+              "https://x.com/petergyang/status/2124217176655843483"
+            ]
+          },
+          {
+            "author": "Dan Shipper",
+            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
+            "summary": "great piece benchmarks have to choose what to measure and what to keep constant—numbers go up doesn't always mean what you think it means another good window into this is to look in rich detail at how AI-pilled teams ar… / this is gonna be up there with that patent officer who said “everything that will be invented has been invented” in the hall of fame of bad technology takes",
+            "urls": [
+              "https://x.com/danshipper/status/2124292892168475086",
+              "https://x.com/danshipper/status/2124315217936945171"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Harvard’17. Instagram:  GitHub:",
+            "summary": "Build for yourself",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2124309178982572442"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "No Priors",
+            "title": "Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg",
+            "summary": "Speaker 1 | 00:00 - 00:24 The large part of the industry makes medicines is this very empirically driven process. Where things really fail is in the clinic because we never could see the problems until we get to the point where we put these drugs in patients and we say, Oh no, like, there's toxicity that we didn't account for. And so the really big opportun…",
+            "url": "https://www.youtube.com/watch?v=IiKf3BgBezE"
+          }
+        ]
+      },
+      "errors": [
+        "Podcast feed problem: Podcast: Transcript error for \"⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC\": HTTP 502: {\"status\":\"error\",\"code\":\"transcription_submit_failed\",\"message\":\"The transcription service couldn't start this episode.\"}"
+      ]
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-11-21",
@@ -684,120 +800,6 @@
             "title": "Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership with CEO Vlad Tenev",
             "summary": "Speaker 1 | 00:00 - 00:07 Prediction markets are an evolution of news. You just can see what's happening and what's likely to happen in the future through the odds. Speaker 2 | 00:07 - 00:11 What is your reaction to the revolution in math that's happening with AI today? Speaker 1 | 00:11 - 00:20 It's too centralized, right? It's like AI companies with their…",
             "url": "https://www.youtube.com/@NoPriorsPodcast"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-11-15",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 13,
-        "totalTweets": 26,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-11-15T06:26:52.164Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "We’ve entered Murphy’s world. Anything that can go wrong will go wrong. With billions of things happening at once, recursively interdependent and accelerating rapidly, what’s once considered a rare failure is now a dail… / Technology is inherently recursively self-improving and the degree of autonomy has been going up overtime. AI is an accelerant but it didn’t not start this cycle. Douglas Engelbart understood this.",
-            "urls": [
-              "https://x.com/amasad/status/2121519931741127144",
-              "https://x.com/amasad/status/2121549054173757554"
-            ]
-          },
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
-            "urls": [
-              "https://x.com/thsottiaux/status/2121845965997101118"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "Got to experience the magic of @uisdk. Two prompts of fx + Gemini Argon. Pure Web Components. No framework. The agent reused 14 UI SDK behaviors out of the box 🤯: window resizing, drag, menubar hover-switching, typeahe… / An awesome day for humanity ✦ · ✧ · ✦ · ✧ ✧ · ✦ ✧ · ✧",
-            "urls": [
-              "https://x.com/rauchg/status/2121804295381377342",
-              "https://x.com/rauchg/status/2121825273373229134"
-            ]
-          },
-          {
-            "author": "Garry Tan",
-            "role": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer…",
-            "summary": "Do all this and use it with gbrain :-) / It turns out paper chart and copper wire and an antiquated system that is brittle and doesn’t have enough failsafe let alone any modern software is not serving the people of America properly. Modernize the FAA.",
-            "urls": [
-              "https://x.com/garrytan/status/2121768476775989404",
-              "https://x.com/garrytan/status/2121727702025765094"
-            ]
-          },
-          {
-            "author": "Josh Woodward",
-            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-            "summary": "New in Gemini: Connect Google Wallet for personal finance insights This is powerful for things like: + making instant charts to visualize your spend + finding sneaky subscription price hikes + making a holiday budget ba… / Available to all Gemini app users in the USA to start",
-            "urls": [
-              "https://x.com/joshwoodward/status/2121755282326102417",
-              "https://x.com/joshwoodward/status/2121755283785699376"
-            ]
-          },
-          {
-            "author": "Peter Yang",
-            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
-            "summary": "Two very useful prompts to try with Fable 5.2: \"/doctor prompt-audit\": Audits your Claude Code setup (Claude md, skills, commands) and proposes fixes. \"/claude-api prompt-audit [skill name]\": Audits one skill in depth.… / And please consider starring the repo to help more people discover it:",
-            "urls": [
-              "https://x.com/petergyang/status/2121649295950762363",
-              "https://x.com/petergyang/status/2121637240132735289"
-            ]
-          },
-          {
-            "author": "Peter Steinberger",
-            "role": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobs…",
-            "summary": "🍿",
-            "urls": [
-              "https://x.com/steipete/status/2121706904917520875"
-            ]
-          },
-          {
-            "author": "Swyx",
-            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
-            "summary": "obviously correct, we are so suboptimal in AI UX rn it is crazy esp given existence of models too cheap to meter / holy shit u guys like a lot of poteto",
-            "urls": [
-              "https://x.com/swyx/status/2121757606801023085",
-              "https://x.com/swyx/status/2121815348370612414"
-            ]
-          },
-          {
-            "author": "Dan Shipper",
-            "role": "ceo @every | the only subscription you need to stay at the edge of AI",
-            "summary": "if you want all of the raw alpha from @every you should have your agent read our frontier feed we publish all of our frontier team's experiments with AI including raw code and short writeups no faster way to get inspire… / live look of how Fable wrote an email for me this morning",
-            "urls": [
-              "https://x.com/danshipper/status/2121620539655819305",
-              "https://x.com/danshipper/status/2121652571211510094"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "AI models are inevitably going to keep getting better and better at all coding, tool and computer use, math, and other coding-related tasks. As a result, agents that can use software to do their work, or generate code f…",
-            "urls": [
-              "https://x.com/levie/status/2121686564078297461"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "Unsupervised Learning",
-            "title": "Ep 97: Jev Creator on Decision Models, Benchmark Fatigue &amp; Why the Labs Missed It",
-            "summary": "Speaker 1 | 00:00 - 00:06 As you think about Anthropic, is that something you're optimistic on? It's like, hey. That's that's undervalued or something you're like, oh, I don't know what's gonna happen to that. Speaker 2 | 00:06 - 00:32 I get the sense that a lot of the expectations baked in are ones that are not just product level, but based on, like, misun…",
-            "url": "https://www.youtube.com/@RedpointAI"
           }
         ]
       },
