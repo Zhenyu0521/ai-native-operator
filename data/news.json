@@ -1,7 +1,117 @@
 {
-  "updatedAt": "2026-11-26",
+  "updatedAt": "2026-11-27",
   "workflow": "follow-builders",
   "groups": [
+    {
+      "title": "AI Builders Digest",
+      "date": "2026-11-27",
+      "source": "follow-builders",
+      "source_url": "https://github.com/zarazhangrui/follow-builders",
+      "stats": {
+        "podcastEpisodes": 1,
+        "xBuilders": 12,
+        "totalTweets": 18,
+        "blogPosts": 0,
+        "feedGeneratedAt": "2026-11-27T06:30:29.812Z"
+      },
+      "sections": {
+        "x_twitter": [
+          {
+            "author": "Sam Altman",
+            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+            "summary": "I am thankful for a lot of things in life, but my family is the best thing that has ever happened to me. The two most common things people said to me before having kids is that it's better than anyone can explain to you… / Ven was one of the earliest believers that we could use our then-current model to solve millenium prize problems. There are a lot of brilliant people in the world, but being brilliant and also having correctly-placed co…",
+            "urls": [
+              "https://x.com/sama/status/2125983591389974980",
+              "https://x.com/sama/status/2125990371897557278"
+            ]
+          },
+          {
+            "author": "Thibault Sottiaux",
+            "role": "Codex & ChatGPT @OpenAI",
+            "summary": "Banked reset is online",
+            "urls": [
+              "https://x.com/thsottiaux/status/2125853628250599730"
+            ]
+          },
+          {
+            "author": "Aaron Levie",
+            "role": "ceo @box - your business lives in content. unleash it with AI",
+            "summary": "Huge opportunity right now to build new services firms from the ground up, or transform existing ones, with agents at the center. The expertise that services firms in theory should have is as important as ever because y…",
+            "urls": [
+              "https://x.com/levie/status/2125983542475894821"
+            ]
+          },
+          {
+            "author": "Guillermo Rauch",
+            "role": "@vercel CEO",
+            "summary": "I'm thankful for all the optimists. Americans are a profoundly optimistic bunch, and I think it's one of the things you really appreciate and are drawn to as an immigrant. In order to define the future and lead the worl…",
+            "urls": [
+              "https://x.com/rauchg/status/2126037393241424065"
+            ]
+          },
+          {
+            "author": "Amjad Masad",
+            "role": "ceo @replit. civilizationist",
+            "summary": "Google really cooked with Gemini 4. Take them for a ride on Replit!",
+            "urls": [
+              "https://x.com/amasad/status/2126018746884243652"
+            ]
+          },
+          {
+            "author": "Peter Yang",
+            "role": "Practical AI tutorials and interviews for busy people | Get my best AI skills and gui…",
+            "summary": "Hey look @elonmusk is giving a SpaceX share to every kid in America I wonder whether NY Times covered this: / This is awesome I just set up Trump accounts for my kids, thank you @elonmusk! One day I hope to take them to see a Starship launch.",
+            "urls": [
+              "https://x.com/petergyang/status/2126046533904896077",
+              "https://x.com/petergyang/status/2126042318793064914"
+            ]
+          },
+          {
+            "author": "Zara Zhang",
+            "role": "Builder. Harvard’17. Instagram:  YouTube:  GitHub:",
+            "summary": "12 tips for people who posted on LinkedIn but now wanna post on X A lot of people I know are moving their posting from LinkedIn to X. When they ask me how I grew 80k followers on X in one year, here’s what I tell them:…",
+            "urls": [
+              "https://x.com/zarazhangrui/status/2126055939749118294"
+            ]
+          },
+          {
+            "author": "Swyx",
+            "role": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations:…",
+            "summary": "i think agentic payments is one of the most divisive yet important themes to get right for 2028. no real in between, either you get in early or you declare its basically never gonna happen / another good one is  - when you refound in public, there's a few good things here: 1. critical feedback from people who aren't paid to say yes to you 2. you are putting a human face on an otherwise corporate feel 3. tur…",
+            "urls": [
+              "https://x.com/swyx/status/2126106139582677088",
+              "https://x.com/swyx/status/2126072968761721013"
+            ]
+          },
+          {
+            "author": "Matt Turck",
+            "role": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Lands…",
+            "summary": "\"Thankful to VCs for their thought leadership, podcasts and market maps\" -- no founder yet (but it's still early on Thanksgiving day)",
+            "urls": [
+              "https://x.com/mattturck/status/2126068708527198482"
+            ]
+          },
+          {
+            "author": "Nikunj Kothari",
+            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
+            "summary": "Last Thanksgiving, I was mildly paranoid about forgetting to text folks who I had spent significant time with last year.. that's when Claude discovered that iMessage & Whatsapp are local databases on your computer. One…",
+            "urls": [
+              "https://x.com/nikunj/status/2126133563292803100"
+            ]
+          }
+        ],
+        "official_blogs": [],
+        "podcasts": [
+          {
+            "source": "Latent Space",
+            "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+            "summary": "And I, um, don't even really feel like I'm bottlenecked by intelligence maybe. Like, maybe I'm bottlenecked by ambition. Like, maybe if I had like a, a larger thing. AI is both, uh, like a industrial revolution and a renaissance, you know? Do we want the model to truly improve itself completely headlessly? It's like not clear to me that, um, this will even…",
+            "url": "https://www.youtube.com/watch?v=Qe9d9dWyED0"
+          }
+        ]
+      },
+      "errors": []
+    },
     {
       "title": "AI Builders Digest",
       "date": "2026-11-26",
@@ -677,120 +787,6 @@
             "title": "Superintelligence Needs the Physical World with CEO and Co-Founder of Arda Bob McGrew",
             "summary": "Speaker 1 | 00:00 - 00:17 If you look around outside, how different is anything from ten years ago before AI happened? Not very different at all. The first time you were in your Waymo, you thought to yourself, this is amazing. Probably the third time you're in your Waymo, you're like, man, this traffic sucks. We need to break out of this pure focus on the d…",
             "url": "https://www.youtube.com/watch?v=_wLzJINt9iQ"
-          }
-        ]
-      },
-      "errors": []
-    },
-    {
-      "title": "AI Builders Digest",
-      "date": "2026-11-19",
-      "source": "follow-builders",
-      "source_url": "https://github.com/zarazhangrui/follow-builders",
-      "stats": {
-        "podcastEpisodes": 1,
-        "xBuilders": 15,
-        "totalTweets": 31,
-        "blogPosts": 0,
-        "feedGeneratedAt": "2026-11-19T06:30:05.741Z"
-      },
-      "sections": {
-        "x_twitter": [
-          {
-            "author": "Thibault Sottiaux",
-            "role": "Codex & ChatGPT @OpenAI",
-            "summary": "How is 6.2 Sol treating you today? / GPT-6.2 Astra is pretty good at hard things. Here the team shared some results on AMD and Jalapeño chip optimizations. I do get the feedback on its communication style and we're working on that, but for really the harde…",
-            "urls": [
-              "https://x.com/thsottiaux/status/2123113107048501273",
-              "https://x.com/thsottiaux/status/2123175166519992652"
-            ]
-          },
-          {
-            "author": "Thariq",
-            "role": "playing WoW forever, formerly Claude Code @anthropicai",
-            "summary": "this is one of those reasons why I don't think most people will really generate their own software good software is a set of strong opinions and I'd rather have something that's been really thought through by someone el… / making your own software is tough, even with AI, because it's hard to know what you really want I didn't end up sticking with this, the modes weren't the right way for me to organize my work gonna a different take that’…",
-            "urls": [
-              "https://x.com/trq212/status/2123106370161705127",
-              "https://x.com/trq212/status/2123106368492298653"
-            ]
-          },
-          {
-            "author": "Sam Altman",
-            "role": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-            "summary": "So fun to do DealBook with my friend and partner of 11 years, @gdb. Thrilled the world got to see the brilliant, fiercely determined leader I have the privilege of working with every day. Greg’s role at OpenAI has evolv…",
-            "urls": [
-              "https://x.com/sama/status/2123103873166381287"
-            ]
-          },
-          {
-            "author": "Guillermo Rauch",
-            "role": "@vercel CEO",
-            "summary": "I’m being pitched a new inference neocloud company on average every two days. No exaggeration. I take every entrepreneur seriously and I look deeply into each. But it’s hard to fathom this being sustainable. At the same… / One of the most impressive things I've seen, and I think this is an important advancement to the state of the art. Message boards were the enabling technology of both the Navier-Stokes math breakthrough and even the Ope…",
-            "urls": [
-              "https://x.com/rauchg/status/2123203741570740504",
-              "https://x.com/rauchg/status/2123237505810178434"
-            ]
-          },
-          {
-            "author": "Nikunj Kothari",
-            "role": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @…",
-            "summary": "Ok this happens a lot so I thought I’ll lay it out here.. founder friend: my pitch isn’t working on the fundraising side. haaalp. *proceeds to give me the pitch* me: ambition is what’s being rewarded right now. what do… / SF VCs (who didn’t invest in Anthropic): Dear Lord, it’d be nice to have some liquidity so that I can raise my next fund. Lord: Tathastu VC: No, not that kind of liquidity 🤦‍♂️",
-            "urls": [
-              "https://x.com/nikunj/status/2123066196052381864",
-              "https://x.com/nikunj/status/2123183421002588327"
-            ]
-          },
-          {
-            "author": "Google Labs",
-            "role": "Google’s home for our latest AI tools and experiments.",
-            "summary": "🚨NEW EXPERIMENT 🚨 Please join us in welcoming Stitch Loop, an always-on product agent that works non-stop to help lean teams build better products. Join the waitlist: / Create a world from one sentence, then change it while you’re standing inside 🌐 Project Genie now runs on @GoogleDeepMind’s Genie 4. Here’s what’s new: — Prompt mid-session to edit your world live — Create worlds conve…",
-            "urls": [
-              "https://x.com/GoogleLabs/status/2123102389775573314",
-              "https://x.com/GoogleLabs/status/2123118145552749015"
-            ]
-          },
-          {
-            "author": "Zara Zhang",
-            "role": "Builder. Harvard’17. Instagram:  GitHub:",
-            "summary": "Instead of being massively viral for 1 day, it's much better to be just a little bit viral every week, and watch it compound Build a system that consistently delivers high-quality content over a long period of time / Can't think of a better way to present books ❤️ I own 10 out of the 21 stripe press books",
-            "urls": [
-              "https://x.com/zarazhangrui/status/2122953849120153714",
-              "https://x.com/zarazhangrui/status/2122943348860506462"
-            ]
-          },
-          {
-            "author": "Josh Woodward",
-            "role": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-            "summary": "Introducing Gemini 4 Neon. The shipping continues! Frontier-grade intelligence that’s faster, cheaper, and follows complex instructions well. So good to use! / Read more and try it out in @GeminiApp",
-            "urls": [
-              "https://x.com/joshwoodward/status/2123177835254952348",
-              "https://x.com/joshwoodward/status/2123178015874302328"
-            ]
-          },
-          {
-            "author": "Amjad Masad",
-            "role": "ceo @replit. civilizationist",
-            "summary": "One of the more fascinating things in the OpenAI/Hugging Face incident was reading the message boards where agents communicate. With Replit Missions you can see how the agents are coordinating and talking.",
-            "urls": [
-              "https://x.com/amasad/status/2123133509028008331"
-            ]
-          },
-          {
-            "author": "Aaron Levie",
-            "role": "ceo @box - your business lives in content. unleash it with AI",
-            "summary": "Regardless of what it’s called, we’re clearly moving to yet another era of AI agents in our work. We’ve quickly jumped from agents that spit out a quick answer for you, to today agents that you orchestrate inside of a s…",
-            "urls": [
-              "https://x.com/levie/status/2123278949749059756"
-            ]
-          }
-        ],
-        "official_blogs": [],
-        "podcasts": [
-          {
-            "source": "AI & I by Every",
-            "title": "Notion’s Founder on the One Thing Your AI Is Missing",
-            "summary": "Everybody can start making their own software, no? In some sense, the original vision of the 60s, 70s, hippie generation of computing come to life, and that's actually why Notion was started. Notion was about how do we bring this computing power to as many people as possible without forcing them to learn how to code. Hello and welcome to the Every Podcast.…",
-            "url": "https://www.youtube.com/watch?v=PGWvMrF4XIA"
           }
         ]
       },
